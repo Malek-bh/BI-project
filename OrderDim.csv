@@ -1,0 +1,1984 @@
+Invoice ID,Product line,Date,Quantity,Shipment_mode,shipping cost,Payment,warehouse_name
+750-67-8428,Health and beauty,2019-01-05,7,ExpressAir,7.469,Ewallet,WH1
+226-31-3081,Electronic accessories,2019-03-08,5,ExpressAir,1.528,Cash,WH2
+631-41-3108,Home and lifestyle,2019-03-03,7,Regular Air,2.3165,Credit card,WH1
+123-19-1176,Health and beauty,2019-01-27,8,Regular Air,2.911,Ewallet,WH1
+373-73-7910,Sports and travel,2019-02-08,7,Special Air  ,6.9048,Ewallet,WH1
+699-14-3026,Electronic accessories,2019-03-25,7,Regular Air,4.2695,Ewallet,WH2
+355-53-5943,Electronic accessories,2019-02-25,6,Special Air  ,5.5072,Ewallet,WH1
+315-22-5665,Home and lifestyle,2019-02-24,10,Special Air  ,5.8848,Ewallet,WH2
+665-32-9167,Health and beauty,2019-01-10,2,Regular Air,1.813,Credit card,WH1
+692-92-5582,Food and beverages,2019-02-20,3,Regular Air,2.742,Credit card,WH3
+351-62-0822,Fashion accessories,2019-02-06,4,Special Air  ,1.1584,Ewallet,WH3
+529-56-3974,Electronic accessories,2019-03-09,4,Special Air  ,2.0408,Cash,WH3
+365-64-0515,Electronic accessories,2019-02-12,5,Special Air  ,3.756,Ewallet,WH1
+252-56-2699,Food and beverages,2019-02-07,10,Special Air  ,3.4552,Ewallet,WH1
+829-34-3910,Health and beauty,2019-03-29,10,Special Air  ,5.7104,Cash,WH1
+299-46-1805,Sports and travel,2019-01-15,6,ExpressAir,9.372,Cash,WH3
+656-95-9349,Health and beauty,2019-03-11,7,Special Air  ,5.5144,Credit card,WH1
+765-26-6951,Sports and travel,2019-01-01,6,ExpressAir,7.261,Credit card,WH1
+329-62-1586,Food and beverages,2019-01-21,3,Special Air  ,4.3736,Credit card,WH1
+319-50-3348,Home and lifestyle,2019-03-11,2,ExpressAir,4.03,Ewallet,WH3
+300-71-4605,Electronic accessories,2019-02-25,5,ExpressAir,8.604,Ewallet,WH2
+371-85-5789,Health and beauty,2019-03-05,3,ExpressAir,8.798,Ewallet,WH3
+273-16-6619,Home and lifestyle,2019-03-15,2,Regular Air,1.66,Credit card,WH3
+636-48-8204,Electronic accessories,2019-02-17,5,ExpressAir,3.456,Ewallet,WH1
+549-59-1358,Sports and travel,2019-03-02,3,Special Air  ,7.0904,Ewallet,WH1
+227-03-5010,Home and lifestyle,2019-03-22,8,Regular Air,2.6295,Credit card,WH1
+649-29-6775,Fashion accessories,2019-02-08,1,ExpressAir,3.352,Cash,WH3
+189-17-4241,Fashion accessories,2019-03-10,2,Special Air  ,7.0136,Credit card,WH1
+145-94-9061,Food and beverages,2019-01-25,5,Special Air  ,7.0688,Cash,WH3
+848-62-7243,Health and beauty,2019-03-15,9,ExpressAir,2.489,Cash,WH1
+871-79-8483,Fashion accessories,2019-02-25,5,ExpressAir,9.413,Credit card,WH3
+149-71-6266,Sports and travel,2019-01-28,9,ExpressAir,7.807,Cash,WH3
+640-49-2076,Sports and travel,2019-01-10,8,Regular Air,4.189,Cash,WH3
+595-11-5460,Health and beauty,2019-03-15,2,Special Air  ,7.7264,Credit card,WH1
+183-56-6882,Food and beverages,2019-02-06,4,Special Air  ,7.9536,Ewallet,WH2
+232-16-2483,Sports and travel,2019-01-07,1,Regular Air,3.406,Ewallet,WH2
+129-29-8530,Sports and travel,2019-03-10,5,Special Air  ,5.0096,Ewallet,WH1
+272-65-1806,Electronic accessories,2019-01-15,9,ExpressAir,6.088,Ewallet,WH1
+333-73-7901,Health and beauty,2019-03-23,8,ExpressAir,5.492,Ewallet,WH2
+777-82-7220,Home and lifestyle,2019-03-03,8,Regular Air,1.506,Cash,WH3
+280-35-5823,Home and lifestyle,2019-01-17,1,Special Air  ,6.9376,Ewallet,WH3
+554-53-8700,Home and lifestyle,2019-02-02,2,ExpressAir,5.611,Cash,WH2
+354-25-5821,Sports and travel,2019-02-08,6,Special Air  ,5.5296,Cash,WH3
+228-96-1411,Food and beverages,2019-03-04,8,Regular Air,4.935,Cash,WH2
+617-15-4209,Health and beauty,2019-03-16,2,ExpressAir,1.537,Cash,WH2
+132-32-9879,Electronic accessories,2019-03-09,4,Special Air  ,7.5168,Cash,WH3
+370-41-7321,Health and beauty,2019-02-27,9,Regular Air,2.8345,Credit card,WH3
+727-46-3608,Food and beverages,2019-02-06,9,Special Air  ,1.6008,Ewallet,WH3
+669-54-1719,Electronic accessories,2019-02-10,6,ExpressAir,1.893,Credit card,WH3
+574-22-5561,Fashion accessories,2019-03-19,10,Special Air  ,6.6104,Ewallet,WH2
+326-78-5178,Food and beverages,2019-02-03,7,ExpressAir,9.14,Cash,WH2
+162-48-8011,Food and beverages,2019-02-10,5,Special Air  ,3.5672,Cash,WH1
+616-24-2851,Fashion accessories,2019-03-22,4,ExpressAir,1.787,Ewallet,WH3
+778-71-5554,Fashion accessories,2019-01-25,1,Regular Air,0.7715,Credit card,WH2
+242-55-6721,Home and lifestyle,2019-03-07,2,Regular Air,0.808,Ewallet,WH3
+399-46-5918,Electronic accessories,2019-02-28,8,ExpressAir,8.598,Cash,WH2
+106-35-6779,Home and lifestyle,2019-03-27,2,Regular Air,2.217,Cash,WH1
+635-40-6220,Health and beauty,2019-02-07,8,Regular Air,4.48,Ewallet,WH1
+817-48-8732,Home and lifestyle,2019-01-20,10,Regular Air,3.6175,Cash,WH1
+120-06-4233,Electronic accessories,2019-03-12,6,Special Air  ,2.4488,Cash,WH2
+285-68-5083,Sports and travel,2019-02-15,3,Special Air  ,1.9792,Credit card,WH2
+803-83-5989,Home and lifestyle,2019-02-24,6,ExpressAir,5.573,Ewallet,WH2
+347-34-2234,Sports and travel,2019-02-03,9,Regular Air,2.7535,Ewallet,WH3
+199-75-8169,Sports and travel,2019-03-06,10,ExpressAir,1.581,Credit card,WH1
+853-23-2453,Health and beauty,2019-02-14,4,ExpressAir,7.574,Cash,WH3
+877-22-3308,Health and beauty,2019-03-13,10,Special Air  ,1.2696,Cash,WH1
+838-78-4295,Health and beauty,2019-02-10,2,Special Air  ,2.6776,Ewallet,WH2
+109-28-2512,Fashion accessories,2019-01-07,6,ExpressAir,9.761,Ewallet,WH3
+232-11-3025,Sports and travel,2019-01-24,10,Regular Air,3.9385,Cash,WH1
+382-03-4532,Health and beauty,2019-02-02,1,Special Air  ,1.4664,Cash,WH1
+393-65-2792,Food and beverages,2019-01-06,10,Special Air  ,7.1584,Credit card,WH2
+796-12-2025,Fashion accessories,2019-02-11,10,ExpressAir,6.212,Cash,WH2
+510-95-6347,Food and beverages,2019-03-05,3,ExpressAir,4.852,Ewallet,WH3
+841-35-6630,Electronic accessories,2019-03-09,6,Regular Air,3.7955,Cash,WH2
+287-21-9091,Home and lifestyle,2019-01-22,9,ExpressAir,7.467,Ewallet,WH1
+732-94-0499,Electronic accessories,2019-01-13,10,ExpressAir,4.165,Credit card,WH2
+263-10-3913,Fashion accessories,2019-01-09,9,Regular Air,2.452,Credit card,WH2
+381-20-0914,Fashion accessories,2019-01-12,9,Regular Air,1.0005,Credit card,WH1
+829-49-1914,Food and beverages,2019-03-05,10,Special Air  ,6.2648,Ewallet,WH2
+756-01-7507,Health and beauty,2019-01-22,5,ExpressAir,2.038,Cash,WH2
+870-72-4431,Health and beauty,2019-01-21,6,ExpressAir,9.919,Credit card,WH2
+847-38-7188,Food and beverages,2019-01-26,3,ExpressAir,9.668,Ewallet,WH3
+480-63-2856,Food and beverages,2019-01-23,8,Regular Air,0.9625,Ewallet,WH2
+787-56-0757,Food and beverages,2019-02-23,4,Special Air  ,6.4288,Credit card,WH2
+360-39-5055,Sports and travel,2019-03-09,5,Regular Air,2.4455,Cash,WH2
+730-50-9884,Sports and travel,2019-03-05,7,Regular Air,4.153,Ewallet,WH2
+362-58-8315,Fashion accessories,2019-03-25,5,Special Air  ,6.1216,Cash,WH2
+633-44-8566,Food and beverages,2019-03-27,7,Special Air  ,3.9504,Credit card,WH1
+504-35-8843,Sports and travel,2019-01-02,1,Special Air  ,3.3976,Cash,WH1
+318-68-5053,Health and beauty,2019-02-27,6,ExpressAir,7.699,Cash,WH3
+565-80-5980,Home and lifestyle,2019-01-23,4,ExpressAir,4.738,Cash,WH2
+225-32-0908,Sports and travel,2019-01-26,10,ExpressAir,4.486,Ewallet,WH2
+873-51-0671,Sports and travel,2019-01-10,7,ExpressAir,2.198,Ewallet,WH1
+152-08-9985,Health and beauty,2019-03-12,9,Special Air  ,5.1488,Credit card,WH3
+512-91-0811,Health and beauty,2019-02-06,1,Regular Air,4.4875,Credit card,WH2
+594-34-4444,Electronic accessories,2019-03-08,1,Regular Air,4.858,Ewallet,WH1
+766-85-7061,Health and beauty,2019-03-29,10,Regular Air,4.3935,Ewallet,WH3
+871-39-9221,Electronic accessories,2019-02-09,6,Special Air  ,0.996,Cash,WH2
+865-92-6136,Food and beverages,2019-03-23,3,Special Air  ,4.22,Ewallet,WH1
+733-01-9107,Home and lifestyle,2019-03-05,6,Special Air  ,6.616,Cash,WH3
+163-56-7055,Fashion accessories,2019-03-26,1,ExpressAir,4.871,Cash,WH2
+189-98-2939,Fashion accessories,2019-03-01,9,ExpressAir,7.855,Cash,WH2
+551-21-3069,Electronic accessories,2019-02-01,9,Special Air  ,1.8456,Cash,WH2
+212-62-1842,Food and beverages,2019-03-28,6,Regular Air,2.913,Cash,WH1
+716-39-1409,Health and beauty,2019-03-19,7,Regular Air,1.5175,Cash,WH3
+704-48-3927,Electronic accessories,2019-01-12,10,Regular Air,4.4335,Ewallet,WH1
+628-34-3388,Fashion accessories,2019-01-05,6,Special Air  ,2.1904,Credit card,WH2
+630-74-5166,Sports and travel,2019-03-22,6,ExpressAir,6.213,Cash,WH1
+588-01-7461,Food and beverages,2019-03-24,9,Regular Air,1.699,Cash,WH2
+861-77-0145,Electronic accessories,2019-03-03,10,Special Air  ,6.5576,Cash,WH2
+479-26-8945,Sports and travel,2019-02-05,2,ExpressAir,1.649,Ewallet,WH3
+210-67-5886,Health and beauty,2019-02-05,3,ExpressAir,9.821,Credit card,WH2
+227-78-1148,Fashion accessories,2019-02-15,7,ExpressAir,7.284,Cash,WH3
+645-44-1170,Home and lifestyle,2019-01-19,9,ExpressAir,5.807,Ewallet,WH1
+237-01-6122,Home and lifestyle,2019-02-01,9,Regular Air,4.0395,Credit card,WH2
+225-98-1496,Fashion accessories,2019-03-02,3,Special Air  ,2.1616,Credit card,WH2
+291-32-1427,Fashion accessories,2019-03-05,5,Special Air  ,1.7552,Ewallet,WH3
+659-65-8956,Fashion accessories,2019-01-16,1,Special Air  ,4.1088,Ewallet,WH3
+642-32-2990,Food and beverages,2019-02-02,10,ExpressAir,1.096,Ewallet,WH1
+378-24-2715,Home and lifestyle,2019-01-20,2,ExpressAir,5.344,Ewallet,WH3
+638-60-7125,Electronic accessories,2019-02-14,8,ExpressAir,9.956,Credit card,WH1
+659-36-1684,Sports and travel,2019-01-12,7,Regular Air,2.856,Credit card,WH2
+219-22-9386,Sports and travel,2019-03-09,9,Special Air  ,7.9968,Credit card,WH3
+336-78-2147,Home and lifestyle,2019-03-13,8,Special Air  ,5.1128,Credit card,WH2
+268-27-6179,Fashion accessories,2019-03-09,8,Regular Air,2.8235,Ewallet,WH3
+668-90-8900,Home and lifestyle,2019-03-10,7,ExpressAir,9.369,Credit card,WH1
+870-54-3162,Sports and travel,2019-01-27,5,Regular Air,1.6125,Cash,WH1
+189-08-9157,Fashion accessories,2019-01-08,9,Regular Air,1.5865,Credit card,WH2
+663-86-9076,Food and beverages,2019-01-08,8,Special Air  ,5.4832,Ewallet,WH2
+549-84-7482,Sports and travel,2019-02-08,9,ExpressAir,9.028,Ewallet,WH3
+191-10-6171,Fashion accessories,2019-01-25,7,Special Air  ,3.1696,Cash,WH3
+802-70-5316,Sports and travel,2019-03-06,6,Special Air  ,7.3704,Cash,WH1
+695-51-0018,Sports and travel,2019-02-10,4,Regular Air,1.742,Cash,WH3
+590-83-4591,Electronic accessories,2019-02-17,6,Regular Air,4.3725,Credit card,WH3
+483-71-1164,Health and beauty,2019-03-08,6,Regular Air,4.065,Ewallet,WH2
+597-78-7908,Fashion accessories,2019-02-18,3,Regular Air,4.511,Cash,WH2
+700-81-1757,Electronic accessories,2019-01-18,5,Special Air  ,2.1048,Credit card,WH1
+354-39-5160,Home and lifestyle,2019-02-18,6,ExpressAir,3.442,Cash,WH1
+241-72-9525,Sports and travel,2019-02-16,10,Special Air  ,4.1528,Cash,WH3
+575-30-8091,Sports and travel,2019-03-16,8,ExpressAir,7.25,Ewallet,WH1
+731-81-9469,Sports and travel,2019-01-23,10,ExpressAir,8.98,Credit card,WH2
+280-17-4359,Health and beauty,2019-01-25,10,ExpressAir,9.05,Cash,WH2
+338-65-2210,Health and beauty,2019-02-05,10,Special Air  ,5.488,Cash,WH2
+488-25-4221,Food and beverages,2019-02-22,1,ExpressAir,3.041,Credit card,WH2
+239-10-7476,Home and lifestyle,2019-01-21,6,Special Air  ,6.236,Ewallet,WH1
+458-41-1477,Health and beauty,2019-03-08,6,ExpressAir,4.626,Credit card,WH2
+685-64-1609,Fashion accessories,2019-02-10,10,ExpressAir,3.014,Ewallet,WH1
+568-90-5112,Health and beauty,2019-03-19,4,Regular Air,3.307,Credit card,WH2
+262-47-2794,Home and lifestyle,2019-03-06,8,ExpressAir,7.186,Credit card,WH3
+238-49-0436,Health and beauty,2019-03-27,8,Regular Air,1.623,Credit card,WH1
+608-96-3517,Fashion accessories,2019-03-23,4,ExpressAir,9.154,Credit card,WH3
+584-86-7256,Sports and travel,2019-03-11,7,Special Air  ,2.7648,Credit card,WH2
+746-94-0204,Fashion accessories,2019-01-29,9,Regular Air,4.162,Credit card,WH1
+214-17-6927,Food and beverages,2019-02-07,6,Special Air  ,1.3184,Ewallet,WH2
+400-89-4171,Sports and travel,2019-01-28,8,Special Air  ,6.4776,Cash,WH2
+782-95-9291,Food and beverages,2019-02-20,5,Special Air  ,7.3832,Credit card,WH1
+279-74-2924,Electronic accessories,2019-01-04,1,Regular Air,3.6085,Cash,WH3
+307-85-2293,Home and lifestyle,2019-03-07,5,Regular Air,2.514,Ewallet,WH3
+743-04-1105,Health and beauty,2019-03-30,9,Regular Air,4.861,Ewallet,WH3
+423-57-2993,Sports and travel,2019-03-27,6,ExpressAir,9.339,Ewallet,WH3
+894-41-5205,Food and beverages,2019-01-19,8,Special Air  ,3.4544,Credit card,WH2
+275-28-0149,Sports and travel,2019-02-25,1,Regular Air,3.1845,Cash,WH1
+101-17-6199,Food and beverages,2019-03-13,7,Regular Air,2.2895,Credit card,WH1
+423-80-0988,Sports and travel,2019-01-30,2,Special Air  ,6.112,Ewallet,WH2
+548-46-9322,Food and beverages,2019-02-20,10,Regular Air,1.995,Credit card,WH3
+505-02-0892,Health and beauty,2019-02-25,8,Special Air  ,3.4056,Ewallet,WH3
+234-65-2137,Home and lifestyle,2019-01-16,10,Special Air  ,7.6464,Cash,WH2
+687-47-8271,Fashion accessories,2019-02-08,10,ExpressAir,9.898,Credit card,WH1
+796-32-9050,Food and beverages,2019-01-19,6,ExpressAir,5.128,Cash,WH1
+105-31-1824,Sports and travel,2019-02-01,7,Special Air  ,5.5616,Credit card,WH1
+249-42-3782,Health and beauty,2019-01-03,5,Regular Air,3.5005,Ewallet,WH1
+316-55-4634,Food and beverages,2019-01-26,5,Regular Air,4.0025,Credit card,WH3
+733-33-4967,Electronic accessories,2019-03-03,8,Special Air  ,1.668,Cash,WH2
+608-27-6295,Electronic accessories,2019-01-19,6,ExpressAir,5.289,Credit card,WH3
+414-12-7047,Food and beverages,2019-01-18,8,Special Air  ,1.5832,Ewallet,WH3
+827-26-2100,Home and lifestyle,2019-03-21,9,Special Air  ,2.7072,Ewallet,WH1
+175-54-2529,Food and beverages,2019-03-03,8,Special Air  ,1.7736,Credit card,WH1
+139-52-2867,Fashion accessories,2019-02-13,7,Special Air  ,1.8008,Credit card,WH2
+407-63-8975,Food and beverages,2019-03-23,6,Special Air  ,5.9104,Ewallet,WH1
+342-65-4817,Health and beauty,2019-01-28,3,Regular Air,4.34,Ewallet,WH2
+130-98-8941,Fashion accessories,2019-02-09,7,Special Air  ,5.1408,Cash,WH2
+434-83-9547,Food and beverages,2019-01-23,8,Special Air  ,3.0776,Cash,WH2
+851-28-6367,Sports and travel,2019-03-23,10,Special Air  ,1.24,Ewallet,WH1
+824-88-3614,Health and beauty,2019-01-25,8,Regular Air,1.7155,Ewallet,WH2
+586-25-0848,Sports and travel,2019-03-04,7,Regular Air,0.617,Credit card,WH1
+895-66-0685,Food and beverages,2019-03-05,3,ExpressAir,1.808,Ewallet,WH3
+305-14-0245,Home and lifestyle,2019-03-03,8,Regular Air,4.7245,Ewallet,WH3
+732-04-5373,Home and lifestyle,2019-02-08,4,ExpressAir,4.647,Cash,WH3
+400-60-7251,Home and lifestyle,2019-02-10,1,Regular Air,3.7035,Ewallet,WH1
+593-65-1552,Home and lifestyle,2019-01-28,4,Special Air  ,5.5848,Credit card,WH2
+284-34-9626,Home and lifestyle,2019-02-11,3,Regular Air,3.852,Credit card,WH3
+437-58-8131,Fashion accessories,2019-01-15,2,Special Air  ,5.8816,Ewallet,WH3
+286-43-6208,Food and beverages,2019-03-16,9,Special Air  ,7.024,Cash,WH2
+641-43-2399,Home and lifestyle,2019-01-26,4,Special Air  ,2.044,Ewallet,WH3
+831-07-6050,Electronic accessories,2019-03-19,5,Regular Air,1.6355,Credit card,WH1
+556-86-3144,Fashion accessories,2019-01-13,1,Regular Air,3.7145,Cash,WH2
+848-24-9445,Health and beauty,2019-03-26,2,ExpressAir,4.37,Cash,WH2
+856-22-8149,Home and lifestyle,2019-03-23,1,ExpressAir,2.529,Ewallet,WH1
+699-01-4164,Health and beauty,2019-03-12,4,ExpressAir,4.15,Credit card,WH2
+420-11-4919,Food and beverages,2019-02-17,5,ExpressAir,7.139,Credit card,WH2
+606-80-4905,Sports and travel,2019-01-29,6,Special Air  ,1.532,Credit card,WH2
+542-41-0513,Electronic accessories,2019-03-15,4,Special Air  ,4.5992,Cash,WH3
+426-39-2418,Electronic accessories,2019-01-14,7,ExpressAir,6.141,Cash,WH2
+875-46-5808,Health and beauty,2019-02-06,10,ExpressAir,2.59,Ewallet,WH3
+394-43-4238,Home and lifestyle,2019-02-15,5,Special Air  ,1.4216,Credit card,WH3
+749-24-1565,Health and beauty,2019-01-03,9,Special Air  ,1.8424,Ewallet,WH1
+672-51-8681,Electronic accessories,2019-01-04,9,Special Air  ,5.332,Credit card,WH2
+263-87-5680,Home and lifestyle,2019-03-18,10,Special Air  ,2.2824,Ewallet,WH2
+573-58-9734,Fashion accessories,2019-03-28,3,Special Air  ,2.4296,Ewallet,WH3
+817-69-8206,Electronic accessories,2019-03-02,9,Regular Air,4.9865,Credit card,WH3
+888-02-0338,Electronic accessories,2019-01-25,9,Special Air  ,2.0984,Ewallet,WH1
+677-11-0152,Food and beverages,2019-01-16,9,ExpressAir,9.326,Cash,WH2
+142-63-6033,Home and lifestyle,2019-03-20,5,Special Air  ,7.3888,Ewallet,WH3
+656-16-1063,Sports and travel,2019-01-04,3,Regular Air,2.321,Credit card,WH3
+891-58-8335,Sports and travel,2019-03-11,7,Regular Air,1.4805,Cash,WH3
+802-43-8934,Home and lifestyle,2019-03-22,1,ExpressAir,1.828,Credit card,WH1
+560-30-5617,Sports and travel,2019-03-24,5,Regular Air,1.2385,Cash,WH3
+319-74-2561,Electronic accessories,2019-02-21,3,Regular Air,4.732,Cash,WH1
+549-03-9315,Fashion accessories,2019-02-12,8,Regular Air,4.7435,Ewallet,WH3
+790-29-1172,Food and beverages,2019-03-10,3,ExpressAir,5.734,Credit card,WH3
+239-36-3640,Electronic accessories,2019-01-31,6,ExpressAir,4.535,Ewallet,WH3
+468-01-2051,Food and beverages,2019-03-06,7,Special Air  ,4.9664,Ewallet,WH3
+389-25-3394,Electronic accessories,2019-02-17,5,Special Air  ,0.9448,Cash,WH2
+279-62-1445,Fashion accessories,2019-02-21,1,Special Air  ,1.0032,Cash,WH2
+213-72-6612,Food and beverages,2019-03-20,2,Regular Air,2.1625,Cash,WH1
+746-68-6593,Sports and travel,2019-01-11,2,Special Air  ,6.9728,Credit card,WH2
+836-82-5858,Health and beauty,2019-01-26,9,Regular Air,3.4685,Ewallet,WH3
+583-72-1480,Electronic accessories,2019-01-31,4,ExpressAir,3.706,Ewallet,WH2
+466-61-5506,Electronic accessories,2019-02-26,6,Special Air  ,7.256,Cash,WH3
+721-86-6247,Home and lifestyle,2019-03-11,8,ExpressAir,6.342,Ewallet,WH1
+289-65-5721,Fashion accessories,2019-01-26,2,Regular Air,4.0685,Cash,WH3
+545-46-3100,Electronic accessories,2019-03-12,3,Regular Air,0.5295,Credit card,WH3
+418-02-5978,Health and beauty,2019-02-11,9,Regular Air,4.2045,Cash,WH3
+269-04-5750,Fashion accessories,2019-02-21,4,ExpressAir,7.382,Cash,WH3
+157-13-5295,Health and beauty,2019-03-09,10,Special Air  ,4.1552,Ewallet,WH1
+645-78-8093,Sports and travel,2019-01-20,2,Special Air  ,7.4512,Ewallet,WH1
+211-30-9270,Health and beauty,2019-01-28,5,ExpressAir,1.741,Credit card,WH2
+755-12-3214,Fashion accessories,2019-03-05,5,ExpressAir,4.422,Credit card,WH2
+346-84-3103,Electronic accessories,2019-03-02,5,Regular Air,0.661,Cash,WH3
+478-06-7835,Fashion accessories,2019-01-11,1,Regular Air,4.4845,Ewallet,WH1
+540-11-4336,Food and beverages,2019-01-11,9,Special Air  ,1.9952,Credit card,WH1
+448-81-5016,Health and beauty,2019-03-11,2,Special Air  ,4.7816,Credit card,WH1
+142-72-4741,Fashion accessories,2019-02-28,2,Regular Air,4.66,Credit card,WH2
+217-58-1179,Home and lifestyle,2019-01-05,4,ExpressAir,6.265,Cash,WH1
+376-02-8238,Home and lifestyle,2019-02-02,8,ExpressAir,9.387,Credit card,WH3
+530-90-9855,Home and lifestyle,2019-01-01,8,Special Air  ,3.8072,Cash,WH1
+866-05-7563,Electronic accessories,2019-02-09,3,Regular Air,4.07,Cash,WH3
+604-70-6476,Fashion accessories,2019-01-23,5,Special Air  ,1.4352,Ewallet,WH1
+799-71-1548,Electronic accessories,2019-01-07,4,ExpressAir,7.772,Credit card,WH1
+785-13-7708,Food and beverages,2019-01-14,7,Special Air  ,5.8448,Credit card,WH3
+845-51-0542,Food and beverages,2019-02-02,9,ExpressAir,4.655,Ewallet,WH3
+662-47-5456,Fashion accessories,2019-03-17,10,Special Air  ,2.8152,Credit card,WH2
+883-17-4236,Sports and travel,2019-03-02,2,Regular Air,0.7195,Credit card,WH2
+290-68-2984,Home and lifestyle,2019-03-16,4,Special Air  ,1.9,Cash,WH1
+704-11-6354,Home and lifestyle,2019-01-06,8,Special Air  ,4.712,Cash,WH1
+110-48-7033,Fashion accessories,2019-01-29,4,Regular Air,1.631,Cash,WH3
+366-93-0948,Electronic accessories,2019-01-31,1,Special Air  ,5.308,Credit card,WH1
+729-09-9681,Home and lifestyle,2019-02-05,6,ExpressAir,2.591,Ewallet,WH1
+151-16-1484,Electronic accessories,2019-02-13,4,Special Air  ,2.58,Ewallet,WH1
+380-94-4661,Electronic accessories,2019-02-07,4,Regular Air,3.297,Credit card,WH2
+850-41-9669,Electronic accessories,2019-03-19,9,Special Air  ,6.0048,Ewallet,WH1
+821-07-3596,Fashion accessories,2019-03-07,4,Regular Air,0.8225,Ewallet,WH2
+655-85-5130,Fashion accessories,2019-03-13,4,Special Air  ,3.064,Cash,WH3
+447-15-7839,Sports and travel,2019-02-09,10,Special Air  ,1.7792,Cash,WH1
+154-74-7179,Sports and travel,2019-02-26,1,Special Air  ,4.356,Ewallet,WH3
+253-12-6086,Sports and travel,2019-03-12,7,ExpressAir,9.84,Credit card,WH1
+808-65-0703,Home and lifestyle,2019-03-14,4,Regular Air,1.7735,Credit card,WH2
+571-94-0759,Food and beverages,2019-01-08,10,ExpressAir,7.46,Cash,WH3
+144-51-6085,Home and lifestyle,2019-01-05,4,Special Air  ,5.6592,Credit card,WH1
+731-14-2199,Home and lifestyle,2019-01-04,10,Special Air  ,2.8432,Ewallet,WH1
+783-09-1637,Sports and travel,2019-03-06,5,Special Air  ,5.3944,Ewallet,WH3
+687-15-1097,Health and beauty,2019-01-03,2,Regular Air,1.056,Cash,WH2
+126-54-1082,Home and lifestyle,2019-01-07,9,ExpressAir,2.154,Credit card,WH1
+633-91-1052,Home and lifestyle,2019-01-27,2,Regular Air,0.6015,Cash,WH1
+477-24-6490,Health and beauty,2019-02-26,6,Regular Air,4.9855,Ewallet,WH3
+566-19-5475,Fashion accessories,2019-01-07,7,ExpressAir,4.797,Cash,WH3
+526-86-8552,Home and lifestyle,2019-01-07,10,Special Air  ,1.7456,Cash,WH2
+376-56-3573,Fashion accessories,2019-02-02,4,Regular Air,4.771,Ewallet,WH2
+537-72-0426,Fashion accessories,2019-03-20,10,ExpressAir,7.099,Cash,WH2
+828-61-5674,Sports and travel,2019-03-20,10,ExpressAir,4.402,Credit card,WH1
+136-08-6195,Home and lifestyle,2019-02-15,8,Special Air  ,5.5968,Credit card,WH1
+523-38-0215,Home and lifestyle,2019-03-06,1,Regular Air,1.85,Credit card,WH2
+490-29-1201,Sports and travel,2019-01-06,1,Special Air  ,1.2272,Cash,WH1
+667-92-0055,Health and beauty,2019-03-04,6,Special Air  ,7.9864,Ewallet,WH1
+565-17-3836,Health and beauty,2019-03-12,4,ExpressAir,4.767,Cash,WH1
+498-41-1961,Health and beauty,2019-02-20,5,ExpressAir,6.668,Cash,WH3
+593-95-4461,Home and lifestyle,2019-03-24,1,Regular Air,3.743,Cash,WH2
+226-71-3580,Sports and travel,2019-01-31,9,ExpressAir,2.375,Cash,WH2
+283-79-9594,Food and beverages,2019-01-25,7,Regular Air,2.4255,Credit card,WH3
+430-60-3493,Home and lifestyle,2019-02-03,7,Special Air  ,7.5904,Cash,WH1
+139-20-0155,Electronic accessories,2019-01-24,10,Special Air  ,3.224,Credit card,WH3
+558-80-4082,Electronic accessories,2019-03-14,7,Regular Air,1.3925,Ewallet,WH2
+278-97-7759,Electronic accessories,2019-02-18,1,Special Air  ,4.9984,Cash,WH1
+316-68-6352,Food and beverages,2019-01-21,2,Special Air  ,2.9088,Cash,WH1
+585-03-5943,Health and beauty,2019-03-13,10,ExpressAir,1.811,Ewallet,WH3
+211-05-0490,Electronic accessories,2019-03-03,5,Regular Air,2.596,Cash,WH2
+727-75-6477,Electronic accessories,2019-03-29,4,Regular Air,1.442,Cash,WH2
+744-02-5987,Home and lifestyle,2019-01-10,6,Special Air  ,6.2704,Ewallet,WH1
+307-83-9164,Home and lifestyle,2019-01-25,4,ExpressAir,6.001,Cash,WH1
+779-06-0012,Home and lifestyle,2019-01-19,1,ExpressAir,8.861,Cash,WH2
+446-47-6729,Fashion accessories,2019-01-02,2,Special Air  ,7.9856,Credit card,WH2
+573-10-3877,Health and beauty,2019-03-12,1,ExpressAir,3.901,Credit card,WH3
+735-06-4124,Food and beverages,2019-02-25,1,ExpressAir,4.861,Cash,WH2
+439-54-7422,Electronic accessories,2019-03-18,4,Special Air  ,4.0952,Credit card,WH1
+396-90-2219,Electronic accessories,2019-02-23,8,Regular Air,0.748,Cash,WH3
+411-77-0180,Electronic accessories,2019-03-26,7,Regular Air,3.61,Ewallet,WH1
+286-01-5402,Sports and travel,2019-03-30,7,Special Air  ,3.2184,Cash,WH1
+803-17-8013,Home and lifestyle,2019-02-17,8,Regular Air,4.4395,Cash,WH1
+512-98-1403,Electronic accessories,2019-03-21,3,ExpressAir,2.648,Ewallet,WH1
+848-42-2560,Fashion accessories,2019-03-05,2,Special Air  ,6.5528,Cash,WH1
+532-59-7201,Sports and travel,2019-01-31,6,Special Air  ,6.3944,Cash,WH3
+181-94-6432,Fashion accessories,2019-02-05,2,ExpressAir,6.933,Ewallet,WH2
+870-76-1733,Food and beverages,2019-02-01,5,Special Air  ,1.1384,Credit card,WH1
+423-64-4619,Health and beauty,2019-03-07,9,ExpressAir,1.555,Cash,WH1
+227-07-4446,Electronic accessories,2019-02-10,10,Special Air  ,6.2504,Cash,WH2
+174-36-3675,Food and beverages,2019-02-14,2,Special Air  ,7.9496,Cash,WH2
+428-83-5800,Food and beverages,2019-02-09,3,ExpressAir,2.108,Cash,WH2
+603-07-0961,Electronic accessories,2019-01-10,5,ExpressAir,7.479,Cash,WH2
+704-20-4138,Health and beauty,2019-03-11,7,Regular Air,1.4835,Credit card,WH2
+787-15-1757,Health and beauty,2019-02-18,4,Special Air  ,3.5256,Ewallet,WH2
+649-11-3678,Food and beverages,2019-02-26,9,Special Air  ,1.8344,Cash,WH2
+622-20-1945,Health and beauty,2019-01-18,1,ExpressAir,3.942,Cash,WH2
+372-94-8041,Health and beauty,2019-02-15,6,Regular Air,0.763,Ewallet,WH1
+563-91-7120,Fashion accessories,2019-03-08,5,Regular Air,3.0885,Cash,WH1
+746-54-5508,Home and lifestyle,2019-01-17,6,Regular Air,1.076,Credit card,WH1
+276-54-0879,Sports and travel,2019-03-12,4,Regular Air,4.887,Ewallet,WH3
+815-11-1168,Food and beverages,2019-03-09,5,ExpressAir,9.978,Cash,WH1
+719-76-3868,Food and beverages,2019-03-12,4,Special Air  ,7.5408,Cash,WH2
+730-61-8757,Health and beauty,2019-01-25,4,Regular Air,2.5565,Credit card,WH3
+340-66-0321,Electronic accessories,2019-03-25,4,ExpressAir,3.636,Cash,WH1
+868-81-1752,Home and lifestyle,2019-02-07,9,ExpressAir,2.202,Cash,WH3
+634-97-8956,Food and beverages,2019-02-17,3,Regular Air,1.645,Credit card,WH1
+566-71-1091,Fashion accessories,2019-02-03,5,Special Air  ,6.1616,Cash,WH1
+442-48-3607,Food and beverages,2019-03-14,2,Regular Air,1.174,Credit card,WH1
+835-16-0096,Sports and travel,2019-03-24,5,Special Air  ,1.176,Ewallet,WH2
+527-09-6272,Electronic accessories,2019-03-21,5,ExpressAir,2.845,Credit card,WH1
+898-04-2717,Fashion accessories,2019-03-19,9,Regular Air,3.82,Ewallet,WH1
+692-27-8933,Sports and travel,2019-02-24,6,Special Air  ,4.636,Cash,WH3
+633-09-3463,Electronic accessories,2019-03-28,3,Regular Air,2.3825,Credit card,WH2
+374-17-3652,Food and beverages,2019-02-05,9,Special Air  ,3.4256,Credit card,WH3
+378-07-7001,Electronic accessories,2019-02-10,3,ExpressAir,4.809,Credit card,WH3
+433-75-6987,Health and beauty,2019-03-05,7,Special Air  ,4.4776,Ewallet,WH3
+873-95-4984,Health and beauty,2019-02-15,7,Regular Air,3.845,Cash,WH3
+416-13-5917,Food and beverages,2019-01-30,5,Regular Air,4.8515,Ewallet,WH2
+150-89-8043,Sports and travel,2019-02-14,3,Regular Air,2.2325,Cash,WH1
+135-84-8019,Fashion accessories,2019-02-27,9,Special Air  ,6.2344,Ewallet,WH1
+441-94-7118,Electronic accessories,2019-02-04,1,Regular Air,3.5975,Cash,WH1
+725-96-3778,Home and lifestyle,2019-01-20,8,Regular Air,4.4625,Cash,WH2
+531-80-1784,Electronic accessories,2019-03-28,7,Regular Air,1.301,Cash,WH1
+400-45-1220,Health and beauty,2019-02-27,10,Special Air  ,1.08,Credit card,WH3
+860-79-0874,Fashion accessories,2019-02-15,10,Regular Air,4.965,Credit card,WH2
+834-61-8124,Electronic accessories,2019-01-26,7,Special Air  ,4.1352,Cash,WH1
+115-99-4379,Fashion accessories,2019-03-14,7,Special Air  ,4.3784,Credit card,WH3
+565-67-6697,Home and lifestyle,2019-03-02,9,Regular Air,1.35,Cash,WH3
+320-49-6392,Electronic accessories,2019-03-04,1,ExpressAir,3.024,Cash,WH2
+889-04-9723,Food and beverages,2019-01-07,4,ExpressAir,8.914,Credit card,WH3
+632-90-0281,Fashion accessories,2019-03-08,10,Special Air  ,3.004,Credit card,WH2
+554-42-2417,Sports and travel,2019-01-09,10,Regular Air,4.772,Cash,WH2
+453-63-6187,Electronic accessories,2019-03-01,3,ExpressAir,2.75,Ewallet,WH3
+578-80-7669,Sports and travel,2019-03-16,1,Regular Air,3.7485,Cash,WH3
+612-36-5536,Food and beverages,2019-02-17,8,Regular Air,4.048,Credit card,WH1
+605-72-4132,Food and beverages,2019-02-27,8,Special Air  ,7.5576,Cash,WH2
+471-41-2823,Food and beverages,2019-03-07,2,Special Air  ,7.9832,Ewallet,WH2
+462-67-9126,Home and lifestyle,2019-01-21,6,Special Air  ,5.8576,Cash,WH1
+272-27-9238,Food and beverages,2019-02-19,4,ExpressAir,4.124,Cash,WH2
+834-25-9262,Fashion accessories,2019-01-06,4,ExpressAir,8.168,Cash,WH2
+122-61-9553,Electronic accessories,2019-03-14,9,Special Air  ,4.1056,Cash,WH2
+468-88-0009,Home and lifestyle,2019-03-24,4,Regular Air,3.297,Cash,WH1
+613-59-9758,Sports and travel,2019-01-27,10,Regular Air,0.718,Cash,WH2
+254-31-0042,Electronic accessories,2019-03-06,9,Special Air  ,1.72,Credit card,WH1
+201-86-2184,Electronic accessories,2019-02-02,7,ExpressAir,2.626,Cash,WH3
+261-12-8671,Fashion accessories,2019-01-25,2,Special Air  ,4.8768,Credit card,WH3
+730-70-9830,Home and lifestyle,2019-03-14,6,Regular Air,3.5055,Ewallet,WH2
+382-25-8917,Fashion accessories,2019-01-29,6,ExpressAir,4.208,Cash,WH2
+422-29-8786,Home and lifestyle,2019-01-03,5,ExpressAir,6.709,Credit card,WH1
+667-23-5919,Fashion accessories,2019-01-14,5,Special Air  ,7.736,Ewallet,WH1
+843-01-4703,Home and lifestyle,2019-01-05,9,Special Air  ,2.8304,Credit card,WH3
+743-88-1662,Sports and travel,2019-02-22,7,Regular Air,4.7745,Ewallet,WH2
+595-86-2894,Fashion accessories,2019-02-06,4,ExpressAir,9.698,Ewallet,WH2
+182-69-8360,Electronic accessories,2019-01-30,4,Regular Air,1.1825,Credit card,WH3
+289-15-7034,Sports and travel,2019-01-11,4,ExpressAir,8.233,Credit card,WH1
+462-78-5240,Electronic accessories,2019-03-19,2,Regular Air,1.3305,Cash,WH2
+868-52-7573,Food and beverages,2019-01-14,5,Special Air  ,7.9752,Cash,WH3
+153-58-4872,Food and beverages,2019-03-01,4,ExpressAir,7.489,Ewallet,WH2
+662-72-2873,Food and beverages,2019-01-06,5,Special Air  ,3.2752,Ewallet,WH1
+525-88-7307,Sports and travel,2019-01-31,1,Regular Air,3.791,Cash,WH3
+689-16-9784,Food and beverages,2019-03-11,6,Regular Air,2.3385,Cash,WH2
+725-56-0833,Health and beauty,2019-02-20,10,Regular Air,1.616,Credit card,WH1
+394-41-0748,Fashion accessories,2019-01-27,9,ExpressAir,5.407,Ewallet,WH2
+596-42-3999,Food and beverages,2019-03-10,7,ExpressAir,1.822,Credit card,WH3
+541-89-9860,Fashion accessories,2019-02-15,3,Regular Air,4.024,Cash,WH2
+173-82-9529,Fashion accessories,2019-01-26,10,Special Air  ,3.036,Cash,WH3
+563-36-9814,Electronic accessories,2019-02-13,1,Special Air  ,6.1456,Ewallet,WH1
+308-47-4913,Sports and travel,2019-03-09,10,Special Air  ,4.1808,Credit card,WH1
+885-17-6250,Health and beauty,2019-03-06,1,ExpressAir,7.974,Ewallet,WH1
+726-27-2396,Health and beauty,2019-01-24,5,ExpressAir,7.75,Ewallet,WH1
+316-01-3952,Food and beverages,2019-03-13,5,Special Air  ,4.3416,Ewallet,WH1
+760-54-1821,Home and lifestyle,2019-03-15,9,Special Air  ,1.0872,Cash,WH3
+793-10-3222,Health and beauty,2019-03-05,6,Special Air  ,3.2848,Credit card,WH3
+346-12-3257,Electronic accessories,2019-03-04,9,ExpressAir,1.924,Cash,WH3
+110-05-6330,Food and beverages,2019-03-25,6,Regular Air,1.9715,Credit card,WH2
+651-61-0874,Home and lifestyle,2019-03-12,4,Special Air  ,3.6976,Credit card,WH2
+236-86-3015,Home and lifestyle,2019-02-04,1,ExpressAir,1.398,Ewallet,WH2
+831-64-0259,Fashion accessories,2019-02-22,5,Special Air  ,3.18,Ewallet,WH3
+587-03-7455,Fashion accessories,2019-02-16,7,ExpressAir,9.779,Ewallet,WH2
+882-40-4577,Sports and travel,2019-01-19,4,Regular Air,3.363,Credit card,WH1
+732-67-5346,Food and beverages,2019-01-11,5,Regular Air,0.6895,Credit card,WH1
+725-32-9708,Fashion accessories,2019-01-04,4,ExpressAir,6.871,Cash,WH3
+256-08-8343,Home and lifestyle,2019-03-04,4,Regular Air,2.8265,Ewallet,WH1
+372-26-1506,Fashion accessories,2019-01-28,5,ExpressAir,2.382,Ewallet,WH2
+244-08-0162,Health and beauty,2019-01-02,10,Special Air  ,2.7368,Cash,WH3
+569-71-4390,Sports and travel,2019-01-25,2,Regular Air,1.0935,Ewallet,WH3
+132-23-6451,Health and beauty,2019-01-04,5,Regular Air,1.0485,Cash,WH1
+696-90-2548,Sports and travel,2019-03-10,3,Special Air  ,2.0672,Ewallet,WH1
+472-15-9636,Home and lifestyle,2019-03-22,8,Special Air  ,4.0744,Ewallet,WH1
+268-03-6164,Health and beauty,2019-01-25,1,Regular Air,4.8055,Ewallet,WH3
+750-57-9686,Home and lifestyle,2019-01-08,4,ExpressAir,4.538,Credit card,WH2
+186-09-3669,Health and beauty,2019-01-22,1,Regular Air,4.0755,Ewallet,WH2
+848-07-1692,Health and beauty,2019-01-12,2,ExpressAir,5.722,Ewallet,WH3
+745-71-3520,Electronic accessories,2019-02-04,7,Regular Air,1.261,Cash,WH1
+266-76-6436,Food and beverages,2019-03-28,3,Regular Air,1.93,Ewallet,WH2
+740-22-2500,Electronic accessories,2019-01-23,3,ExpressAir,8.405,Cash,WH2
+271-88-8734,Fashion accessories,2019-02-08,10,ExpressAir,9.721,Credit card,WH2
+301-81-8610,Fashion accessories,2019-03-19,8,Special Air  ,2.0336,Credit card,WH3
+489-64-4354,Fashion accessories,2019-03-09,1,ExpressAir,1.628,Cash,WH2
+198-84-7132,Fashion accessories,2019-01-02,9,ExpressAir,4.061,Cash,WH3
+269-10-8440,Health and beauty,2019-01-21,7,Regular Air,2.6585,Cash,WH1
+650-98-6268,Food and beverages,2019-03-20,3,ExpressAir,2.087,Credit card,WH3
+741-73-3559,Sports and travel,2019-02-27,5,ExpressAir,6.727,Cash,WH3
+325-77-6186,Home and lifestyle,2019-03-08,10,Regular Air,4.5325,Ewallet,WH1
+286-75-7818,Fashion accessories,2019-01-31,2,Special Air  ,5.5264,Credit card,WH3
+574-57-9721,Food and beverages,2019-03-08,2,Special Air  ,3.4616,Ewallet,WH2
+459-50-7686,Electronic accessories,2019-01-13,6,ExpressAir,2.346,Ewallet,WH1
+616-87-0016,Fashion accessories,2019-03-09,7,ExpressAir,9.554,Credit card,WH3
+837-55-7229,Fashion accessories,2019-02-22,1,Regular Air,2.372,Credit card,WH3
+751-69-0068,Sports and travel,2019-03-19,9,Special Air  ,7.9392,Ewallet,WH2
+257-73-1380,Sports and travel,2019-01-20,4,Special Air  ,6.6344,Ewallet,WH2
+345-08-4992,Home and lifestyle,2019-03-08,6,Regular Air,1.6995,Credit card,WH1
+549-96-4200,Food and beverages,2019-03-08,4,Regular Air,0.852,Ewallet,WH2
+810-60-6344,Electronic accessories,2019-02-07,8,Regular Air,2.043,Credit card,WH2
+450-28-2866,Food and beverages,2019-01-15,5,Regular Air,0.872,Cash,WH2
+394-30-3170,Sports and travel,2019-03-22,8,Special Air  ,7.0744,Credit card,WH3
+138-17-5109,Home and lifestyle,2019-01-15,9,Regular Air,4.4605,Credit card,WH1
+192-98-7397,Fashion accessories,2019-01-08,1,Special Air  ,1.0224,Ewallet,WH2
+301-11-9629,Sports and travel,2019-01-15,7,Special Air  ,1.528,Cash,WH1
+390-80-5128,Health and beauty,2019-01-28,1,Special Air  ,1.532,Credit card,WH3
+235-46-8343,Food and beverages,2019-02-14,10,ExpressAir,2.766,Credit card,WH2
+453-12-7053,Fashion accessories,2019-03-10,3,Special Air  ,3.6592,Credit card,WH2
+296-11-7041,Health and beauty,2019-01-12,1,Special Air  ,2.1656,Credit card,WH3
+449-27-2918,Sports and travel,2019-03-26,1,Regular Air,1.956,Credit card,WH3
+891-01-7034,Electronic accessories,2019-01-01,6,Special Air  ,5.9768,Cash,WH3
+744-09-5786,Electronic accessories,2019-01-02,6,ExpressAir,2.201,Cash,WH3
+727-17-0390,Food and beverages,2019-03-16,5,ExpressAir,6.361,Ewallet,WH1
+568-88-3448,Health and beauty,2019-03-03,1,ExpressAir,2.5,Ewallet,WH1
+187-83-5490,Electronic accessories,2019-01-31,4,ExpressAir,2.077,Cash,WH1
+767-54-1907,Fashion accessories,2019-02-13,5,ExpressAir,2.956,Cash,WH3
+710-46-4433,Food and beverages,2019-02-15,9,Special Air  ,6.192,Credit card,WH3
+533-33-5337,Electronic accessories,2019-02-07,10,ExpressAir,7.939,Cash,WH3
+325-90-8763,Electronic accessories,2019-01-27,10,Special Air  ,3.7256,Cash,WH2
+729-46-7422,Food and beverages,2019-02-23,1,ExpressAir,3.589,Credit card,WH2
+639-76-1242,Food and beverages,2019-02-03,5,Special Air  ,3.2416,Cash,WH2
+234-03-4040,Food and beverages,2019-03-03,10,ExpressAir,7.305,Credit card,WH3
+326-71-2155,Sports and travel,2019-02-03,4,ExpressAir,7.395,Cash,WH2
+320-32-8842,Food and beverages,2019-03-17,1,Regular Air,1.131,Cash,WH2
+470-32-9057,Food and beverages,2019-03-28,5,Regular Air,2.567,Credit card,WH1
+878-30-2331,Sports and travel,2019-03-02,10,Regular Air,2.7275,Credit card,WH2
+440-59-5691,Health and beauty,2019-02-08,7,Regular Air,1.8575,Credit card,WH2
+554-53-3790,Sports and travel,2019-03-22,6,Regular Air,1.851,Cash,WH3
+746-19-0921,Food and beverages,2019-02-09,1,ExpressAir,2.158,Ewallet,WH2
+233-34-0817,Electronic accessories,2019-02-15,1,Special Air  ,7.9072,Cash,WH2
+767-05-1286,Home and lifestyle,2019-01-23,6,ExpressAir,8.377,Ewallet,WH2
+340-21-9136,Sports and travel,2019-01-25,4,Regular Air,2.0025,Cash,WH1
+405-31-3305,Fashion accessories,2019-02-02,10,Regular Air,2.1565,Credit card,WH1
+731-59-7531,Health and beauty,2019-03-30,8,ExpressAir,7.257,Cash,WH3
+676-39-6028,Electronic accessories,2019-03-30,5,Regular Air,3.222,Cash,WH1
+502-05-1910,Health and beauty,2019-02-25,3,ExpressAir,6.518,Credit card,WH1
+485-30-8700,Sports and travel,2019-03-18,5,ExpressAir,3.326,Credit card,WH1
+598-47-9715,Electronic accessories,2019-03-07,4,ExpressAir,8.407,Ewallet,WH2
+701-69-8742,Sports and travel,2019-03-16,10,Regular Air,1.7185,Ewallet,WH3
+575-67-1508,Electronic accessories,2019-01-29,1,ExpressAir,3.86,Ewallet,WH1
+541-08-3113,Food and beverages,2019-02-02,8,Regular Air,3.2985,Cash,WH2
+246-11-3901,Electronic accessories,2019-02-15,10,Special Air  ,2.624,Cash,WH2
+674-15-9296,Sports and travel,2019-01-08,5,Regular Air,1.857,Ewallet,WH1
+305-18-3552,Home and lifestyle,2019-02-12,10,ExpressAir,6.038,Cash,WH3
+493-65-6248,Sports and travel,2019-01-01,10,Regular Air,1.849,Credit card,WH2
+438-01-4015,Sports and travel,2019-03-21,4,ExpressAir,4.949,Ewallet,WH3
+709-58-4068,Fashion accessories,2019-02-28,10,Regular Air,2.0545,Cash,WH3
+795-49-7276,Fashion accessories,2019-03-23,4,Regular Air,1.8575,Ewallet,WH1
+556-72-8512,Home and lifestyle,2019-01-30,1,Special Air  ,1.8368,Cash,WH2
+627-95-3243,Home and lifestyle,2019-02-04,9,ExpressAir,7.768,Ewallet,WH3
+686-41-0932,Fashion accessories,2019-03-13,2,ExpressAir,3.47,Ewallet,WH3
+510-09-5628,Fashion accessories,2019-03-15,10,ExpressAir,1.966,Credit card,WH1
+608-04-3797,Health and beauty,2019-03-05,8,Special Air  ,2.0256,Ewallet,WH3
+148-82-2527,Home and lifestyle,2019-03-05,10,Regular Air,0.606,Credit card,WH2
+437-53-3084,Fashion accessories,2019-02-26,2,Special Air  ,7.9912,Ewallet,WH3
+632-32-4574,Sports and travel,2019-03-20,8,ExpressAir,7.592,Cash,WH3
+556-97-7101,Electronic accessories,2019-01-01,2,Special Air  ,5.0576,Cash,WH2
+862-59-8517,Food and beverages,2019-01-27,6,Regular Air,4.512,Cash,WH2
+401-18-8016,Sports and travel,2019-01-21,1,Special Air  ,7.8504,Cash,WH3
+420-18-8989,Sports and travel,2019-02-02,8,Special Air  ,4.1216,Cash,WH1
+277-63-2961,Sports and travel,2019-02-03,1,Regular Air,3.6985,Credit card,WH3
+573-98-8548,Fashion accessories,2019-01-05,1,Regular Air,1.595,Ewallet,WH2
+620-02-2046,Home and lifestyle,2019-01-27,2,Regular Air,3.47,Ewallet,WH2
+282-35-2475,Sports and travel,2019-03-25,2,Special Air  ,7.4648,Cash,WH3
+511-54-3087,Sports and travel,2019-02-25,1,Regular Air,4.4225,Credit card,WH3
+726-29-6793,Electronic accessories,2019-01-28,8,ExpressAir,2.418,Ewallet,WH1
+387-49-4215,Sports and travel,2019-01-08,3,ExpressAir,4.85,Cash,WH3
+862-17-9201,Food and beverages,2019-01-29,6,ExpressAir,8.405,Credit card,WH3
+291-21-5991,Health and beauty,2019-03-29,5,Special Air  ,4.9032,Cash,WH3
+602-80-9671,Home and lifestyle,2019-02-09,6,Special Air  ,1.276,Credit card,WH2
+347-72-6115,Sports and travel,2019-01-16,7,ExpressAir,9.074,Credit card,WH3
+209-61-0206,Home and lifestyle,2019-01-05,5,Regular Air,2.1455,Ewallet,WH1
+595-27-4851,Fashion accessories,2019-01-27,7,ExpressAir,5.428,Ewallet,WH1
+189-52-0236,Electronic accessories,2019-03-14,7,Regular Air,4.9775,Cash,WH1
+503-07-0930,Sports and travel,2019-02-23,7,ExpressAir,5.839,Credit card,WH2
+413-20-6708,Fashion accessories,2019-03-18,1,Regular Air,2.5735,Ewallet,WH2
+425-85-2085,Health and beauty,2019-03-29,5,ExpressAir,5.486,Ewallet,WH3
+521-18-7827,Home and lifestyle,2019-01-22,5,Regular Air,1.9695,Credit card,WH2
+220-28-1851,Home and lifestyle,2019-03-01,2,Special Air  ,2.7784,Ewallet,WH1
+600-38-9738,Sports and travel,2019-01-17,5,ExpressAir,7.192,Credit card,WH2
+734-91-1155,Electronic accessories,2019-03-26,3,ExpressAir,4.571,Credit card,WH3
+451-28-5717,Home and lifestyle,2019-03-20,6,Special Air  ,6.6536,Cash,WH2
+609-81-8548,Home and lifestyle,2019-02-06,6,ExpressAir,3.744,Credit card,WH1
+133-14-7229,Health and beauty,2019-01-01,2,Special Air  ,5.0296,Cash,WH2
+534-01-4457,Food and beverages,2019-01-27,6,Regular Air,4.0855,Credit card,WH1
+719-89-8991,Sports and travel,2019-02-25,5,Special Air  ,7.3128,Ewallet,WH1
+286-62-6248,Fashion accessories,2019-01-16,4,Regular Air,1.9605,Credit card,WH3
+339-38-9982,Fashion accessories,2019-01-13,2,ExpressAir,5.986,Ewallet,WH3
+827-44-5872,Food and beverages,2019-02-07,10,Regular Air,2.718,Credit card,WH3
+827-77-7633,Sports and travel,2019-02-17,9,Special Air  ,7.8472,Cash,WH1
+287-83-1405,Health and beauty,2019-02-12,6,ExpressAir,2.543,Ewallet,WH1
+435-13-4908,Fashion accessories,2019-01-24,8,Regular Air,4.334,Credit card,WH1
+857-67-9057,Electronic accessories,2019-02-06,10,Regular Air,1.1475,Ewallet,WH3
+236-27-1144,Food and beverages,2019-03-26,9,Regular Air,0.8155,Ewallet,WH2
+892-05-6689,Home and lifestyle,2019-03-11,5,Regular Air,1.416,Ewallet,WH1
+583-41-4548,Home and lifestyle,2019-02-07,7,Special Air  ,1.3336,Ewallet,WH2
+339-12-4827,Fashion accessories,2019-01-05,1,Regular Air,3.698,Credit card,WH3
+643-38-7867,Home and lifestyle,2019-03-07,1,Special Air  ,7.8352,Ewallet,WH1
+308-81-0538,Fashion accessories,2019-02-25,4,Regular Air,3.6525,Credit card,WH1
+358-88-9262,Food and beverages,2019-02-01,6,Regular Air,4.374,Ewallet,WH2
+460-35-4390,Home and lifestyle,2019-01-22,3,Regular Air,1.534,Ewallet,WH1
+343-87-0864,Health and beauty,2019-01-03,1,Special Air  ,6.0704,Credit card,WH2
+173-50-1108,Sports and travel,2019-02-13,4,Regular Air,1.009,Credit card,WH3
+243-47-2663,Electronic accessories,2019-01-28,6,Regular Air,0.9385,Credit card,WH2
+841-18-8232,Food and beverages,2019-01-05,1,Special Air  ,5.696,Credit card,WH3
+701-23-5550,Home and lifestyle,2019-03-19,4,ExpressAir,3.881,Ewallet,WH3
+647-50-1224,Fashion accessories,2019-01-12,10,ExpressAir,2.942,Ewallet,WH1
+541-48-8554,Sports and travel,2019-01-07,9,Special Air  ,4.876,Credit card,WH1
+539-21-7227,Sports and travel,2019-01-26,5,Special Air  ,4.1232,Cash,WH3
+213-32-1216,Electronic accessories,2019-01-23,6,ExpressAir,6.606,Cash,WH1
+747-58-7183,Fashion accessories,2019-02-09,3,Regular Air,2.8635,Ewallet,WH3
+582-52-8065,Fashion accessories,2019-02-22,9,Regular Air,2.7155,Cash,WH3
+210-57-1719,Health and beauty,2019-02-05,9,Regular Air,2.912,Cash,WH3
+399-69-4630,Electronic accessories,2019-03-07,6,ExpressAir,2.221,Credit card,WH2
+134-75-2619,Electronic accessories,2019-03-25,7,Regular Air,0.966,Cash,WH1
+356-44-8813,Home and lifestyle,2019-01-20,3,ExpressAir,3.748,Credit card,WH3
+198-66-9832,Fashion accessories,2019-02-04,2,ExpressAir,7.204,Cash,WH3
+283-26-5248,Food and beverages,2019-01-30,10,Special Air  ,7.8816,Ewallet,WH2
+712-39-0363,Food and beverages,2019-01-02,6,Regular Air,2.083,Ewallet,WH1
+218-59-9410,Home and lifestyle,2019-03-29,3,Regular Air,3.621,Ewallet,WH1
+174-75-0888,Electronic accessories,2019-03-14,9,ExpressAir,2.158,Cash,WH3
+866-99-7614,Food and beverages,2019-02-11,10,Regular Air,4.46,Credit card,WH2
+134-54-4720,Electronic accessories,2019-01-30,8,Regular Air,2.121,Ewallet,WH3
+760-90-2357,Electronic accessories,2019-03-20,6,Regular Air,3.7255,Ewallet,WH1
+514-37-2845,Fashion accessories,2019-03-20,2,Regular Air,4.9625,Cash,WH3
+698-98-5964,Food and beverages,2019-01-17,10,Regular Air,4.0605,Credit card,WH1
+718-57-9773,Sports and travel,2019-02-03,10,Regular Air,2.4665,Credit card,WH2
+651-88-7328,Fashion accessories,2019-01-01,9,Special Air  ,5.2592,Cash,WH1
+241-11-2261,Fashion accessories,2019-01-10,7,ExpressAir,7.986,Credit card,WH3
+408-26-9866,Sports and travel,2019-03-02,7,ExpressAir,7.398,Ewallet,WH2
+834-83-1826,Home and lifestyle,2019-02-25,5,Regular Air,4.102,Credit card,WH3
+343-61-3544,Sports and travel,2019-01-29,10,Special Air  ,2.1336,Cash,WH3
+239-48-4278,Food and beverages,2019-03-10,7,ExpressAir,1.013,Ewallet,WH1
+355-34-6244,Food and beverages,2019-01-13,2,Regular Air,3.6195,Credit card,WH3
+550-84-8664,Sports and travel,2019-03-22,5,Special Air  ,6.8728,Credit card,WH1
+339-96-8318,Fashion accessories,2019-03-01,7,ExpressAir,8.131,Ewallet,WH3
+458-61-0011,Food and beverages,2019-02-20,4,ExpressAir,6.03,Cash,WH3
+592-34-6155,Food and beverages,2019-01-14,4,Regular Air,1.5885,Ewallet,WH2
+797-88-0493,Health and beauty,2019-03-26,4,Special Air  ,5.1416,Cash,WH1
+207-73-1363,Health and beauty,2019-03-01,2,Special Air  ,5.5608,Ewallet,WH3
+390-31-6381,Food and beverages,2019-01-07,3,Special Air  ,2.1776,Cash,WH2
+443-82-0585,Health and beauty,2019-02-01,4,Regular Air,3.884,Cash,WH1
+339-18-7061,Fashion accessories,2019-02-13,2,Special Air  ,7.4384,Credit card,WH2
+359-90-3665,Fashion accessories,2019-01-14,4,Regular Air,0.904,Credit card,WH3
+375-72-3056,Sports and travel,2019-01-19,3,ExpressAir,6.306,Ewallet,WH3
+127-47-6963,Health and beauty,2019-03-09,4,Regular Air,2.5855,Credit card,WH1
+278-86-2735,Food and beverages,2019-03-27,3,Special Air  ,4.1872,Cash,WH1
+695-28-6250,Sports and travel,2019-02-04,5,Special Air  ,3.4448,Ewallet,WH1
+379-17-6588,Fashion accessories,2019-03-14,10,ExpressAir,5.961,Cash,WH2
+227-50-3718,Health and beauty,2019-03-04,5,Regular Air,0.731,Cash,WH1
+302-15-2162,Health and beauty,2019-03-03,6,Regular Air,2.3265,Credit card,WH2
+788-07-8452,Home and lifestyle,2019-01-27,7,ExpressAir,2.424,Ewallet,WH2
+560-49-6611,Sports and travel,2019-02-07,1,Regular Air,2.279,Cash,WH1
+880-35-0356,Sports and travel,2019-02-05,3,Special Air  ,6.016,Ewallet,WH1
+585-11-6748,Sports and travel,2019-03-15,3,ExpressAir,9.68,Cash,WH3
+470-31-3286,Health and beauty,2019-03-01,3,Special Air  ,1.1856,Credit card,WH3
+152-68-2907,Food and beverages,2019-02-15,3,Regular Air,2.61,Credit card,WH1
+123-35-4896,Sports and travel,2019-02-17,9,Regular Air,2.333,Ewallet,WH2
+258-69-7810,Fashion accessories,2019-01-26,5,Special Air  ,2.948,Cash,WH2
+334-64-2006,Home and lifestyle,2019-03-24,2,ExpressAir,7.032,Ewallet,WH1
+219-61-4139,Electronic accessories,2019-01-23,1,Regular Air,4.154,Ewallet,WH2
+881-41-7302,Fashion accessories,2019-01-26,1,ExpressAir,6.499,Credit card,WH2
+373-09-4567,Food and beverages,2019-03-14,10,Regular Air,3.878,Ewallet,WH2
+642-30-6693,Sports and travel,2019-03-17,6,Regular Air,2.7255,Ewallet,WH3
+484-22-8230,Fashion accessories,2019-01-08,7,ExpressAir,5.189,Cash,WH2
+830-58-2383,Home and lifestyle,2019-02-08,4,Special Air  ,2.54,Cash,WH3
+559-98-9873,Fashion accessories,2019-02-10,7,Regular Air,2.6825,Ewallet,WH1
+544-32-5024,Food and beverages,2019-03-28,4,ExpressAir,4.979,Credit card,WH2
+318-12-0304,Fashion accessories,2019-01-23,1,ExpressAir,3.061,Ewallet,WH1
+349-97-8902,Food and beverages,2019-01-17,2,ExpressAir,5.789,Ewallet,WH3
+421-95-9805,Electronic accessories,2019-02-07,1,Regular Air,1.448,Credit card,WH1
+277-35-5865,Food and beverages,2019-03-09,9,Regular Air,4.9485,Cash,WH2
+789-23-8625,Fashion accessories,2019-01-24,3,ExpressAir,9.322,Cash,WH3
+284-54-4231,Sports and travel,2019-01-19,1,ExpressAir,8.093,Credit card,WH2
+443-59-0061,Food and beverages,2019-02-03,10,Regular Air,3.3725,Ewallet,WH1
+509-29-3912,Sports and travel,2019-03-20,9,Regular Air,1.936,Ewallet,WH1
+327-40-9673,Sports and travel,2019-01-13,6,Regular Air,3.63,Cash,WH3
+840-19-2096,Electronic accessories,2019-03-14,5,Regular Air,4.3955,Ewallet,WH2
+828-46-6863,Food and beverages,2019-01-23,6,Regular Air,4.9265,Credit card,WH1
+641-96-3695,Fashion accessories,2019-02-07,6,Special Air  ,3.4768,Ewallet,WH2
+420-97-3340,Food and beverages,2019-03-28,3,Special Air  ,5.7344,Credit card,WH1
+436-54-4512,Food and beverages,2019-03-20,1,Special Air  ,7.3288,Cash,WH1
+670-79-6321,Home and lifestyle,2019-01-17,7,ExpressAir,9.459,Credit card,WH3
+852-62-7105,Fashion accessories,2019-01-12,10,ExpressAir,8.325,Credit card,WH3
+598-06-7312,Fashion accessories,2019-02-16,1,ExpressAir,9.135,Cash,WH3
+135-13-8269,Food and beverages,2019-01-26,2,ExpressAir,7.888,Cash,WH3
+816-57-2053,Sports and travel,2019-03-09,2,ExpressAir,6.087,Ewallet,WH1
+628-90-8624,Health and beauty,2019-03-14,10,ExpressAir,8.258,Cash,WH3
+856-66-2701,Home and lifestyle,2019-01-25,3,Regular Air,2.665,Ewallet,WH1
+308-39-1707,Fashion accessories,2019-01-26,1,Special Air  ,0.9672,Credit card,WH1
+149-61-1929,Sports and travel,2019-01-19,10,Special Air  ,5.1352,Credit card,WH1
+655-07-2265,Electronic accessories,2019-03-05,3,ExpressAir,7.831,Ewallet,WH1
+589-02-8023,Food and beverages,2019-01-15,2,Regular Air,4.1885,Credit card,WH1
+420-04-7590,Home and lifestyle,2019-03-18,3,Regular Air,4.985,Ewallet,WH3
+182-88-2763,Food and beverages,2019-03-20,3,Regular Air,3.9955,Credit card,WH3
+188-55-0967,Health and beauty,2019-01-15,10,ExpressAir,6.647,Credit card,WH3
+610-46-4100,Health and beauty,2019-03-03,7,Regular Air,1.4475,Credit card,WH1
+318-81-2368,Electronic accessories,2019-03-19,1,Special Air  ,3.696,Cash,WH2
+364-33-8584,Food and beverages,2019-03-08,5,Special Air  ,1.4104,Cash,WH3
+665-63-9737,Fashion accessories,2019-02-27,3,Special Air  ,4.1936,Ewallet,WH3
+695-09-5146,Food and beverages,2019-02-23,3,Special Air  ,7.9032,Ewallet,WH3
+155-45-3814,Electronic accessories,2019-03-19,8,Special Air  ,7.084,Ewallet,WH2
+794-32-2436,Electronic accessories,2019-03-27,2,Regular Air,2.7835,Ewallet,WH3
+131-15-8856,Food and beverages,2019-03-30,8,Special Air  ,5.8016,Credit card,WH2
+273-84-2164,Electronic accessories,2019-02-16,5,ExpressAir,1.205,Ewallet,WH2
+706-36-6154,Home and lifestyle,2019-01-18,9,Special Air  ,1.5488,Ewallet,WH1
+778-89-7974,Health and beauty,2019-03-30,6,ExpressAir,7.021,Cash,WH2
+574-31-8277,Fashion accessories,2019-03-20,1,ExpressAir,3.363,Cash,WH3
+859-71-0933,Sports and travel,2019-01-16,2,Regular Air,0.7745,Cash,WH2
+740-11-5257,Electronic accessories,2019-02-24,10,ExpressAir,2.474,Cash,WH2
+369-82-2676,Electronic accessories,2019-01-15,5,ExpressAir,7.566,Ewallet,WH3
+563-47-4072,Health and beauty,2019-01-22,6,Special Air  ,4.4648,Cash,WH3
+742-04-5161,Home and lifestyle,2019-02-03,10,ExpressAir,7.278,Cash,WH1
+149-15-7606,Sports and travel,2019-03-06,9,Special Air  ,2.9856,Ewallet,WH3
+133-77-3154,Fashion accessories,2019-02-16,4,Special Air  ,4.8144,Credit card,WH3
+250-81-7186,Electronic accessories,2019-02-27,1,Regular Air,4.9845,Credit card,WH2
+562-12-5430,Fashion accessories,2019-01-18,3,Special Air  ,7.052,Ewallet,WH1
+816-72-8853,Sports and travel,2019-01-29,5,Special Air  ,2.2344,Cash,WH1
+491-38-3499,Fashion accessories,2019-02-26,1,Special Air  ,4.436,Credit card,WH1
+322-02-2271,Sports and travel,2019-02-03,3,ExpressAir,4.297,Cash,WH3
+842-29-4695,Sports and travel,2019-01-16,7,ExpressAir,1.714,Credit card,WH2
+725-67-2480,Fashion accessories,2019-03-24,6,Special Air  ,4.7,Credit card,WH3
+641-51-2661,Food and beverages,2019-02-12,10,Special Air  ,6.968,Credit card,WH2
+714-02-3114,Sports and travel,2019-02-21,2,Special Air  ,7.904,Cash,WH2
+518-17-2983,Fashion accessories,2019-02-04,4,Regular Air,2.4315,Ewallet,WH1
+779-42-2410,Food and beverages,2019-02-20,3,ExpressAir,5.774,Ewallet,WH3
+190-14-3147,Health and beauty,2019-02-23,4,ExpressAir,1.797,Ewallet,WH3
+408-66-6712,Health and beauty,2019-02-16,6,ExpressAir,4.771,Ewallet,WH2
+679-22-6530,Sports and travel,2019-01-17,2,ExpressAir,4.062,Credit card,WH3
+588-47-8641,Fashion accessories,2019-01-14,10,ExpressAir,5.604,Ewallet,WH1
+642-61-4706,Food and beverages,2019-03-30,2,ExpressAir,9.34,Cash,WH3
+576-31-4774,Health and beauty,2019-03-02,3,Regular Air,3.6705,Ewallet,WH3
+556-41-6224,Health and beauty,2019-02-15,8,ExpressAir,3.364,Credit card,WH2
+811-03-8790,Electronic accessories,2019-03-01,10,Special Air  ,3.6384,Credit card,WH1
+242-11-3142,Fashion accessories,2019-02-24,2,Special Air  ,6.7016,Cash,WH3
+752-23-3760,Sports and travel,2019-02-19,7,Special Air  ,5.1264,Credit card,WH3
+274-05-5470,Food and beverages,2019-02-23,4,ExpressAir,7.347,Cash,WH1
+648-94-3045,Health and beauty,2019-02-07,10,Regular Air,2.9475,Ewallet,WH2
+130-67-4723,Food and beverages,2019-01-11,6,Special Air  ,3.88,Ewallet,WH1
+528-87-5606,Electronic accessories,2019-02-12,1,ExpressAir,3.948,Cash,WH3
+320-85-2052,Sports and travel,2019-01-14,1,Regular Air,1.7405,Credit card,WH3
+370-96-0655,Fashion accessories,2019-01-09,6,ExpressAir,4.932,Ewallet,WH2
+105-10-6182,Fashion accessories,2019-02-27,2,Regular Air,1.074,Ewallet,WH1
+510-79-0415,Sports and travel,2019-01-24,6,Regular Air,1.154,Ewallet,WH3
+241-96-5076,Home and lifestyle,2019-01-08,2,Special Air  ,3.928,Credit card,WH3
+767-97-4650,Sports and travel,2019-01-08,2,Regular Air,3.2415,Credit card,WH3
+648-83-1321,Home and lifestyle,2019-01-16,10,Regular Air,3.178,Cash,WH1
+173-57-2300,Sports and travel,2019-03-13,2,Special Air  ,5.8304,Cash,WH2
+305-03-2383,Food and beverages,2019-02-15,3,Special Air  ,5.368,Cash,WH1
+394-55-6384,Sports and travel,2019-01-25,9,Regular Air,3.5095,Cash,WH2
+266-20-6657,Food and beverages,2019-03-12,7,Special Air  ,4.4032,Ewallet,WH2
+689-05-1884,Health and beauty,2019-03-04,10,Regular Air,2.4315,Cash,WH1
+196-01-2849,Fashion accessories,2019-02-10,7,Special Air  ,5.8704,Cash,WH2
+372-62-5264,Food and beverages,2019-01-16,9,Regular Air,2.63,Cash,WH2
+800-09-8606,Home and lifestyle,2019-01-29,5,ExpressAir,8.737,Cash,WH1
+182-52-7000,Sports and travel,2019-01-01,4,Regular Air,1.352,Ewallet,WH1
+826-58-8051,Home and lifestyle,2019-01-06,4,Special Air  ,4.9752,Ewallet,WH3
+868-06-0466,Electronic accessories,2019-02-19,9,ExpressAir,6.958,Credit card,WH1
+751-41-9720,Home and lifestyle,2019-01-12,10,Special Air  ,7.8,Ewallet,WH2
+626-43-7888,Fashion accessories,2019-02-07,8,Regular Air,3.0205,Ewallet,WH2
+176-64-7711,Food and beverages,2019-03-27,3,Special Air  ,2.5856,Credit card,WH3
+191-29-0321,Fashion accessories,2019-02-27,10,ExpressAir,1.977,Credit card,WH3
+729-06-2010,Health and beauty,2019-01-06,9,Regular Air,4.0235,Cash,WH3
+640-48-5028,Home and lifestyle,2019-03-02,9,Special Air  ,7.0712,Cash,WH3
+186-79-9562,Health and beauty,2019-03-29,7,Regular Air,3.5885,Cash,WH3
+834-45-5519,Electronic accessories,2019-01-31,4,ExpressAir,4.3,Ewallet,WH3
+162-65-8559,Food and beverages,2019-01-21,1,ExpressAir,6.898,Cash,WH2
+760-27-5490,Fashion accessories,2019-01-20,8,Special Air  ,1.2496,Ewallet,WH2
+445-30-9252,Sports and travel,2019-01-17,3,Regular Air,1.285,Ewallet,WH1
+786-94-2700,Food and beverages,2019-02-28,6,Special Air  ,6.4496,Cash,WH1
+728-88-7867,Home and lifestyle,2019-03-19,4,Special Air  ,6.0424,Ewallet,WH2
+183-21-3799,Electronic accessories,2019-02-19,9,Regular Air,3.8815,Ewallet,WH2
+268-20-3585,Health and beauty,2019-02-04,9,Special Air  ,1.108,Ewallet,WH2
+735-32-9839,Fashion accessories,2019-01-31,8,ExpressAir,9.87,Ewallet,WH2
+258-92-7466,Health and beauty,2019-02-06,5,Regular Air,1.784,Credit card,WH1
+857-16-3520,Fashion accessories,2019-03-28,7,Special Air  ,5.7168,Ewallet,WH1
+482-17-1179,Electronic accessories,2019-01-19,3,Special Air  ,0.9552,Credit card,WH1
+788-21-5741,Fashion accessories,2019-02-17,3,Regular Air,2.269,Credit card,WH1
+821-14-9046,Fashion accessories,2019-01-18,6,ExpressAir,1.748,Credit card,WH3
+418-05-0656,Fashion accessories,2019-02-02,7,ExpressAir,2.556,Cash,WH3
+678-79-0726,Sports and travel,2019-01-18,9,Special Air  ,7.2504,Cash,WH2
+776-68-1096,Home and lifestyle,2019-03-18,3,Special Air  ,3.5296,Credit card,WH3
+592-46-1692,Food and beverages,2019-01-11,7,Regular Air,1.8385,Cash,WH2
+434-35-9162,Food and beverages,2019-02-04,4,ExpressAir,2.334,Ewallet,WH3
+149-14-0304,Health and beauty,2019-02-06,8,Special Air  ,2.28,Cash,WH2
+442-44-6497,Home and lifestyle,2019-01-08,3,Regular Air,2.7785,Credit card,WH2
+174-64-0215,Sports and travel,2019-03-05,10,Regular Air,3.487,Credit card,WH3
+210-74-9613,Fashion accessories,2019-03-16,4,Special Air  ,7.7808,Ewallet,WH2
+299-29-0180,Home and lifestyle,2019-03-09,7,ExpressAir,5.218,Cash,WH3
+247-11-2470,Fashion accessories,2019-03-01,4,Regular Air,1.116,Credit card,WH1
+635-28-5728,Health and beauty,2019-02-28,3,ExpressAir,5.6,Ewallet,WH1
+756-49-0168,Fashion accessories,2019-02-08,1,ExpressAir,1.97,Ewallet,WH1
+238-45-6950,Food and beverages,2019-03-01,1,Regular Air,2.686,Ewallet,WH3
+607-65-2441,Health and beauty,2019-03-10,10,Special Air  ,6.556,Credit card,WH2
+386-27-7606,Home and lifestyle,2019-03-23,7,Special Air  ,6.496,Credit card,WH2
+137-63-5492,Electronic accessories,2019-01-29,10,Special Air  ,4.7008,Ewallet,WH2
+197-77-7132,Electronic accessories,2019-01-12,8,Special Air  ,7.3248,Ewallet,WH3
+805-86-0265,Home and lifestyle,2019-03-20,9,Special Air  ,7.5168,Cash,WH1
+733-29-1227,Home and lifestyle,2019-03-23,7,Special Air  ,4.4488,Cash,WH2
+451-73-2711,Food and beverages,2019-01-14,1,Special Air  ,6.7864,Ewallet,WH2
+373-14-0504,Sports and travel,2019-02-12,2,Regular Air,3.5815,Ewallet,WH1
+546-80-2899,Home and lifestyle,2019-02-20,2,ExpressAir,3.769,Ewallet,WH1
+345-68-9016,Sports and travel,2019-01-02,8,Special Air  ,2.5336,Credit card,WH2
+390-17-5806,Food and beverages,2019-02-02,1,Regular Air,1.921,Cash,WH2
+457-13-1708,Fashion accessories,2019-01-08,10,Regular Air,3.2615,Credit card,WH3
+664-14-2882,Home and lifestyle,2019-01-30,5,Regular Air,0.5265,Credit card,WH2
+487-79-6868,Home and lifestyle,2019-03-26,9,Special Air  ,0.9832,Credit card,WH3
+314-23-4520,Health and beauty,2019-01-15,7,Special Air  ,6.4984,Cash,WH2
+210-30-7976,Fashion accessories,2019-03-14,4,Regular Air,1.116,Ewallet,WH3
+585-86-8361,Food and beverages,2019-02-03,5,Special Air  ,2.1824,Credit card,WH1
+807-14-7833,Electronic accessories,2019-02-22,10,Regular Air,0.871,Ewallet,WH1
+775-72-1988,Home and lifestyle,2019-01-24,5,ExpressAir,7.328,Ewallet,WH3
+288-38-3758,Fashion accessories,2019-01-25,3,Special Air  ,6.7896,Ewallet,WH2
+652-43-6591,Fashion accessories,2019-03-09,8,Regular Air,4.8645,Credit card,WH1
+785-96-0615,Electronic accessories,2019-02-17,8,Regular Air,1.787,Ewallet,WH3
+406-46-7107,Home and lifestyle,2019-01-11,6,Regular Air,4.826,Cash,WH1
+250-17-5703,Food and beverages,2019-02-27,10,Special Air  ,1.508,Ewallet,WH1
+156-95-3964,Food and beverages,2019-03-25,4,Special Air  ,4.4312,Ewallet,WH1
+842-40-8179,Food and beverages,2019-02-11,10,Regular Air,3.86,Credit card,WH3
+525-09-8450,Electronic accessories,2019-01-31,10,Special Air  ,5.7704,Credit card,WH3
+410-67-1709,Fashion accessories,2019-01-20,8,ExpressAir,6.388,Ewallet,WH1
+587-73-4862,Health and beauty,2019-03-26,5,Special Air  ,0.8552,Ewallet,WH1
+787-87-2010,Health and beauty,2019-01-20,4,Regular Air,2.775,Credit card,WH1
+593-14-4239,Home and lifestyle,2019-03-05,8,ExpressAir,9.546,Ewallet,WH3
+801-88-0346,Fashion accessories,2019-01-05,3,ExpressAir,7.606,Credit card,WH2
+388-76-2555,Sports and travel,2019-02-13,6,Regular Air,0.6845,Cash,WH3
+711-31-1234,Electronic accessories,2019-03-16,4,Regular Air,4.782,Cash,WH3
+886-54-6089,Home and lifestyle,2019-01-15,6,ExpressAir,1.143,Cash,WH1
+707-32-7409,Sports and travel,2019-02-26,4,ExpressAir,9.554,Ewallet,WH3
+759-98-4285,Health and beauty,2019-02-27,7,ExpressAir,8.587,Credit card,WH2
+201-63-8275,Sports and travel,2019-02-17,7,Special Air  ,5.4392,Ewallet,WH2
+471-06-8611,Food and beverages,2019-02-06,1,ExpressAir,5.242,Credit card,WH2
+200-16-5952,Food and beverages,2019-01-17,2,Regular Air,3.2825,Cash,WH2
+120-54-2248,Food and beverages,2019-01-22,5,Special Air  ,2.3088,Credit card,WH3
+102-77-2261,Health and beauty,2019-03-05,7,Regular Air,3.2655,Credit card,WH2
+875-31-8302,Sports and travel,2019-01-03,1,Regular Air,4.669,Cash,WH3
+102-06-2002,Sports and travel,2019-03-20,5,ExpressAir,2.525,Cash,WH2
+457-94-0464,Electronic accessories,2019-01-31,9,Special Air  ,7.0296,Ewallet,WH3
+629-42-4133,Health and beauty,2019-02-19,8,ExpressAir,2.18,Cash,WH2
+534-53-3526,Sports and travel,2019-02-11,4,Regular Air,4.738,Ewallet,WH1
+307-04-2070,Fashion accessories,2019-02-05,1,ExpressAir,3.062,Credit card,WH1
+468-99-7231,Home and lifestyle,2019-03-03,8,Special Air  ,3.5208,Cash,WH2
+516-77-6464,Health and beauty,2019-02-24,5,Regular Air,0.508,Ewallet,WH2
+404-91-5964,Electronic accessories,2019-02-04,7,Regular Air,3.729,Credit card,WH1
+886-77-9084,Electronic accessories,2019-02-19,8,ExpressAir,7.189,Ewallet,WH2
+790-38-4466,Health and beauty,2019-01-23,5,ExpressAir,1.099,Credit card,WH2
+704-10-4056,Health and beauty,2019-01-14,3,ExpressAir,6.047,Credit card,WH2
+497-37-6538,Sports and travel,2019-01-17,7,ExpressAir,5.891,Ewallet,WH1
+651-96-5970,Fashion accessories,2019-03-03,1,Special Air  ,3.7128,Credit card,WH1
+400-80-4065,Health and beauty,2019-02-15,4,ExpressAir,6.855,Credit card,WH2
+744-16-7898,Home and lifestyle,2019-01-15,10,Regular Air,4.8685,Credit card,WH3
+263-12-5321,Electronic accessories,2019-02-27,7,Regular Air,4.63,Credit card,WH1
+702-72-0487,Electronic accessories,2019-02-26,2,ExpressAir,4.661,Credit card,WH1
+605-83-1050,Fashion accessories,2019-03-15,2,Special Air  ,2.1744,Ewallet,WH3
+443-60-9639,Home and lifestyle,2019-01-24,1,ExpressAir,6.087,Cash,WH2
+864-24-7918,Sports and travel,2019-02-22,10,Regular Air,1.2245,Cash,WH1
+359-94-5395,Health and beauty,2019-03-15,1,Regular Air,4.639,Credit card,WH3
+401-09-4232,Home and lifestyle,2019-02-11,5,ExpressAir,8.669,Ewallet,WH2
+751-15-6198,Sports and travel,2019-01-12,6,ExpressAir,2.301,Ewallet,WH3
+324-41-6833,Electronic accessories,2019-03-03,8,Special Air  ,2.416,Ewallet,WH2
+474-33-8305,Fashion accessories,2019-03-23,7,ExpressAir,6.739,Ewallet,WH2
+759-29-9521,Fashion accessories,2019-03-04,9,Regular Air,2.448,Cash,WH1
+831-81-6575,Electronic accessories,2019-02-23,9,Regular Air,3.7795,Cash,WH3
+220-68-6701,Home and lifestyle,2019-03-17,4,Regular Air,3.8735,Cash,WH1
+618-34-8551,Sports and travel,2019-01-16,2,Special Air  ,7.4544,Credit card,WH1
+257-60-7754,Electronic accessories,2019-01-08,4,Special Air  ,4.0184,Cash,WH1
+559-61-5987,Health and beauty,2019-01-14,1,ExpressAir,1.775,Cash,WH3
+189-55-2313,Fashion accessories,2019-01-31,10,ExpressAir,6.218,Ewallet,WH2
+565-91-4567,Health and beauty,2019-03-15,8,ExpressAir,1.075,Ewallet,WH3
+380-60-5336,Electronic accessories,2019-02-24,10,ExpressAir,4.026,Credit card,WH1
+815-04-6282,Sports and travel,2019-02-08,5,ExpressAir,6.497,Credit card,WH2
+674-56-6360,Electronic accessories,2019-03-22,1,ExpressAir,9.515,Cash,WH1
+778-34-2523,Electronic accessories,2019-01-24,8,Regular Air,2.431,Cash,WH1
+499-27-7781,Food and beverages,2019-03-14,8,Special Air  ,4.2568,Ewallet,WH3
+477-59-2456,Fashion accessories,2019-01-23,7,Special Air  ,3.6352,Cash,WH2
+832-51-6761,Food and beverages,2019-01-19,8,Special Air  ,2.7104,Ewallet,WH1
+869-11-3082,Health and beauty,2019-01-27,4,ExpressAir,9.616,Credit card,WH3
+190-59-3964,Food and beverages,2019-02-03,5,Regular Air,2.358,Credit card,WH3
+366-43-6862,Electronic accessories,2019-03-25,4,Special Air  ,4.2312,Ewallet,WH3
+186-43-8965,Home and lifestyle,2019-02-24,2,ExpressAir,4.768,Credit card,WH1
+784-21-9238,Sports and travel,2019-02-07,1,ExpressAir,1.017,Cash,WH2
+276-75-6884,Health and beauty,2019-03-04,3,Regular Air,3.4355,Cash,WH1
+109-86-4363,Sports and travel,2019-02-14,7,Regular Air,3.004,Credit card,WH3
+569-76-2760,Sports and travel,2019-01-29,4,Regular Air,1.1005,Credit card,WH1
+222-42-0244,Health and beauty,2019-01-28,9,Regular Air,3.6055,Credit card,WH3
+760-53-9233,Fashion accessories,2019-03-26,3,ExpressAir,4.128,Credit card,WH1
+538-22-0304,Electronic accessories,2019-03-24,10,ExpressAir,6.495,Cash,WH2
+416-17-9926,Electronic accessories,2019-01-01,10,ExpressAir,7.422,Credit card,WH1
+237-44-6163,Electronic accessories,2019-01-24,8,Regular Air,0.528,Cash,WH1
+636-17-0325,Health and beauty,2019-02-25,4,Regular Air,3.1285,Cash,WH3
+343-75-9322,Sports and travel,2019-01-09,8,ExpressAir,1.185,Cash,WH3
+528-14-9470,Health and beauty,2019-02-14,1,ExpressAir,9.13,Ewallet,WH1
+427-45-9297,Home and lifestyle,2019-03-12,7,ExpressAir,4.073,Ewallet,WH3
+807-34-3742,Fashion accessories,2019-03-26,1,Special Air  ,4.1904,Cash,WH1
+288-62-1085,Fashion accessories,2019-01-09,5,Regular Air,1.927,Ewallet,WH1
+670-71-7306,Sports and travel,2019-01-02,6,Special Air  ,3.5704,Credit card,WH3
+660-29-7083,Electronic accessories,2019-01-15,10,Regular Air,2.7935,Cash,WH2
+271-77-8740,Sports and travel,2019-01-01,6,ExpressAir,2.922,Ewallet,WH2
+497-36-0989,Fashion accessories,2019-02-15,3,ExpressAir,5.194,Cash,WH1
+291-59-1384,Electronic accessories,2019-02-28,1,Regular Air,3.015,Cash,WH3
+860-73-6466,Sports and travel,2019-03-02,2,ExpressAir,3.947,Credit card,WH1
+549-23-9016,Food and beverages,2019-02-13,2,Special Air  ,1.1896,Credit card,WH2
+896-34-0956,Fashion accessories,2019-01-26,1,Regular Air,1.066,Cash,WH1
+804-38-3935,Electronic accessories,2019-01-30,3,Special Air  ,7.5024,Credit card,WH1
+585-90-0249,Electronic accessories,2019-01-27,1,ExpressAir,7.326,Ewallet,WH1
+862-29-5914,Sports and travel,2019-01-30,1,Regular Air,1.119,Credit card,WH2
+845-94-6841,Food and beverages,2019-01-08,9,ExpressAir,7.288,Cash,WH2
+125-45-2293,Fashion accessories,2019-01-19,6,Special Air  ,7.928,Cash,WH1
+843-73-4724,Fashion accessories,2019-01-25,1,Special Air  ,5.928,Cash,WH1
+409-33-9708,Fashion accessories,2019-02-19,2,Special Air  ,7.8784,Ewallet,WH1
+658-66-3967,Health and beauty,2019-01-14,7,Special Air  ,4.2552,Ewallet,WH2
+866-70-2814,Electronic accessories,2019-02-25,10,Special Air  ,4.2232,Ewallet,WH3
+160-22-2687,Health and beauty,2019-01-23,5,Special Air  ,7.676,Ewallet,WH1
+895-03-6665,Fashion accessories,2019-02-16,9,ExpressAir,3.651,Cash,WH3
+770-42-8960,Food and beverages,2019-01-01,8,ExpressAir,2.112,Cash,WH3
+748-45-2862,Home and lifestyle,2019-03-07,4,Special Air  ,2.2648,Cash,WH1
+234-36-2483,Health and beauty,2019-02-15,6,Regular Air,2.8795,Cash,WH3
+316-66-3011,Food and beverages,2019-01-23,9,Special Air  ,3.8104,Cash,WH1
+848-95-6252,Home and lifestyle,2019-02-20,1,Special Air  ,6.9016,Ewallet,WH2
+840-76-5966,Sports and travel,2019-01-08,2,ExpressAir,1.276,Ewallet,WH1
+152-03-4217,Home and lifestyle,2019-03-17,9,Special Air  ,0.9024,Credit card,WH3
+533-66-5566,Home and lifestyle,2019-01-12,7,Regular Air,2.5535,Cash,WH3
+124-31-1458,Electronic accessories,2019-01-08,3,Regular Air,3.9795,Cash,WH1
+176-78-1170,Health and beauty,2019-01-26,3,Regular Air,1.6905,Ewallet,WH2
+361-59-0574,Sports and travel,2019-03-15,8,Regular Air,4.5265,Credit card,WH3
+101-81-4070,Health and beauty,2019-01-17,2,Special Air  ,5.0256,Ewallet,WH2
+631-34-1880,Food and beverages,2019-01-08,3,Regular Air,1.2155,Credit card,WH2
+852-82-2749,Sports and travel,2019-01-06,4,ExpressAir,6.459,Ewallet,WH1
+873-14-6353,Food and beverages,2019-02-16,7,Special Air  ,1.9856,Credit card,WH1
+584-66-4073,Fashion accessories,2019-03-13,1,ExpressAir,5.65,Ewallet,WH2
+544-55-9589,Electronic accessories,2019-01-28,10,ExpressAir,2.143,Cash,WH3
+166-19-2553,Sports and travel,2019-01-18,6,Regular Air,4.453,Cash,WH1
+737-88-5876,Home and lifestyle,2019-03-19,4,ExpressAir,2.329,Credit card,WH1
+154-87-7367,Home and lifestyle,2019-03-15,8,Special Air  ,5.2208,Ewallet,WH2
+885-56-0389,Fashion accessories,2019-02-12,1,Regular Air,2.6175,Cash,WH2
+608-05-3804,Electronic accessories,2019-02-25,1,ExpressAir,3.975,Cash,WH3
+448-61-3783,Electronic accessories,2019-03-21,8,ExpressAir,9.002,Credit card,WH1
+761-49-0439,Electronic accessories,2019-01-19,8,Regular Air,0.605,Ewallet,WH3
+490-95-0021,Food and beverages,2019-01-08,10,ExpressAir,3.321,Ewallet,WH3
+115-38-7388,Fashion accessories,2019-03-30,8,Special Air  ,0.8144,Credit card,WH2
+311-13-6971,Sports and travel,2019-02-20,10,ExpressAir,3.199,Credit card,WH3
+291-55-6563,Home and lifestyle,2019-03-30,6,Special Air  ,2.7536,Ewallet,WH1
+548-48-3156,Food and beverages,2019-03-19,2,ExpressAir,8.334,Cash,WH1
+460-93-5834,Sports and travel,2019-01-13,7,Special Air  ,3.6464,Cash,WH1
+325-89-4209,Food and beverages,2019-02-05,1,Regular Air,4.395,Ewallet,WH1
+884-80-6021,Electronic accessories,2019-03-23,10,Regular Air,3.6735,Ewallet,WH1
+137-74-8729,Fashion accessories,2019-03-13,8,ExpressAir,1.219,Ewallet,WH2
+880-46-5796,Sports and travel,2019-03-17,10,ExpressAir,7.692,Ewallet,WH1
+389-70-2397,Health and beauty,2019-02-21,5,Regular Air,4.183,Cash,WH2
+114-35-5271,Electronic accessories,2019-02-07,8,ExpressAir,5.791,Cash,WH3
+607-76-6216,Fashion accessories,2019-03-02,5,Special Air  ,7.3992,Credit card,WH2
+715-20-1673,Electronic accessories,2019-03-06,5,Special Air  ,2.2704,Cash,WH3
+811-35-1094,Electronic accessories,2019-02-06,6,Regular Air,2.5225,Credit card,WH3
+699-88-1972,Health and beauty,2019-01-28,8,Special Air  ,7.9328,Credit card,WH3
+781-84-8059,Fashion accessories,2019-01-18,7,ExpressAir,6.074,Ewallet,WH2
+409-49-6995,Food and beverages,2019-02-05,6,ExpressAir,4.727,Cash,WH2
+725-54-0677,Health and beauty,2019-03-02,7,ExpressAir,8.56,Cash,WH2
+146-09-5432,Food and beverages,2019-02-09,9,Regular Air,1.752,Ewallet,WH1
+377-79-7592,Electronic accessories,2019-01-14,9,Regular Air,2.242,Credit card,WH2
+509-10-0516,Home and lifestyle,2019-02-09,4,ExpressAir,4.597,Ewallet,WH3
+595-94-9924,Health and beauty,2019-03-26,5,Special Air  ,2.2184,Credit card,WH1
+865-41-9075,Food and beverages,2019-01-28,7,ExpressAir,1.153,Cash,WH1
+545-07-8534,Health and beauty,2019-02-14,2,Regular Air,2.916,Ewallet,WH2
+118-62-1812,Home and lifestyle,2019-03-24,4,Regular Air,3.919,Cash,WH2
+450-42-3339,Health and beauty,2019-02-09,10,Regular Air,4.2305,Credit card,WH2
+851-98-3555,Health and beauty,2019-03-24,5,Special Air  ,6.6304,Credit card,WH3
+186-71-5196,Food and beverages,2019-03-27,2,Special Air  ,6.3632,Ewallet,WH1
+624-01-8356,Home and lifestyle,2019-01-27,10,ExpressAir,4.901,Credit card,WH3
+313-66-9943,Food and beverages,2019-03-27,3,Special Air  ,2.332,Credit card,WH3
+151-27-8496,Electronic accessories,2019-01-19,4,Special Air  ,4.4904,Ewallet,WH2
+453-33-6436,Home and lifestyle,2019-02-07,8,Regular Air,4.656,Cash,WH1
+522-57-8364,Fashion accessories,2019-01-31,8,Regular Air,2.567,Ewallet,WH1
+459-45-2396,Food and beverages,2019-02-25,3,Regular Air,4.98,Cash,WH1
+717-96-4189,Electronic accessories,2019-02-02,6,ExpressAir,3.549,Cash,WH2
+722-13-2115,Sports and travel,2019-03-14,1,ExpressAir,4.285,Credit card,WH2
+749-81-8133,Fashion accessories,2019-03-11,4,Regular Air,4.7335,Cash,WH1
+777-67-2495,Home and lifestyle,2019-02-22,3,Special Air  ,5.5176,Ewallet,WH3
+636-98-3364,Electronic accessories,2019-03-02,3,Special Air  ,2.1008,Ewallet,WH3
+246-55-6923,Home and lifestyle,2019-03-10,9,Special Air  ,2.8632,Credit card,WH2
+181-82-6255,Home and lifestyle,2019-02-08,6,ExpressAir,1.637,Cash,WH3
+838-02-1821,Home and lifestyle,2019-02-22,2,ExpressAir,1.273,Credit card,WH2
+887-42-0517,Sports and travel,2019-01-10,7,Regular Air,4.157,Credit card,WH2
+457-12-0244,Sports and travel,2019-03-14,6,Regular Air,1.761,Ewallet,WH2
+226-34-0034,Electronic accessories,2019-01-10,4,ExpressAir,1.378,Ewallet,WH3
+321-49-7382,Sports and travel,2019-02-15,1,Regular Air,4.4155,Credit card,WH3
+397-25-8725,Health and beauty,2019-01-13,9,Regular Air,1.981,Credit card,WH1
+431-66-2305,Electronic accessories,2019-02-15,9,Regular Air,4.4125,Credit card,WH3
+825-94-5922,Sports and travel,2019-03-02,2,Regular Air,1.2655,Ewallet,WH3
+641-62-7288,Home and lifestyle,2019-03-24,6,Special Air  ,7.9936,Ewallet,WH3
+756-93-1854,Fashion accessories,2019-02-02,2,Regular Air,4.1675,Credit card,WH2
+243-55-8457,Food and beverages,2019-02-27,10,Special Air  ,5.9552,Ewallet,WH1
+458-10-8612,Health and beauty,2019-01-20,7,ExpressAir,6.408,Ewallet,WH2
+501-61-1753,Home and lifestyle,2019-01-03,6,Special Air  ,5.052,Ewallet,WH3
+235-06-8510,Home and lifestyle,2019-01-24,3,Regular Air,4.286,Ewallet,WH2
+433-08-7822,Health and beauty,2019-01-05,7,Regular Air,3.9445,Ewallet,WH2
+361-85-2571,Sports and travel,2019-03-30,5,Special Air  ,7.1584,Cash,WH1
+131-70-8179,Health and beauty,2019-02-17,3,Special Air  ,7.3672,Cash,WH1
+500-02-2261,Food and beverages,2019-03-21,6,Regular Air,2.8645,Ewallet,WH2
+720-72-2436,Food and beverages,2019-03-02,4,Special Air  ,5.3216,Ewallet,WH1
+702-83-5291,Fashion accessories,2019-03-27,9,Regular Air,4.991,Cash,WH2
+809-69-9497,Home and lifestyle,2019-01-19,10,ExpressAir,4.568,Ewallet,WH1
+449-16-6770,Health and beauty,2019-02-19,5,Regular Air,2.5395,Credit card,WH1
+333-23-2632,Health and beauty,2019-03-28,7,ExpressAir,1.008,Cash,WH1
+489-82-1237,Electronic accessories,2019-01-05,7,ExpressAir,9.388,Credit card,WH1
+859-97-6048,Electronic accessories,2019-03-26,2,Regular Air,4.2125,Credit card,WH2
+676-10-2200,Fashion accessories,2019-02-03,1,ExpressAir,5.378,Ewallet,WH3
+373-88-1424,Home and lifestyle,2019-02-06,5,Regular Air,1.7905,Ewallet,WH2
+365-16-4334,Food and beverages,2019-02-24,8,ExpressAir,2.643,Ewallet,WH3
+503-21-4385,Health and beauty,2019-02-21,3,Special Air  ,3.1928,Ewallet,WH3
+305-89-2768,Home and lifestyle,2019-01-09,3,Regular Air,1.095,Ewallet,WH3
+574-80-1489,Food and beverages,2019-02-25,4,ExpressAir,6.285,Ewallet,WH3
+784-08-0310,Food and beverages,2019-01-13,4,Special Air  ,1.6832,Cash,WH2
+200-40-6154,Home and lifestyle,2019-02-09,6,ExpressAir,6.591,Cash,WH3
+846-10-0341,Fashion accessories,2019-01-06,7,Regular Air,2.1285,Cash,WH1
+577-34-7579,Food and beverages,2019-01-10,9,ExpressAir,5.049,Cash,WH2
+430-02-3888,Electronic accessories,2019-02-07,6,Special Air  ,3.6816,Cash,WH3
+867-47-1948,Home and lifestyle,2019-01-09,10,Regular Air,0.79,Cash,WH2
+384-59-6655,Food and beverages,2019-02-19,9,Regular Air,4.933,Cash,WH1
+256-58-3609,Fashion accessories,2019-03-18,1,ExpressAir,9.198,Cash,WH2
+324-92-3863,Electronic accessories,2019-02-05,2,ExpressAir,2.089,Cash,WH1
+593-08-5916,Fashion accessories,2019-03-19,1,ExpressAir,1.55,Credit card,WH1
+364-34-2972,Electronic accessories,2019-03-30,3,Special Air  ,7.7456,Cash,WH2
+794-42-3736,Food and beverages,2019-01-26,2,ExpressAir,3.333,Credit card,WH3
+172-42-8274,Electronic accessories,2019-03-02,2,Regular Air,1.9135,Credit card,WH3
+558-60-5016,Home and lifestyle,2019-03-04,9,Special Air  ,2.664,Ewallet,WH1
+195-06-0432,Home and lifestyle,2019-01-13,3,Special Air  ,6.4808,Credit card,WH1
+605-03-2706,Health and beauty,2019-03-25,3,ExpressAir,1.58,Cash,WH1
+214-30-2776,Electronic accessories,2019-03-11,5,Regular Air,1.7245,Credit card,WH3
+746-04-1077,Food and beverages,2019-01-01,10,Regular Air,4.2315,Credit card,WH3
+448-34-8700,Home and lifestyle,2019-02-10,7,Special Air  ,2.9528,Ewallet,WH3
+452-04-8808,Electronic accessories,2019-01-26,7,ExpressAir,8.708,Cash,WH3
+531-56-4728,Home and lifestyle,2019-02-11,3,ExpressAir,8.008,Cash,WH1
+744-82-9138,Fashion accessories,2019-02-07,2,Regular Air,4.3065,Cash,WH2
+883-69-1285,Fashion accessories,2019-03-06,2,Special Air  ,3.9936,Credit card,WH3
+221-25-5073,Food and beverages,2019-03-04,4,ExpressAir,7.466,Cash,WH1
+518-71-6847,Food and beverages,2019-02-26,6,Regular Air,1.33,Ewallet,WH3
+156-20-0370,Electronic accessories,2019-03-10,1,ExpressAir,2.545,Credit card,WH3
+151-33-7434,Food and beverages,2019-02-04,1,ExpressAir,6.777,Credit card,WH3
+728-47-9078,Food and beverages,2019-01-19,4,Special Air  ,4.7672,Cash,WH2
+809-46-1866,Health and beauty,2019-01-23,4,Special Air  ,4.652,Cash,WH1
+139-32-4183,Sports and travel,2019-03-14,9,Regular Air,4.874,Ewallet,WH1
+148-41-7930,Health and beauty,2019-01-23,7,ExpressAir,9.996,Cash,WH2
+189-40-5216,Electronic accessories,2019-01-09,7,Special Air  ,7.7096,Cash,WH2
+374-38-5555,Fashion accessories,2019-02-07,5,Special Air  ,5.0968,Ewallet,WH3
+764-44-8999,Health and beauty,2019-02-18,2,ExpressAir,1.476,Ewallet,WH3
+552-44-5977,Health and beauty,2019-01-03,8,ExpressAir,6.2,Credit card,WH3
+267-62-7380,Electronic accessories,2019-03-29,10,Special Air  ,6.5872,Ewallet,WH2
+430-53-4718,Health and beauty,2019-01-28,8,Special Air  ,6.0296,Credit card,WH3
+886-18-2897,Food and beverages,2019-03-22,5,ExpressAir,5.656,Credit card,WH1
+602-16-6955,Sports and travel,2019-01-24,10,Regular Air,3.83,Ewallet,WH3
+745-74-0715,Electronic accessories,2019-03-10,2,Regular Air,2.9015,Ewallet,WH1
+690-01-6631,Fashion accessories,2019-02-22,10,Special Air  ,1.3992,Ewallet,WH3
+652-49-6720,Electronic accessories,2019-02-18,1,Regular Air,3.0475,Ewallet,WH2
+233-67-5758,Health and beauty,2019-01-29,1,Special Air  ,3.228,Ewallet,WH2
+303-96-2227,Home and lifestyle,2019-03-02,10,Special Air  ,7.7904,Ewallet,WH3
+727-02-1313,Food and beverages,2019-02-09,1,ExpressAir,3.184,Cash,WH1
+347-56-2442,Home and lifestyle,2019-02-22,1,Regular Air,3.291,Cash,WH1
+849-09-3807,Fashion accessories,2019-02-18,7,ExpressAir,8.834,Cash,WH1
+dc39bdd9-d82d-4e0c-9947-fb524e4a8920,Health and beauty,2019-02-22,1,Special Air,2.24,Credit Card,WH2
+3c63b47b-e1e2-4e6f-a017-07cd74410356,Food and beverages,2019-01-30,2,Regular Air,2.2,Cash,WH2
+0d317bba-2122-4923-97e4-7f31996dc86b,Sports and travel,2019-02-05,5,ExpressAir,9.4,E-wallet,WH1
+d836fb60-5ba3-434f-b037-626c52ea4ed2,Home and lifestyle,2019-03-09,5,Special Air,2.88,E-wallet,WH1
+0268dc74-4b06-4290-8937-76b84ba71b75,Electronic accessories,2019-01-10,8,ExpressAir,5.1,Cash,WH3
+8304d5ba-31a2-48f3-8223-51d7b886c2e0,Fashion accessories,2019-02-24,8,ExpressAir,9.7,E-wallet,WH1
+9c40f840-d886-4129-b5d0-59c7f50ac51d,Sports and travel,2019-02-10,2,Special Air,4.48,E-wallet,WH2
+8324a26a-cab0-4203-b400-2d1459cf2e8d,Health and beauty,2019-03-19,7,Regular Air,4.35,Credit Card,WH1
+288e5a58-42c9-4780-a8c9-895d220b1273,Food and beverages,2019-03-16,2,Regular Air,4.3,Cash,WH3
+4bcf6584-ab22-4d81-a792-2132d5b31f90,Electronic accessories,2019-02-03,4,Regular Air,1.5,Cash,WH1
+722738a6-4d13-4e7f-82ef-e2da3cc5b0c6,Electronic accessories,2019-03-18,10,ExpressAir,2.7,Credit Card,WH1
+9d7a13a8-44d8-47ed-8572-7ee9ec88dee0,Food and beverages,2019-02-20,10,Special Air,1.44,E-wallet,WH1
+176f03f2-450e-4fc2-8bae-c59aceb6b54f,Electronic accessories,2019-01-30,4,Regular Air,3.65,E-wallet,WH2
+3578ed91-243c-4568-a6fc-3c9cc375b242,Home and lifestyle,2019-01-19,8,ExpressAir,2.2,Cash,WH3
+f4877aae-895a-4f33-88f7-1ffd2bfaf1cc,Food and beverages,2019-03-09,10,Regular Air,2.65,Cash,WH2
+15406d9c-43a9-4e97-b326-4b7e31e296bc,Sports and travel,2019-02-04,10,ExpressAir,1.0,Credit Card,WH1
+5b62127d-9edf-4ed7-bbbf-5d9f4bbffb5a,Health and beauty,2019-02-09,3,ExpressAir,2.5,Credit Card,WH1
+637290fc-074d-42b1-b9bf-5ea2b17a1410,Sports and travel,2019-03-27,4,Special Air,1.52,Credit Card,WH3
+fa032ff8-218a-45de-aa96-ab7dc4cfe05b,Electronic accessories,2019-02-03,6,Regular Air,1.35,Credit Card,WH1
+7fe7d66e-5461-43f3-b151-04e78beab612,Health and beauty,2019-02-08,7,ExpressAir,4.194385319255907,Credit Card,WH2
+215c939d-fef1-47f3-a91b-d464a3c916a3,Home and lifestyle,2019-01-04,10,Regular Air,4.194385319255907,Credit Card,WH2
+46b74985-011c-4ad6-8d05-af0c41a9f516,Fashion accessories,2019-01-25,7,Regular Air,4.194385319255907,Cash,WH3
+6b6f33cd-ba23-40c1-ae7b-4c5addd39a53,Food and beverages,2019-01-09,1,ExpressAir,4.194385319255907,E-wallet,WH1
+9d138377-efa5-412f-8252-40e60dcc58b2,Electronic accessories,2019-02-03,6,Special Air,4.194385319255907,E-wallet,WH2
+35505904-9e1a-4021-9e37-77b363e883c7,Food and beverages,2019-01-02,1,Regular Air,4.194385319255907,Credit Card,WH1
+74d63847-2cb5-4e72-8434-bcf891b5af9d,Food and beverages,2019-01-10,4,Special Air,4.194385319255907,Cash,WH2
+16a5d84e-87cb-42f2-8057-718259fe8cbc,Health and beauty,2019-02-23,9,Regular Air,4.194385319255907,Cash,WH1
+7a95ac55-11c7-42de-9bf4-ab3687dc6136,Sports and travel,2019-01-07,4,ExpressAir,4.194385319255907,E-wallet,WH1
+f26f0580-0102-4bbe-9b15-48f9dd7edd49,Health and beauty,2019-03-29,1,ExpressAir,4.194385319255907,E-wallet,WH2
+a3912d91-fc96-40f4-acee-50227632cabb,Fashion accessories,2019-01-14,5,Special Air,4.194385319255907,E-wallet,WH2
+ac49b73e-6d6e-41e2-80f2-677efbadc34f,Electronic accessories,2019-02-11,3,ExpressAir,4.4,Credit Card,WH3
+00858d2d-f1cb-4e96-af15-dcbf37695192,Sports and travel,2019-02-15,6,Regular Air,1.25,Cash,WH1
+61cab50a-9588-4534-96c3-36be7f0bf1ca,Fashion accessories,2019-02-03,3,ExpressAir,2.6,E-wallet,WH2
+26721f44-b0df-4064-9c9f-5d53e2336309,Electronic accessories,2019-02-11,5,Special Air,2.0,Credit Card,WH2
+f6dd86f6-3a35-4f65-837c-bffe13cb0216,Health and beauty,2019-02-24,8,Special Air,1.36,Credit Card,WH1
+d9dafcbe-beee-47e3-898f-2c0850880fcf,Home and lifestyle,2019-01-26,1,Special Air,6.72,Cash,WH2
+6480f415-1bc5-400c-b2e7-d18227d89883,Fashion accessories,2019-01-30,5,Special Air,1.2,E-wallet,WH1
+76ee705b-ff85-4b96-a6e9-afa12a48ff63,Fashion accessories,2019-01-03,2,Special Air,4.56,Cash,WH3
+e7d9bdc5-d451-468f-a898-afbfdf95cb11,Home and lifestyle,2019-03-10,6,Special Air,3.84,E-wallet,WH1
+d68b8493-e6b9-4898-987e-993015f29a69,Food and beverages,2019-01-09,3,Regular Air,3.2,Cash,WH2
+37dc5ba4-3226-40f6-87ae-227c655fa3fd,Electronic accessories,2019-02-09,4,ExpressAir,9.8,Credit Card,WH3
+b4bfbc73-34f5-4950-ae63-0b4ca1b340ef,Sports and travel,2019-03-17,7,Special Air,0.8,Cash,WH1
+96b88449-8a8a-4ed5-9fc7-309863fe072f,Electronic accessories,2019-03-06,7,Regular Air,1.25,E-wallet,WH1
+57eeb73e-d1a4-46a6-9438-465b5f5f4717,Home and lifestyle,2019-01-23,2,Regular Air,4.5,Credit Card,WH3
+fc910b16-eb3a-417c-b403-5c9db01e1009,Sports and travel,2019-02-20,5,Special Air,2.16,Cash,WH2
+bac5ecbb-e91c-4633-a845-a6200dd5e020,Food and beverages,2019-02-11,9,ExpressAir,1.4,Cash,WH2
+84d6f718-6fdb-4e94-a1e3-efc79af9b38a,Fashion accessories,2019-02-20,10,Special Air,5.84,E-wallet,WH3
+aba00069-e790-4220-af19-dffd33e94e5f,Food and beverages,2019-01-13,3,ExpressAir,7.4,E-wallet,WH3
+06eb148e-9739-49a5-b8d5-27affad995eb,Electronic accessories,2019-02-02,4,ExpressAir,9.9,E-wallet,WH1
+0b2cb82a-4094-4b2d-8904-bea9099238a0,Fashion accessories,2019-01-03,2,Regular Air,4.15,Cash,WH1
+c03c0f88-a786-47fe-95e3-a14b51f265d0,Home and lifestyle,2019-01-12,10,ExpressAir,3.7,E-wallet,WH3
+4e33ecb9-f22c-449a-a43d-3eaa3ecebda3,Food and beverages,2019-03-18,7,ExpressAir,3.7,Credit Card,WH3
+4d2f3420-9f0e-4106-bea9-4bd590f7194e,Health and beauty,2019-01-08,7,ExpressAir,5.6,Credit Card,WH3
+f6143505-51a5-4fc2-81b6-96d8cb43aeb4,Electronic accessories,2019-01-05,8,ExpressAir,8.9,E-wallet,WH1
+4f108399-6a56-4bf1-a8cb-0e1c20eb4703,Health and beauty,2019-02-12,7,Special Air,4.16,Cash,WH2
+5f702f8f-6c85-4dd1-b203-96d9f13774be,Home and lifestyle,2019-03-10,3,Special Air,4.56,E-wallet,WH2
+ac49f1d3-7423-41db-b08d-5d78ea32aee0,Health and beauty,2019-03-07,2,Special Air,4.32,Credit Card,WH2
+d5c3086a-5f36-419e-a740-3edb59d0e0d7,Health and beauty,2019-01-19,3,ExpressAir,3.1,E-wallet,WH1
+3d984405-2b77-48ce-9871-809cf1bcd5f2,Home and lifestyle,2019-02-22,1,ExpressAir,6.6,E-wallet,WH3
+7f40bb5b-a989-49ac-b825-140a90c05346,Electronic accessories,2019-01-17,3,Regular Air,0.65,Cash,WH3
+742f5a39-0bbf-40f7-9c22-91e35fdcdeb4,Sports and travel,2019-03-10,8,ExpressAir,8.8,Credit Card,WH2
+e40a368f-e92a-4e13-88db-181cf992a1c9,Home and lifestyle,2019-03-22,3,Regular Air,2.4,Cash,WH2
+60aa0559-dbcc-446c-8980-ba14d414769f,Electronic accessories,2019-01-07,2,Regular Air,2.45,E-wallet,WH1
+3c32fe53-89a5-4e31-935e-744102ae6204,Fashion accessories,2019-03-17,1,ExpressAir,4.4,E-wallet,WH1
+29c2a7d1-d3a7-4b0c-aab0-7839537871c0,Fashion accessories,2019-01-16,5,Special Air,1.92,Cash,WH2
+a0337719-336d-4363-9cd5-9bc924f070e1,Food and beverages,2019-01-31,3,Regular Air,3.8,Credit Card,WH2
+510e9f68-88cb-426f-be25-b913c5f9a24c,Fashion accessories,2019-02-26,2,Special Air,7.04,E-wallet,WH1
+bc3bc4cb-d684-456b-a88f-eca5e574df86,Health and beauty,2019-01-21,6,ExpressAir,4.5,Credit Card,WH2
+cf43bf3c-78ff-4574-a1ae-156dc20f17c7,Sports and travel,2019-02-06,4,Special Air,7.68,E-wallet,WH1
+4f7ce6de-fafa-47c4-a024-78477923820c,Fashion accessories,2019-02-21,5,Regular Air,2.9,Cash,WH1
+fafd6b6a-34a4-41b2-921f-6b1cc069a541,Fashion accessories,2019-03-21,8,ExpressAir,9.4,Credit Card,WH3
+d562a68c-b51f-42a4-8688-408a4b35f533,Fashion accessories,2019-03-21,10,Regular Air,4.9,Credit Card,WH2
+64792899-2e3e-475c-9460-73be3df73579,Health and beauty,2019-01-17,10,Regular Air,0.95,Credit Card,WH2
+cb4bb812-4a83-41a2-bcc7-9eefaffa482f,Home and lifestyle,2019-02-04,6,Special Air,4.88,E-wallet,WH2
+ff44626c-cb3a-4e44-b4e1-e509eea790fb,Food and beverages,2019-02-05,10,Regular Air,2.05,E-wallet,WH1
+b5b544e8-2893-4dbc-ae3e-057b2042e4bf,Sports and travel,2019-01-03,2,ExpressAir,9.8,Cash,WH2
+65c01081-646e-41e8-94bb-b84bf128a4c6,Health and beauty,2019-02-22,10,Regular Air,1.1,Credit Card,WH2
+af760b00-f252-4584-8a3d-fa9487ba53f5,Home and lifestyle,2019-02-10,8,Special Air,6.4,Cash,WH1
+37de0fb0-3a5b-4baa-993b-dd8afcd3f2c8,Home and lifestyle,2019-03-19,1,Special Air,6.08,Credit Card,WH2
+04487726-750d-4d6a-8be1-2084fde3d973,Food and beverages,2019-01-23,9,Regular Air,1.45,Credit Card,WH3
+79db2c36-dee1-45ae-9ad1-4a9e34ff4661,Electronic accessories,2019-02-03,5,Regular Air,4.1,Cash,WH1
+027aa328-81d2-4a9e-9293-eb9daddeec2c,Home and lifestyle,2019-01-13,10,Special Air,6.64,E-wallet,WH1
+1d4e005b-06a2-4cab-adf5-cc5b91197354,Fashion accessories,2019-03-22,8,Special Air,2.72,Cash,WH3
+0837fdcc-58a4-43e0-ad1f-423af13ae7c6,Electronic accessories,2019-02-23,10,Regular Air,2.5,Cash,WH2
+c0748e4c-c759-41d7-919e-acf78f036789,Health and beauty,2019-02-07,7,ExpressAir,1.5,E-wallet,WH2
+abe880f8-dd7c-48b1-be52-b2e8ab7a715e,Fashion accessories,2019-03-23,10,Special Air,7.12,E-wallet,WH1
+af47cf92-9057-4f46-8f4b-d9c30a56fc71,Health and beauty,2019-01-18,2,Special Air,1.04,Credit Card,WH3
+7ba7995b-6520-4b5f-b829-c409ea1b5252,Electronic accessories,2019-02-03,2,ExpressAir,1.6,E-wallet,WH3
+264765fe-2de1-423e-bbc3-0caba8f83812,Home and lifestyle,2019-02-12,5,ExpressAir,9.2,Cash,WH2
+ec7f7640-b708-4444-9a5e-7a5bcece8e0f,Sports and travel,2019-01-29,10,ExpressAir,1.4,Cash,WH2
+d419c5c2-7c62-4339-a539-d591c9cd15c5,Fashion accessories,2019-02-03,10,Special Air,2.88,Credit Card,WH2
+dad3a186-c2bf-4953-8e54-e0a451b7b978,Home and lifestyle,2019-02-19,9,ExpressAir,4.7,Cash,WH2
+a9ecd0c6-4954-4266-b418-2c90985de1e7,Fashion accessories,2019-01-25,8,Regular Air,1.55,Credit Card,WH3
+088573b0-b964-4b24-8fd0-d1fab6829a84,Food and beverages,2019-02-22,5,ExpressAir,3.1,Cash,WH2
+0b3115fe-9130-4cd2-94f8-5c39f104eaeb,Fashion accessories,2019-01-23,1,Special Air,1.68,Credit Card,WH3
+7c6277b2-e8c1-492f-9117-5330d01b1d13,Health and beauty,2019-02-25,10,ExpressAir,7.9,E-wallet,WH2
+2960f91b-ab32-472b-857c-8a457761e0dd,Sports and travel,2019-01-03,4,Regular Air,0.8,Cash,WH1
+8a6c38e8-0976-43dd-9ecd-9b7071cb182e,Health and beauty,2019-02-14,7,Special Air,6.8,Cash,WH1
+59138f46-221e-4b39-8939-975ae3d9fbbd,Home and lifestyle,2019-03-26,6,Regular Air,2.15,E-wallet,WH1
+736beecd-cd5a-4d53-8fcd-54fc969f2e43,Home and lifestyle,2019-01-27,7,ExpressAir,3.0,E-wallet,WH1
+6262fa96-b2de-46c7-8643-30ec6705c440,Food and beverages,2019-01-22,9,ExpressAir,3.4,Cash,WH2
+5fde0dc1-2d8a-4649-8eb8-0ff2cd8e6ae2,Electronic accessories,2019-02-18,6,ExpressAir,8.5,E-wallet,WH3
+fd912fb8-603b-4f96-a96a-4cfa20b60af9,Electronic accessories,2019-02-22,10,Special Air,6.32,Cash,WH3
+ba2861fe-48d2-4608-a026-bf5e7adb45e9,Electronic accessories,2019-01-13,9,Special Air,4.56,Credit Card,WH3
+fd859662-4a48-499f-956f-10ee0bfcd144,Food and beverages,2019-02-22,10,Regular Air,0.5,Cash,WH3
+1951af83-af50-42dd-aec6-3b6d95e75a2b,Food and beverages,2019-03-29,10,Regular Air,1.55,E-wallet,WH1
+3acddfa9-1113-4452-b12f-9c331d2695f6,Home and lifestyle,2019-01-16,10,Regular Air,3.35,E-wallet,WH2
+50bf9969-633b-4106-a713-358f1c141f92,Health and beauty,2019-01-30,6,ExpressAir,1.0,Credit Card,WH1
+8e0a9624-d220-4f12-9285-f0c4a9213f65,Electronic accessories,2019-01-29,4,Regular Air,2.1,Credit Card,WH1
+81245f90-363d-43bf-b07e-856f2771a5a4,Electronic accessories,2019-03-14,8,Regular Air,2.5,Cash,WH1
+f6578769-5287-457c-8c1c-15082f30aafc,Home and lifestyle,2019-03-07,6,Special Air,5.84,Cash,WH3
+3c5016f8-263f-46bf-8435-f7470fdc7fc7,Sports and travel,2019-02-02,9,Regular Air,1.1,Credit Card,WH1
+3b78a54e-cf1b-4486-af3f-a1846716cad3,Fashion accessories,2019-03-01,2,ExpressAir,4.1,Credit Card,WH1
+e92f3953-3255-441d-b19c-bee6d2094438,Home and lifestyle,2019-03-28,6,ExpressAir,1.2,Credit Card,WH3
+2753e052-d693-4d55-b9ba-2463a9de3756,Electronic accessories,2019-01-08,4,Special Air,2.96,Cash,WH3
+8258917f-78a7-4cbe-a323-3e6319c3c8fc,Home and lifestyle,2019-02-10,7,Special Air,2.56,E-wallet,WH2
+f00d018f-df66-43da-a9b5-3ecb3df431d4,Food and beverages,2019-02-09,9,Regular Air,1.45,Cash,WH2
+3f27747c-4661-4146-ba68-5f9a4c527ef9,Health and beauty,2019-01-23,9,Regular Air,4.75,Cash,WH3
+2fd65b3c-31d1-4e26-b950-259a0db0f966,Sports and travel,2019-03-20,4,ExpressAir,7.7,Cash,WH1
+20225d2f-78da-4525-82f3-782ff058ddae,Health and beauty,2019-02-11,3,Regular Air,4.1,Cash,WH1
+e1acc633-c2fb-46a3-a939-a403b4b1f68c,Home and lifestyle,2019-03-17,5,Special Air,7.28,Cash,WH3
+f89b63fd-5b98-410c-8e8e-70c9ce381cdc,Sports and travel,2019-01-19,9,ExpressAir,3.3,Cash,WH3
+7f31abaf-9602-4789-96ad-bbcbbeebde06,Sports and travel,2019-01-11,2,Regular Air,0.9,Cash,WH2
+b0c7f9fd-7151-4fdd-8899-7d1a46e67cce,Health and beauty,2019-03-07,6,Regular Air,4.25,E-wallet,WH1
+e9b3bc84-e237-4a3a-acd9-b3a30364d01e,Food and beverages,2019-01-23,8,ExpressAir,4.3,E-wallet,WH1
+bcd4db14-cbc4-4692-949c-cfff443cf066,Health and beauty,2019-03-23,9,Regular Air,2.35,Credit Card,WH3
+826848e1-887b-4ef8-9e65-8da7113e634a,Food and beverages,2019-02-04,7,Special Air,6.96,E-wallet,WH2
+4c6b9f10-fb18-479d-8c7b-e4bb3b90f35c,Food and beverages,2019-03-29,1,Regular Air,3.4,Credit Card,WH1
+d79efe96-8843-4df8-aeb0-98f057736941,Home and lifestyle,2019-01-18,4,Special Air,2.56,Credit Card,WH1
+d4d47d90-7a79-44fb-bfca-7eba9e388a7f,Home and lifestyle,2019-02-12,4,ExpressAir,8.5,Credit Card,WH3
+3ea947f7-3bab-4263-9843-09ba1a7a3741,Fashion accessories,2019-02-10,3,Special Air,3.36,Cash,WH2
+d300a618-4a4f-40cc-97db-ac87aa31f7dd,Home and lifestyle,2019-02-20,1,ExpressAir,1.1,Cash,WH1
+f2bbee53-2be1-49de-bf28-b5ccdf213f46,Sports and travel,2019-01-24,8,Regular Air,3.0,Cash,WH2
+91a6ab24-4e8d-4e8b-9890-42430b9b5868,Home and lifestyle,2019-02-04,10,ExpressAir,5.3,E-wallet,WH1
+a5e72979-4256-4de2-8e40-3af7756bdeab,Electronic accessories,2019-01-14,1,Regular Air,1.95,Cash,WH1
+b237fcae-6b9c-4268-94e7-77177ac5b155,Electronic accessories,2019-03-07,2,Regular Air,1.05,Credit Card,WH1
+c505b556-3e48-4d28-b5ef-df7a5717a59e,Fashion accessories,2019-03-08,2,Regular Air,4.25,E-wallet,WH1
+92eed424-a0bd-4608-b8dd-469a7686f596,Health and beauty,2019-02-24,1,Regular Air,2.2,Credit Card,WH3
+b203e9ca-20e8-450c-8998-8f03d74598e2,Home and lifestyle,2019-01-31,7,Special Air,5.92,E-wallet,WH1
+d3c5fe24-ff58-4594-bdba-4cfe0c8a2667,Food and beverages,2019-01-11,10,Regular Air,3.65,E-wallet,WH1
+03b89ee6-3efa-47be-bea9-c8d539b3a063,Fashion accessories,2019-03-04,9,Regular Air,3.55,Cash,WH1
+b187f70b-3b19-4183-976e-19abd1c7964c,Home and lifestyle,2019-02-13,3,Special Air,6.72,Cash,WH3
+628ec4b9-5fae-4fd4-a4bc-9203920ff943,Electronic accessories,2019-03-03,3,Special Air,6.96,Credit Card,WH3
+b5fb541e-315e-454d-94e7-a4d733f68c79,Health and beauty,2019-03-27,9,ExpressAir,7.8,E-wallet,WH2
+749cbb9b-dad1-419d-8e9b-e0af4628e744,Electronic accessories,2019-01-15,3,Regular Air,1.05,E-wallet,WH1
+aba509f6-6b83-436d-99bc-92ea45156016,Electronic accessories,2019-03-13,2,Special Air,1.04,Credit Card,WH3
+4f4dcf7d-b923-432f-893c-dd029de79451,Food and beverages,2019-02-17,7,Special Air,7.12,Cash,WH3
+325894b7-11e6-4546-bdb4-9e70c376142f,Food and beverages,2019-02-22,1,ExpressAir,5.2,Cash,WH2
+0a3124b2-4d63-4b9c-9387-4e0e88cd6e72,Electronic accessories,2019-02-07,8,Special Air,4.0,E-wallet,WH2
+10c4007c-cc04-4b02-81cc-c161553ebbe3,Home and lifestyle,2019-02-24,8,ExpressAir,1.5,E-wallet,WH1
+d96ea91e-c1fc-42da-b459-e6e6cd9bd94e,Sports and travel,2019-03-11,6,Special Air,2.64,Cash,WH3
+47944c46-e82f-4691-8beb-31e0ccfba1e9,Food and beverages,2019-02-13,7,Regular Air,3.45,Credit Card,WH3
+85559821-eeb8-4a95-8cc0-51b88512633b,Electronic accessories,2019-02-01,5,ExpressAir,6.0,E-wallet,WH1
+4ba5becb-5b7c-4428-8085-4f9620690b77,Home and lifestyle,2019-03-27,7,Special Air,6.64,Cash,WH2
+481c1b27-ce4e-4f9b-87e0-16d538f39b14,Electronic accessories,2019-01-14,1,ExpressAir,4.7,E-wallet,WH3
+0ba83255-0b29-499f-a214-1b6f84d29469,Home and lifestyle,2019-02-11,9,Special Air,6.88,E-wallet,WH3
+43811cc9-b83d-4b30-b82c-eae9214d9d96,Health and beauty,2019-02-10,3,Special Air,2.72,Credit Card,WH2
+8f00e6e0-a98a-4a3a-8561-a7d7cbca9ad8,Health and beauty,2019-03-12,1,Special Air,1.04,E-wallet,WH1
+5be6b14d-f1e1-4f85-b158-d5595a4c55d7,Health and beauty,2019-01-31,4,Regular Air,1.3,E-wallet,WH2
+5da1912c-a266-48f4-96b7-d0a858c94ba3,Electronic accessories,2019-01-01,6,ExpressAir,2.2,Credit Card,WH1
+fd8012d8-45d4-4a9c-9ef4-3bcdcd25491f,Food and beverages,2019-03-15,8,Special Air,6.32,Credit Card,WH2
+cbb4c33f-c47e-41a5-a460-c58dac258e37,Health and beauty,2019-02-23,10,Special Air,4.08,Credit Card,WH3
+a198b166-c13b-4a18-92a9-280bba81bc78,Health and beauty,2019-01-28,9,ExpressAir,1.0,E-wallet,WH2
+72e6cb33-111f-4c9b-b4e5-ae39a7f85114,Health and beauty,2019-01-28,4,ExpressAir,4.2,E-wallet,WH1
+9aefea35-c1c7-4793-b569-f3db73764fc7,Sports and travel,2019-03-01,5,Regular Air,3.25,Credit Card,WH2
+1f5c2994-5503-4e4c-b04f-b2c122029ac7,Home and lifestyle,2019-03-22,2,Regular Air,1.5,E-wallet,WH2
+05ab7772-4879-4359-b462-9975d6a14da8,Health and beauty,2019-01-03,6,ExpressAir,7.9,Credit Card,WH1
+4dc8c1fa-381f-4300-8310-43fd57125951,Food and beverages,2019-01-02,5,Special Air,6.0,Credit Card,WH3
+fe76fd4d-a77f-4b67-ae85-8ed80cd12fcf,Fashion accessories,2019-01-24,6,Regular Air,1.85,E-wallet,WH3
+ee027a23-0802-4d7e-8d46-9be2e511c95e,Food and beverages,2019-01-30,7,Special Air,6.48,E-wallet,WH2
+0023b402-3795-4cfa-a1c4-ea424bcab3da,Food and beverages,2019-01-13,6,Special Air,4.0,E-wallet,WH2
+2c14a95a-434f-497a-b178-4ed1a7dc45e1,Health and beauty,2019-03-11,2,ExpressAir,7.1,Credit Card,WH2
+718a2f6c-17df-4a45-876a-9ffd0368d3c9,Health and beauty,2019-02-16,10,Regular Air,2.2,Credit Card,WH3
+7a1a1696-921e-451b-9b3f-3eb4bddb92f6,Fashion accessories,2019-01-20,3,Regular Air,3.15,E-wallet,WH1
+c7d5b98b-2da2-4461-be23-cc886f289b6f,Health and beauty,2019-02-18,5,Regular Air,4.1,Cash,WH3
+4c358c94-e2f2-497e-bc0e-9bad4e96b8f2,Home and lifestyle,2019-01-08,10,ExpressAir,2.3,Credit Card,WH3
+e7504dca-a341-45db-a54e-f2ee5d1b650d,Food and beverages,2019-01-31,1,Special Air,4.72,E-wallet,WH2
+e5b57c25-69f2-4579-aaec-d0e74c80420b,Electronic accessories,2019-01-13,2,Special Air,2.24,E-wallet,WH1
+803fac13-35e3-41a8-8413-098a051aa8ce,Food and beverages,2019-02-13,9,ExpressAir,2.7,E-wallet,WH3
+b9bab68e-87db-4e05-a5b3-0f86cfcf7c63,Home and lifestyle,2019-03-10,5,Regular Air,3.55,E-wallet,WH1
+33a065d7-d8e4-4894-94ad-e4b1595fecf4,Electronic accessories,2019-01-09,6,Special Air,7.44,Cash,WH3
+a00194c8-1c8b-4aba-a2af-e03a2e5345f2,Health and beauty,2019-02-09,4,Regular Air,3.45,Credit Card,WH3
+77779fb1-e14a-4e09-9826-96a35fddc56d,Electronic accessories,2019-01-18,2,Special Air,3.92,Credit Card,WH2
+19d88b45-d2a1-4ce2-a0f6-6b05d4dd812c,Sports and travel,2019-02-18,6,Regular Air,3.1,E-wallet,WH3
+e4189689-f41d-4c09-8346-b1f5e279906c,Home and lifestyle,2019-02-08,7,ExpressAir,5.1,Cash,WH3
+4de5295a-90dc-45f5-ae09-a28b03de072e,Health and beauty,2019-02-06,4,Regular Air,1.6,Cash,WH1
+0dd48c8e-d4d3-4a87-8360-53a10ffcecdf,Sports and travel,2019-02-08,10,ExpressAir,7.3,Credit Card,WH2
+b199d37a-a15f-42c5-95e7-5982f9b5b6fa,Health and beauty,2019-02-09,7,ExpressAir,2.6,Cash,WH1
+f7140c80-9143-4c34-86ce-be47d9e4a246,Sports and travel,2019-03-08,5,ExpressAir,5.2,E-wallet,WH3
+4ac7f24d-2c3e-469e-87ff-6d79796ff92e,Sports and travel,2019-03-15,1,Regular Air,1.95,Credit Card,WH2
+5993546a-e465-4efd-9310-9451f38b921c,Electronic accessories,2019-03-15,7,Regular Air,2.8,Credit Card,WH3
+551c8f59-ed1f-4b6a-96b7-20f68f5d8545,Sports and travel,2019-02-11,6,ExpressAir,8.1,E-wallet,WH2
+ccb07086-b950-45ad-8cf4-70c576e52083,Food and beverages,2019-02-04,5,ExpressAir,7.1,Credit Card,WH3
+db4b1d9f-b047-43bf-a650-919cd1e729b5,Home and lifestyle,2019-03-07,2,ExpressAir,6.4,Cash,WH2
+d6946715-b776-439b-916e-e238779d7bc6,Food and beverages,2019-03-08,4,ExpressAir,5.2,Credit Card,WH2
+4b601701-4b6d-4600-a1e9-185726cb7fc9,Food and beverages,2019-02-17,7,ExpressAir,5.5,Cash,WH1
+1e07c846-c36f-45e7-a59c-90da698025fb,Home and lifestyle,2019-03-01,5,Special Air,5.2,Credit Card,WH1
+b0112098-7342-4f76-ae89-18d4a7254bdc,Fashion accessories,2019-02-06,8,Special Air,2.16,E-wallet,WH1
+e0087da2-ca9a-40ff-bfab-7354ca1dd503,Food and beverages,2019-03-09,3,Regular Air,4.55,E-wallet,WH2
+58ad5c61-3467-4468-ad1d-4bdfac3a1181,Electronic accessories,2019-01-26,9,Special Air,6.8,Credit Card,WH2
+a3ef5adf-45ff-4e86-b135-b40ec1535434,Health and beauty,2019-01-02,1,Special Air,2.56,E-wallet,WH3
+02db2336-1719-47b6-88d7-736fd218d09e,Home and lifestyle,2019-02-20,2,ExpressAir,7.4,Cash,WH2
+2eb5c5de-6967-4b10-8a01-1475c607fe52,Fashion accessories,2019-02-19,2,Regular Air,3.1,Cash,WH2
+34ba5c7b-3928-42ad-a5e0-18fdb943f289,Electronic accessories,2019-03-14,3,Special Air,2.8,Cash,WH3
+dbb756ce-fb3f-443d-8010-b7ce9e3f8b96,Fashion accessories,2019-01-19,4,Special Air,3.68,E-wallet,WH2
+4466ee63-2332-4e8b-b29c-64ae24170d9e,Fashion accessories,2019-03-22,3,Regular Air,1.05,Cash,WH3
+73cf7e9a-b626-428e-8608-434e97c13a3b,Home and lifestyle,2019-01-20,3,Special Air,5.44,E-wallet,WH1
+48c1b7d7-c5d0-4ceb-a4cc-ebde91663d3b,Health and beauty,2019-02-01,3,Regular Air,0.7,Credit Card,WH2
+f918ab0b-bf44-4c4e-bc09-11bafd6576f5,Health and beauty,2019-02-23,7,Special Air,5.2,Credit Card,WH3
+e80d27fb-6e6d-46af-9587-0406719630f7,Health and beauty,2019-02-27,2,ExpressAir,8.6,E-wallet,WH2
+3209f45a-9b8f-42e6-a341-b6dc5db60e04,Sports and travel,2019-03-04,4,Regular Air,2.0,Credit Card,WH1
+fc6ad971-0c65-4799-879f-e7de705ffa56,Electronic accessories,2019-01-11,4,Regular Air,1.55,Cash,WH3
+2b6239c5-4096-4dba-9261-002dbe81256e,Home and lifestyle,2019-03-17,10,Special Air,1.12,Credit Card,WH1
+a09464c8-55a6-434d-bcd5-50aa50d49b92,Home and lifestyle,2019-01-28,4,Special Air,0.96,Cash,WH2
+8eeed38d-ac8e-4372-a3e5-dd684141759f,Food and beverages,2019-03-16,1,Regular Air,2.85,Cash,WH3
+63d2844d-d399-449e-b2d3-c26785106d8a,Electronic accessories,2019-01-18,7,Regular Air,4.65,Credit Card,WH3
+fbf89777-146a-4c47-b50d-5022a36e966b,Sports and travel,2019-02-09,2,ExpressAir,7.0,Cash,WH2
+5adc238d-c7b9-4f99-8a42-fa5c225b8973,Fashion accessories,2019-01-04,9,Regular Air,4.25,E-wallet,WH1
+772fb784-d23f-4724-996a-9f2695185da0,Home and lifestyle,2019-03-11,7,ExpressAir,4.9,Credit Card,WH1
+d98eeccf-34f3-4c1a-ae68-6ea96eeb12d0,Food and beverages,2019-03-20,8,Regular Air,2.1,E-wallet,WH3
+d5390ffa-498d-4b79-baf8-45994b8095ea,Sports and travel,2019-01-16,6,ExpressAir,4.4,E-wallet,WH3
+ce05f196-3b71-4898-9de0-3e0f2c8beb94,Sports and travel,2019-02-19,1,Special Air,4.72,E-wallet,WH2
+c8d0f8d0-9621-469e-9eeb-c1d80596a533,Food and beverages,2019-01-20,4,Regular Air,3.75,Credit Card,WH2
+559c9b50-c6ba-465d-8df4-b7965d7394bb,Health and beauty,2019-01-22,7,ExpressAir,9.8,E-wallet,WH1
+417c36cf-9a6d-4e2c-870d-f4e80193c917,Sports and travel,2019-02-21,7,Regular Air,3.05,E-wallet,WH1
+7a5950e1-f4e8-452a-befc-bd3a64c695ef,Home and lifestyle,2019-02-01,5,Special Air,6.48,Cash,WH1
+3082f63e-d2d6-4ff5-b181-9cdaf528bbbd,Health and beauty,2019-02-27,10,Special Air,4.4,Cash,WH2
+a3acd8ff-4207-4861-bd5f-bc30b990bcc3,Electronic accessories,2019-03-25,8,Special Air,5.04,E-wallet,WH1
+dabe555d-4cde-4d22-ac11-8d4d41294816,Health and beauty,2019-01-03,1,Special Air,4.8,Cash,WH2
+52f9fd5e-a12a-4b6d-9676-fb2e5bd42dbd,Home and lifestyle,2019-02-04,10,ExpressAir,5.8,Credit Card,WH2
+a5dad644-b28f-472d-b369-738358fe0b55,Fashion accessories,2019-01-15,9,Regular Air,0.55,E-wallet,WH2
+e219fe97-8fab-4b5f-b2e0-f934dd83e61a,Food and beverages,2019-01-27,1,ExpressAir,7.5,Credit Card,WH1
+ff95852a-13f3-43dd-962b-fcf1d1e81726,Health and beauty,2019-02-02,8,Regular Air,1.25,E-wallet,WH3
+70f903a2-8cd1-474d-a5ce-94f01d361c3d,Food and beverages,2019-03-29,9,Special Air,6.48,Credit Card,WH3
+760b67cf-2183-4dcb-b9c5-aba325fa47c0,Fashion accessories,2019-01-31,3,Special Air,4.4,Cash,WH2
+bc6790a6-7091-436b-b9e2-dfb5407179e5,Fashion accessories,2019-03-06,4,Regular Air,2.35,E-wallet,WH1
+6754f41b-ab48-4e5b-9041-ba21aa81b2df,Electronic accessories,2019-01-04,10,Regular Air,4.6,Credit Card,WH1
+9083854f-9848-4376-ac60-ed09e5424316,Sports and travel,2019-02-14,7,ExpressAir,4.6,Cash,WH3
+83caffac-22b1-42a9-aa10-715dcfb3bc27,Home and lifestyle,2019-02-10,10,ExpressAir,6.2,Cash,WH3
+b043df26-eb69-425f-a320-e4371f2e469f,Health and beauty,2019-02-23,5,ExpressAir,7.8,Cash,WH2
+38f13e47-1343-47c2-bb25-96c35ea72cd9,Fashion accessories,2019-02-15,2,Regular Air,2.4,Credit Card,WH3
+ace9bfd8-6e8e-41ad-8567-4b6984c0abaa,Home and lifestyle,2019-02-08,7,Regular Air,1.75,Credit Card,WH2
+fb5e509d-9bae-4e29-8aae-df499c95922d,Fashion accessories,2019-02-10,1,Special Air,5.52,Cash,WH1
+80577ddd-7f4c-4a38-8099-7617c01696bd,Sports and travel,2019-03-10,3,ExpressAir,9.1,Credit Card,WH3
+6d8b69ca-5be6-435b-86e4-de0879daff60,Health and beauty,2019-01-28,5,ExpressAir,2.0,Cash,WH3
+75e7004d-1e55-4b42-b50a-33ca2da36908,Home and lifestyle,2019-01-16,2,Regular Air,3.85,Cash,WH1
+787f2775-7c89-4f7c-b0a5-5a33931eb18a,Sports and travel,2019-01-20,6,ExpressAir,2.5,Cash,WH2
+410d3feb-98fd-4c3f-92e1-804c465194cd,Home and lifestyle,2019-01-07,10,ExpressAir,1.6,E-wallet,WH3
+d3b2bfbc-e1ce-4751-8fcf-fff49cf2e10a,Food and beverages,2019-01-25,8,ExpressAir,9.6,Cash,WH1
+72078b6a-f897-4271-b4b8-0b4f7ff81ffc,Fashion accessories,2019-01-05,2,ExpressAir,2.6,E-wallet,WH1
+48c72ec1-8cd0-4818-b64b-ff9b1cffe2ef,Home and lifestyle,2019-02-28,2,Special Air,1.12,Cash,WH3
+76776061-7db8-43d6-8998-34c71a3917ae,Food and beverages,2019-03-11,6,Special Air,4.48,Credit Card,WH1
+7da9ec1a-79f0-450b-ae4c-fe6feab04db0,Sports and travel,2019-01-20,10,Regular Air,2.15,Credit Card,WH1
+7de1040e-c1ed-45af-b237-963d4c388ff2,Home and lifestyle,2019-03-14,7,ExpressAir,9.7,Cash,WH2
+4735508b-5350-4dbf-950b-64109c0491f8,Food and beverages,2019-01-07,7,Regular Air,2.55,Cash,WH2
+f9b1e3c5-5ef2-4838-a596-712cef2e4ba4,Health and beauty,2019-03-13,1,ExpressAir,5.7,E-wallet,WH2
+23690de1-18c7-448e-a9d8-f3da22f97e9a,Sports and travel,2019-02-13,9,ExpressAir,1.0,Cash,WH3
+ef3af93b-5fb9-4c49-ba17-f6706ac268ba,Electronic accessories,2019-02-06,1,ExpressAir,5.2,Credit Card,WH3
+b2760010-7629-4c0a-ac34-e8132f70ee0b,Fashion accessories,2019-01-08,4,Special Air,7.36,Credit Card,WH2
+b4126a34-660a-4c96-8c98-be4eda651dcf,Electronic accessories,2019-01-18,1,Regular Air,0.95,Credit Card,WH3
+78495e16-3058-4d1e-aa3a-41f1b1c6aed5,Fashion accessories,2019-03-21,3,Regular Air,0.6,Cash,WH2
+b73beec7-41eb-4644-af56-701922a7849c,Fashion accessories,2019-03-19,3,ExpressAir,5.9,Cash,WH2
+5a783963-0fe4-43fa-b721-0e2b175bc9ff,Fashion accessories,2019-01-01,5,ExpressAir,6.1,Cash,WH2
+fefbbc2e-8b82-411d-9a9e-2a754a30e65a,Sports and travel,2019-01-19,4,ExpressAir,4.2,Cash,WH2
+8a221282-a22b-4322-86d3-047a30983226,Food and beverages,2019-02-04,6,ExpressAir,3.6,Credit Card,WH3
+16462ee0-aa2e-4244-bdab-37f0a547c7b8,Sports and travel,2019-03-26,2,Special Air,5.12,E-wallet,WH2
+b629e7c0-3e85-47c6-8c91-09f0f72b7863,Health and beauty,2019-02-26,10,Regular Air,2.6,Cash,WH1
+a47e6245-f257-4e7f-8940-5570dffa0422,Electronic accessories,2019-02-25,6,Regular Air,3.5,Credit Card,WH1
+cc3e0f31-bf71-494d-ae11-a716dfa74a5c,Sports and travel,2019-03-01,2,ExpressAir,8.7,E-wallet,WH1
+67bc6f2f-f069-40fd-95f6-ee28a29b637f,Electronic accessories,2019-01-08,1,Special Air,5.76,Credit Card,WH2
+52c84f68-d255-415e-8138-249409946c61,Fashion accessories,2019-03-02,4,Regular Air,4.25,Credit Card,WH2
+77f4ccfb-62ef-4bc4-b9e2-3cc12fef9bb2,Health and beauty,2019-01-14,3,Regular Air,0.55,Credit Card,WH3
+84660830-f04b-4048-a01f-a4b598beee87,Electronic accessories,2019-01-22,10,Regular Air,4.5,E-wallet,WH1
+963041b6-ed18-4311-a3ba-8679ee0e5a61,Electronic accessories,2019-01-04,8,Regular Air,1.25,Credit Card,WH3
+15b989d4-2d68-470f-bd23-78e36be5330c,Health and beauty,2019-03-16,7,ExpressAir,1.5,Cash,WH2
+f74d2cb9-c4f1-45f5-9203-dbe8dec78ce4,Electronic accessories,2019-01-16,9,Special Air,6.4,Credit Card,WH2
+8a7b57f6-791d-4b97-a786-0ec78b6728cb,Fashion accessories,2019-01-24,2,ExpressAir,2.1,Credit Card,WH3
+fcbd054b-0f7a-4671-8157-9a1cee0b008c,Electronic accessories,2019-02-25,1,Regular Air,4.95,Credit Card,WH1
+b907014c-6e3a-4a8c-b716-521ef227d53c,Electronic accessories,2019-02-15,9,Special Air,2.0,E-wallet,WH1
+ad3a3f80-8042-401a-b074-ff75be974a44,Electronic accessories,2019-01-06,9,ExpressAir,9.6,Cash,WH2
+6d4f1006-d636-414d-a8f7-b87b0c4db754,Fashion accessories,2019-01-30,2,ExpressAir,7.7,Cash,WH3
+86eeb590-07bc-422c-89b9-98c4cea171b2,Sports and travel,2019-02-17,5,ExpressAir,8.7,Cash,WH2
+ca961b0c-4455-4d8e-8b2c-49e67dbaf00f,Fashion accessories,2019-03-28,5,Regular Air,3.05,Cash,WH3
+83a4a744-b6c5-445d-8613-b3d9c322af01,Sports and travel,2019-01-23,10,ExpressAir,1.1,Credit Card,WH3
+0b93a1ca-22ef-465b-8a7e-d5b186f30218,Fashion accessories,2019-02-10,9,ExpressAir,5.3,Credit Card,WH3
+34c08ab2-51a2-4ce6-84f2-0156ca3af621,Fashion accessories,2019-02-09,1,ExpressAir,2.5,E-wallet,WH1
+e6684d27-efd1-4ce3-8f5d-8cb69ba53c01,Home and lifestyle,2019-02-11,5,Special Air,1.36,Credit Card,WH1
+54c6baaa-12d9-4699-809d-9dc8528058e6,Sports and travel,2019-03-06,4,ExpressAir,8.3,Cash,WH2
+63886b63-1ef5-4b94-b518-99ba98b519ec,Health and beauty,2019-02-21,5,ExpressAir,6.8,Cash,WH3
+041c3402-4d1d-4992-afba-11a5032a0573,Sports and travel,2019-03-21,8,Special Air,6.56,Credit Card,WH1
+95917539-c06f-4fce-aba9-b78f27f0f1f0,Health and beauty,2019-01-06,4,Regular Air,1.6,E-wallet,WH3
+0d2dc2ef-670f-44fe-b8f1-0cae6abd2222,Food and beverages,2019-02-26,2,Special Air,1.04,Credit Card,WH2
+0c091654-0e61-4690-a175-3a07b71c36e0,Electronic accessories,2019-03-16,1,Regular Air,2.8,Cash,WH2
+8b0c9550-b03f-437b-8077-57b9c0f6e365,Fashion accessories,2019-02-11,7,Special Air,2.32,E-wallet,WH3
+2af9cd90-0b22-4bb3-a7b6-95685f86b828,Electronic accessories,2019-03-12,3,Special Air,7.84,Credit Card,WH1
+25451d2b-275f-49d0-a7dc-f407ce14a1b7,Health and beauty,2019-02-08,2,Regular Air,4.5,Credit Card,WH1
+44ffc575-b0cf-4715-9e96-c47446858a4e,Home and lifestyle,2019-03-02,7,Special Air,4.72,Cash,WH1
+9cdc1e21-0639-4b74-a0f7-d8f2c8046e94,Food and beverages,2019-03-18,4,Regular Air,4.45,E-wallet,WH2
+d48bcd14-1e9b-4179-a31c-5ef868e30084,Home and lifestyle,2019-03-01,3,ExpressAir,8.9,E-wallet,WH2
+20190900-e89b-4988-bc03-8a6d173b817d,Fashion accessories,2019-03-28,10,Special Air,1.12,Credit Card,WH3
+c9e47ee0-788e-4593-ab39-dade9439a6cf,Food and beverages,2019-03-21,10,Regular Air,4.2,Cash,WH3
+a3edfe9f-4166-4c74-bc63-a690f17aca51,Food and beverages,2019-01-13,1,Special Air,2.88,E-wallet,WH3
+b55dd658-b422-4afd-ad3c-0b3a000a2fe6,Home and lifestyle,2019-02-20,7,Special Air,1.76,Credit Card,WH2
+d812d86f-117e-4891-a0bd-deee05ec54cf,Home and lifestyle,2019-02-22,3,ExpressAir,4.6,E-wallet,WH2
+add72295-bd29-4fb1-b6a6-0fd07672852a,Sports and travel,2019-03-20,4,Regular Air,1.2,Credit Card,WH3
+bd24032f-cb28-4679-957e-6bc6fc1e2122,Home and lifestyle,2019-01-24,5,ExpressAir,9.8,Credit Card,WH1
+f314d513-f84a-4358-ae4f-09ab6f0bf08f,Health and beauty,2019-01-27,1,ExpressAir,9.0,Cash,WH1
+7dfe3fbe-a750-4ff0-abfc-e7b5133a3d3d,Home and lifestyle,2019-01-16,6,ExpressAir,9.8,E-wallet,WH1
+fbe48deb-8332-4a65-9b6d-63a8dca5b003,Home and lifestyle,2019-03-19,2,Special Air,0.96,Cash,WH1
+1f3cffdd-6558-47bf-a36e-85e543da367a,Food and beverages,2019-02-18,9,Regular Air,4.95,E-wallet,WH2
+d2291870-64ef-4629-89bc-e91294caf3d8,Fashion accessories,2019-03-25,1,ExpressAir,1.1,Cash,WH2
+da59e559-8c09-443b-93a3-ff40faf0593b,Electronic accessories,2019-02-27,6,Regular Air,0.6,E-wallet,WH3
+b198b4e4-670f-4222-abbd-11a763802942,Home and lifestyle,2019-02-20,7,Regular Air,4.05,E-wallet,WH2
+232290fd-cdc3-43a7-9433-07dd127a8ae0,Sports and travel,2019-03-04,5,Special Air,5.52,Cash,WH3
+a4129d4d-3088-4a73-b7e1-21cc7d48ee74,Sports and travel,2019-03-07,4,ExpressAir,8.3,E-wallet,WH2
+8f0d8942-ce13-4d94-92d1-dd7de3bfde8d,Food and beverages,2019-03-29,6,Regular Air,1.95,E-wallet,WH1
+59a64be0-b730-4401-af9d-9f0d4cd32312,Sports and travel,2019-02-15,8,Special Air,2.16,Cash,WH3
+f4ab4947-3c88-476e-88cb-0562909b1323,Fashion accessories,2019-02-03,8,Regular Air,3.6,Cash,WH1
+2b5f53ab-be53-42e7-9ce7-fc4b1a8fc240,Sports and travel,2019-02-03,7,Special Air,2.32,Credit Card,WH2
+3e4558d8-5990-475c-ab0f-78f1f2f03ece,Health and beauty,2019-01-18,10,ExpressAir,3.3,Cash,WH3
+77e60553-d36b-4bdc-be46-cd5a815356ec,Electronic accessories,2019-02-03,4,Special Air,5.04,Cash,WH1
+3125c35d-65aa-4b5f-92da-933af3b8ace1,Food and beverages,2019-03-30,5,ExpressAir,9.8,Cash,WH1
+f40ef252-d296-4b87-a5ae-b450677040bd,Sports and travel,2019-01-01,8,Regular Air,2.1,E-wallet,WH1
+397dbe37-f187-4f2a-a606-bc1d632d3772,Sports and travel,2019-02-02,6,ExpressAir,2.3,E-wallet,WH1
+3d22771a-c3cf-4648-a449-bf85339ffdac,Sports and travel,2019-03-23,2,Special Air,3.04,E-wallet,WH1
+aa4449dc-4954-4533-be64-e7eaa0ac16b0,Electronic accessories,2019-02-06,8,Special Air,3.36,E-wallet,WH3
+a60fd243-43c4-432c-99c3-1dab2be9adba,Health and beauty,2019-03-07,7,Regular Air,3.15,Credit Card,WH1
+ff23be72-f5e8-493d-bbd2-e50c1bab9cae,Home and lifestyle,2019-01-10,9,Regular Air,4.65,Cash,WH2
+6fb25a65-bee3-4f2e-8a28-891465b60c5f,Electronic accessories,2019-01-11,3,ExpressAir,9.5,Credit Card,WH2
+6a376fd4-bfbb-4511-aea9-eb9c33f33cf5,Health and beauty,2019-03-08,7,Regular Air,1.5,Cash,WH2
+7758339f-11db-420a-b825-6950fc1b5033,Home and lifestyle,2019-01-26,4,Special Air,0.96,Credit Card,WH1
+77782308-398f-4dad-bf2c-b8896e42a4d6,Health and beauty,2019-03-05,3,Special Air,6.08,Cash,WH1
+c3d51d7a-f15c-4f78-92e5-0648fd74adbc,Food and beverages,2019-03-29,4,Special Air,7.84,E-wallet,WH1
+445a0d32-3ff2-41e8-a151-4ec218e1dacd,Home and lifestyle,2019-02-02,9,Special Air,2.96,E-wallet,WH1
+e66de2c9-d890-4076-8f63-44ccaf93353b,Food and beverages,2019-03-17,3,Regular Air,4.4,E-wallet,WH1
+f5ef44f1-6f20-4162-bcb1-75eaf52af363,Sports and travel,2019-02-08,7,Regular Air,4.5,Credit Card,WH1
+7abba279-72ca-4a98-b96f-2576aca304f2,Sports and travel,2019-03-06,10,Special Air,0.96,Credit Card,WH2
+3147de80-c7eb-4ac1-8e21-e9a7a5c9330d,Fashion accessories,2019-02-02,7,Regular Air,2.25,E-wallet,WH2
+d4fe2813-7c46-45f6-903a-899241b98f98,Fashion accessories,2019-01-22,6,ExpressAir,6.6,E-wallet,WH3
+e93f267b-479b-46d3-8de3-daf5592d28d2,Food and beverages,2019-03-25,9,Special Air,7.12,Credit Card,WH3
+da30e6e1-a03f-401c-a948-cfab28cab8e0,Home and lifestyle,2019-01-22,10,ExpressAir,8.3,Cash,WH1
+e122457f-e8a4-426c-bd6c-0b55f7ffa728,Sports and travel,2019-02-08,2,Special Air,6.88,Credit Card,WH3
+c99af0da-406c-480d-bedb-ad93f8324ede,Sports and travel,2019-02-04,3,ExpressAir,1.4,Credit Card,WH2
+b3a7f9d7-e528-4baf-92cf-f15dcd16f420,Home and lifestyle,2019-02-08,2,ExpressAir,6.0,Cash,WH3
+09d0f004-1a98-45a0-99ce-18a8ec95d2d3,Sports and travel,2019-02-21,4,Special Air,2.8,Cash,WH2
+23cc22e2-1362-4c1b-85bc-47a55aaa27c5,Health and beauty,2019-02-13,4,Regular Air,4.9,E-wallet,WH1
+536206fa-2e36-47cc-a0d1-7e5db9ffeee6,Sports and travel,2019-03-26,3,Special Air,2.64,E-wallet,WH3
+2b455fef-688c-4a28-a040-a6335ff3716a,Fashion accessories,2019-03-07,7,ExpressAir,1.2,E-wallet,WH1
+71367a53-1af8-43f9-8f19-486dec2a62a1,Food and beverages,2019-01-07,9,Special Air,0.8,E-wallet,WH1
+f6c760ad-25fb-43fb-af17-3b6b06aec682,Health and beauty,2019-02-22,1,Special Air,5.2,Cash,WH1
+ed86d5ab-5643-4169-8baa-4f49d5298639,Sports and travel,2019-03-13,8,Special Air,1.92,E-wallet,WH2
+ba8cfb1a-64ce-4d53-907a-35369cb74f93,Sports and travel,2019-03-12,9,Regular Air,3.7,E-wallet,WH3
+f2ec6e9a-0ff6-481e-a329-e0e8b4e67316,Food and beverages,2019-01-26,5,Regular Air,1.25,Credit Card,WH3
+50a237c4-cd6c-47fd-bce5-19ae18abacfe,Food and beverages,2019-01-10,3,Special Air,7.6,Cash,WH1
+5cdb7b86-bc25-4344-9358-35907a1722ab,Home and lifestyle,2019-03-12,8,Regular Air,3.45,E-wallet,WH1
+6471fbcf-ff5e-4621-9d3b-14a97d347016,Electronic accessories,2019-01-01,3,Regular Air,1.1,Credit Card,WH2
+d00e4dee-2f2d-4134-bca0-8c62c12e2b1c,Food and beverages,2019-01-17,5,Special Air,2.56,E-wallet,WH2
+33d308b7-17ab-41d0-81e6-f9334b7f4604,Home and lifestyle,2019-01-16,2,Regular Air,2.0,Credit Card,WH1
+40e5b950-6b61-4124-a22f-4d5f13a45b4d,Home and lifestyle,2019-03-02,7,Special Air,5.12,E-wallet,WH3
+646e938a-b090-4416-9ddd-1f2841782c6f,Fashion accessories,2019-03-02,6,Special Air,1.68,E-wallet,WH3
+c60bfd05-a57d-4e40-ae96-21285a0f356d,Home and lifestyle,2019-03-17,10,Regular Air,2.65,Credit Card,WH1
+cb18347c-5561-42c2-b9ae-0d9fe846bd17,Sports and travel,2019-03-12,2,ExpressAir,1.1,E-wallet,WH2
+0936dbc9-5206-4648-9468-90ef134ce916,Health and beauty,2019-01-28,3,Special Air,2.0,Credit Card,WH3
+9073691b-3a24-45a3-bb5b-300675ca0370,Food and beverages,2019-02-18,2,Special Air,1.2,E-wallet,WH1
+e7227d82-e6f4-4110-9399-04c902770bd1,Home and lifestyle,2019-01-15,2,ExpressAir,4.1,Credit Card,WH2
+40e18253-8039-48e9-9e08-b76bf0916342,Food and beverages,2019-03-05,4,Regular Air,2.65,Credit Card,WH1
+9ae3fe41-b310-4818-9c5b-efb9feecc0d6,Health and beauty,2019-02-18,2,Special Air,3.6,E-wallet,WH1
+51b64584-33c7-4a74-9b8d-bbe38ca90a58,Health and beauty,2019-01-22,9,Regular Air,4.15,E-wallet,WH3
+296b2c1f-aa4c-498e-94f0-9a6d45daa11f,Health and beauty,2019-01-09,2,ExpressAir,1.0,E-wallet,WH3
+71c4341e-42ff-4a21-8dc7-94ace502d1a1,Home and lifestyle,2019-01-30,1,Special Air,5.04,Credit Card,WH3
+7a7ba343-b4d4-4184-9de6-93091eb7fb8c,Home and lifestyle,2019-01-22,7,Regular Air,2.45,E-wallet,WH2
+6a50f905-0faf-44f6-962b-912016d4a1ae,Sports and travel,2019-03-23,8,ExpressAir,6.6,E-wallet,WH3
+436cfcc8-7369-42bc-97c4-22f480c3d047,Electronic accessories,2019-03-26,6,Regular Air,3.55,Credit Card,WH1
+d033000c-32e2-4567-b50f-b8d4b8e5dc8a,Home and lifestyle,2019-01-15,4,Special Air,7.92,Credit Card,WH2
+fc90f355-0700-45f7-93a7-89e1c263bed2,Sports and travel,2019-01-04,5,Special Air,5.28,Credit Card,WH1
+77de582e-a1af-4095-857d-5b477dd74835,Sports and travel,2019-02-10,6,ExpressAir,7.6,E-wallet,WH1
+7fbc242d-7fb1-419e-b4cd-a800741d49cd,Home and lifestyle,2019-03-17,7,Special Air,2.56,E-wallet,WH3
+4e971bd3-1b5f-44a6-8ed2-d38b6063552f,Sports and travel,2019-03-08,1,Regular Air,2.8,Credit Card,WH1
+2053f7d3-dcaf-4f77-b0cb-9f9c95abe5fa,Electronic accessories,2019-02-27,6,ExpressAir,3.7,Credit Card,WH2
+03f471ff-b8f2-4edf-abd4-dddf814e1023,Fashion accessories,2019-01-07,8,Regular Air,4.25,Credit Card,WH2
+ff1e8e1f-8754-4c7b-bc7e-79f45705a1c9,Sports and travel,2019-01-28,3,Special Air,6.08,Cash,WH2
+e4b86bd2-33c1-49a8-bc5e-35dc67171721,Electronic accessories,2019-02-13,9,ExpressAir,3.7,E-wallet,WH3
+f101d6a4-1e60-4ce5-8d1b-63239bc3d8ae,Home and lifestyle,2019-01-22,3,Special Air,1.12,E-wallet,WH3
+4816de74-c4ee-4342-8f1f-95006e264bcb,Electronic accessories,2019-01-19,7,ExpressAir,3.5,E-wallet,WH2
+b4838c2f-8438-43ad-8744-c1d1feffcae2,Fashion accessories,2019-03-11,9,ExpressAir,4.6,Credit Card,WH3
+1095a5cb-b00d-4f8b-9c26-dbcc6059a84e,Electronic accessories,2019-03-24,9,Regular Air,1.3,E-wallet,WH2
+e291d360-fc29-43bd-90e2-a5179152741f,Health and beauty,2019-02-27,3,ExpressAir,6.8,Credit Card,WH1
+50c774e1-d78c-442d-8687-a9a1a008695a,Home and lifestyle,2019-03-10,8,Regular Air,1.25,Credit Card,WH2
+ad7a5103-d8fe-448f-84b6-10f66e92328f,Food and beverages,2019-02-10,2,ExpressAir,3.5,Credit Card,WH2
+03d62dff-7229-431a-bd57-8a1d6512df5a,Food and beverages,2019-01-16,6,Special Air,1.76,Cash,WH3
+9ae114c4-382c-4001-87d1-c8adeed07333,Electronic accessories,2019-02-24,1,Special Air,2.08,Credit Card,WH3
+d0aeb86e-7742-4abc-8432-d1a5fd7f3703,Electronic accessories,2019-03-30,10,Regular Air,2.3,E-wallet,WH1
+5aa14cd8-9efd-441a-b36b-4232fb10d8e7,Sports and travel,2019-02-26,8,Regular Air,4.95,E-wallet,WH1
+52831a2e-f6f8-403b-9e65-fcb1963f9054,Electronic accessories,2019-03-13,9,Regular Air,4.2,Cash,WH3
+fb1015b6-7e6b-49b6-8811-717f084ee9f0,Health and beauty,2019-03-15,5,ExpressAir,4.9,Credit Card,WH2
+bd4f8b4e-48d2-4de9-a865-4930741f1183,Fashion accessories,2019-01-01,10,ExpressAir,2.2,Credit Card,WH2
+eec22377-1342-4f41-8e8e-b8774c7ef4e3,Home and lifestyle,2019-02-27,8,ExpressAir,3.4,Cash,WH1
+5d786dcb-1f2e-4c0b-9756-4aba6197878d,Health and beauty,2019-01-26,9,ExpressAir,1.9,E-wallet,WH3
+ceb3601a-e6d8-409c-ae87-d9b548083594,Fashion accessories,2019-01-10,5,Special Air,3.28,Credit Card,WH2
+49577c00-e1af-4fc0-b985-1506ee6a9eec,Food and beverages,2019-02-21,4,Regular Air,3.45,Credit Card,WH3
+333c0b96-7fd3-4950-ba5d-87d9baf8dc14,Fashion accessories,2019-03-12,9,Regular Air,4.35,E-wallet,WH3
+06be862c-c225-46cc-af99-754f91c88524,Fashion accessories,2019-01-04,3,Special Air,1.6,Cash,WH1
+89ec5930-be70-4a59-9526-588a6ad18b04,Food and beverages,2019-03-15,8,ExpressAir,9.4,Cash,WH2
+08d0b16a-af8a-4d21-a433-c25c1d4a4bb1,Food and beverages,2019-02-11,2,ExpressAir,7.6,Cash,WH2
+d7d1eab7-ea8e-4ca8-bce7-c951489b423c,Fashion accessories,2019-02-03,6,Regular Air,4.95,Credit Card,WH3
+e9ba3dd7-a974-4b72-a8b3-fbfd199c8488,Sports and travel,2019-01-19,10,Regular Air,2.15,Cash,WH3
+196ccba6-04c4-4a9a-8d11-a39d1ffb0c40,Health and beauty,2019-02-16,7,ExpressAir,1.4,E-wallet,WH2
+e6bc226f-e76e-42a9-a173-71978a8170fd,Food and beverages,2019-02-16,8,Regular Air,4.55,Cash,WH3
+2ce81229-7b3b-4b4c-bb15-a54ffdf7d70d,Sports and travel,2019-02-02,9,ExpressAir,5.8,Credit Card,WH2
+036a7eb0-e827-490b-a0b3-72f311782855,Electronic accessories,2019-01-03,10,ExpressAir,2.8,Credit Card,WH1
+1be55d8c-36ff-4d8e-a101-7f6d7da4359a,Home and lifestyle,2019-02-18,1,ExpressAir,1.3,E-wallet,WH1
+bd1aacd1-3a3b-4c63-902c-39904320f111,Food and beverages,2019-01-28,9,ExpressAir,8.8,E-wallet,WH1
+de54dea0-d971-48b5-8b66-2275d2303b18,Fashion accessories,2019-01-12,2,ExpressAir,9.0,Cash,WH2
+500a80f2-809e-4ecc-848e-de55d0c79374,Food and beverages,2019-01-28,6,ExpressAir,1.5,Credit Card,WH1
+4cd624c3-1946-4d8a-981b-e5b693172e72,Food and beverages,2019-01-21,10,Regular Air,1.25,Cash,WH3
+1094d34e-4047-4d33-a6e2-578985f53cd6,Home and lifestyle,2019-02-13,5,Regular Air,4.65,Cash,WH3
+2b973216-b2c4-42ad-bd1f-eca303428120,Food and beverages,2019-01-13,1,Special Air,2.16,Cash,WH2
+b78c3047-0910-447d-bfdf-5829c766c265,Food and beverages,2019-01-22,3,Regular Air,4.05,Cash,WH2
+789539a9-d0f9-474c-bd15-0461641f181a,Sports and travel,2019-03-13,10,Special Air,4.0,E-wallet,WH2
+34fbfc08-07ef-40fa-bba1-21f57ef0692e,Food and beverages,2019-02-08,10,Special Air,1.12,E-wallet,WH1
+dc52d6cc-1551-44e2-8647-da559170ba41,Fashion accessories,2019-01-08,5,ExpressAir,4.5,Credit Card,WH2
+3cd13cbc-dcdb-4390-a5f5-5423c6ee91fe,Home and lifestyle,2019-02-06,2,Special Air,5.68,E-wallet,WH1
+0117d9fb-ff00-4c86-b3ea-6de808271439,Food and beverages,2019-03-21,3,Regular Air,3.85,E-wallet,WH1
+4fcd1e64-cbac-4cc4-8e2b-bd17500d1e65,Home and lifestyle,2019-01-13,1,Regular Air,1.35,E-wallet,WH1
+a3947bc7-d9df-49b7-8690-5892014e48f0,Electronic accessories,2019-03-24,6,ExpressAir,6.5,E-wallet,WH2
+ea452a14-40f6-4a5c-9d99-631755877194,Sports and travel,2019-01-16,4,Regular Air,1.15,Credit Card,WH3
+976a95af-97d8-41d3-914d-22b2820d5f0b,Sports and travel,2019-03-01,2,ExpressAir,5.9,E-wallet,WH3
+faac0788-7d4d-4b13-901f-6a1b13377a64,Sports and travel,2019-03-15,5,Special Air,2.0,Credit Card,WH2
+911e1d8a-3c14-4209-a64c-476568a63941,Health and beauty,2019-03-25,3,ExpressAir,1.0,E-wallet,WH1
+9da6a879-9fe6-4137-8c5d-8352cea5cfb9,Sports and travel,2019-01-12,8,Special Air,7.12,Cash,WH1
+d5163a86-ef4a-4aae-bb3d-707d1c2bc860,Home and lifestyle,2019-03-08,9,Special Air,5.68,E-wallet,WH3
+1c8e592d-e4aa-42a6-ba25-f11fafadccf0,Food and beverages,2019-01-01,7,Special Air,2.48,Cash,WH1
+5f062fd8-3514-49e7-a75c-a777cafb788b,Fashion accessories,2019-02-14,9,ExpressAir,2.0,Cash,WH2
+9c9880a1-ceac-4eaf-b87c-b86c3c2f145c,Fashion accessories,2019-03-01,3,Special Air,1.04,Cash,WH1
+c2f41bce-3f6c-4903-b809-f9bfae470753,Electronic accessories,2019-01-21,9,Special Air,7.12,Cash,WH1
+354a98af-94fc-4f5b-8e83-14d585cebf37,Electronic accessories,2019-01-02,8,Regular Air,4.55,Credit Card,WH2
+587aade6-9673-464b-826c-9959975a2f29,Home and lifestyle,2019-01-02,7,Special Air,3.52,Cash,WH3
+0293c4ad-5f60-4fdd-ac10-8c278ceb2907,Sports and travel,2019-03-21,8,ExpressAir,5.8,Credit Card,WH1
+720b1a0e-1763-4db2-a13f-65a8ae7d1073,Health and beauty,2019-01-05,7,ExpressAir,2.2,E-wallet,WH2
+0eea386f-5b21-443b-a92a-bb0e9c42a02b,Sports and travel,2019-01-19,10,Special Air,4.4,Credit Card,WH2
+6a175aac-b226-43b9-a2dc-8709a0314337,Sports and travel,2019-01-16,7,Special Air,4.72,Credit Card,WH3
+2ad55807-a015-4b5d-9395-780de4478ba8,Health and beauty,2019-01-06,10,Regular Air,0.6,E-wallet,WH2
+95bd6fcd-5530-47af-a230-dbd359b4a8d6,Home and lifestyle,2019-03-21,1,Special Air,1.2,Cash,WH2
+16390a4a-3f65-4d9d-9af6-5117c3e43be1,Home and lifestyle,2019-02-08,10,ExpressAir,7.4,Cash,WH3
+335958fb-814f-4e08-83aa-5447bf809205,Health and beauty,2019-01-22,9,Regular Air,2.25,Cash,WH3
+f7f0b3ad-c428-4370-8c7e-5305dc51993d,Electronic accessories,2019-02-09,9,Regular Air,1.45,E-wallet,WH1
+97050915-1ade-4726-a211-0ccaef5b2b57,Fashion accessories,2019-01-30,10,Special Air,6.88,E-wallet,WH1
+8b6c82b6-b2a8-41fd-a493-d0e371b8add3,Food and beverages,2019-03-26,3,Special Air,6.48,E-wallet,WH2
+89402c96-cd5c-4ba2-aa2c-218badcfa46c,Health and beauty,2019-03-04,7,Special Air,4.64,E-wallet,WH2
+b6e14a8e-246b-4c63-9efa-6be88ef9bf84,Home and lifestyle,2019-02-19,5,ExpressAir,2.1,E-wallet,WH2
+ec289570-5811-47d4-87a7-a411adaa5a09,Electronic accessories,2019-02-23,7,ExpressAir,2.1,Cash,WH3
+d08179da-c961-4ade-ac05-d4eebb6e8211,Food and beverages,2019-02-08,2,Regular Air,4.7,E-wallet,WH3
+96dc3c08-6d5f-40a6-ac7e-28d144b277ad,Sports and travel,2019-03-25,3,Regular Air,3.25,Credit Card,WH1
+edc6d18e-5ae3-4774-8a00-e0ecfebbb894,Fashion accessories,2019-02-04,9,Special Air,0.88,Cash,WH3
+9159cd59-d455-4b52-97b6-3082680286f9,Health and beauty,2019-02-16,1,ExpressAir,3.0,Credit Card,WH3
+9a7e1249-78f6-4c88-8be3-2ecc61a0a4c3,Food and beverages,2019-01-16,7,Regular Air,1.35,Credit Card,WH1
+0fa4ab84-fe93-43fd-ab5e-f4a47a25d9e6,Sports and travel,2019-02-05,6,ExpressAir,2.2,E-wallet,WH1
+6476d6b9-536c-44f9-ba44-b22a7669f559,Food and beverages,2019-03-21,4,ExpressAir,1.1,Credit Card,WH1
+190ad028-0fe4-4d74-a8b1-32d3e28d8639,Fashion accessories,2019-02-15,10,Special Air,7.76,Cash,WH2
+f0074a49-4a16-4862-b662-57e6a36303bd,Home and lifestyle,2019-02-19,9,Regular Air,4.35,Credit Card,WH3
+9cb22125-3597-48dc-9176-eccf05eeec1f,Fashion accessories,2019-01-07,5,Special Air,5.28,Cash,WH1
+9917b88b-f677-4b4f-a5bb-366439878fe5,Fashion accessories,2019-03-17,2,Special Air,7.36,Cash,WH2
+46bbc8e6-5aac-4e3f-a5e2-b588d19d9a9b,Health and beauty,2019-01-09,4,Regular Air,2.7,Credit Card,WH3
+93abfedc-98bd-45af-92d2-b79b4381a752,Health and beauty,2019-03-22,6,Special Air,3.44,E-wallet,WH2
+44dd6ec9-4397-4436-85b5-2bdb774db546,Health and beauty,2019-01-13,7,ExpressAir,4.0,Credit Card,WH2
+023a8d37-3808-4a95-b6a6-3da2bd425571,Fashion accessories,2019-03-20,8,ExpressAir,8.2,Cash,WH1
+340749c0-f507-4b5a-b340-0e740c52f1ed,Home and lifestyle,2019-01-07,8,Regular Air,1.4,Credit Card,WH3
+c1e26553-b484-4277-8589-a3767067216f,Food and beverages,2019-01-11,8,ExpressAir,7.6,E-wallet,WH1
+fa857dbe-0872-4a73-8dea-c571f5db80f2,Fashion accessories,2019-03-12,4,Special Air,2.4,E-wallet,WH3
+7338fdc8-fb24-4514-bc49-8bd8c67975f2,Electronic accessories,2019-02-10,4,ExpressAir,9.9,E-wallet,WH3
+05ca5803-6fcd-4c4c-817e-75c5c561664c,Fashion accessories,2019-03-08,8,Regular Air,2.6,E-wallet,WH1
+1909a839-a56a-45fc-9f4b-221f59e35ff5,Home and lifestyle,2019-03-06,4,Regular Air,1.2,Credit Card,WH1
+07f108f1-7cd4-41f9-8824-5c7a7f69dedf,Home and lifestyle,2019-01-29,7,Regular Air,3.85,Credit Card,WH2
+3fb4c600-0bbc-4ef5-9f70-a6d5f15ac2b1,Health and beauty,2019-02-15,2,ExpressAir,5.2,Credit Card,WH2
+25fde8b1-49bf-4e07-8725-e627f54ea3ee,Food and beverages,2019-01-03,8,Special Air,1.6,Cash,WH2
+53423643-f46d-4db1-9db9-506ce4cdaac2,Food and beverages,2019-01-26,5,ExpressAir,1.0,E-wallet,WH1
+a2cb094e-4860-4403-8396-18400cbbea2c,Home and lifestyle,2019-02-09,2,Regular Air,3.0,Credit Card,WH2
+f80826e7-7e70-4ffc-abed-9c05fcd47836,Sports and travel,2019-03-13,9,Regular Air,1.7,E-wallet,WH1
+c3b567a7-f11e-4084-998c-f1090cebb0af,Sports and travel,2019-02-26,6,ExpressAir,9.9,Credit Card,WH1
+74e19b5f-7a1d-4ef0-8a00-167ba8d58f6a,Food and beverages,2019-01-16,8,ExpressAir,9.1,E-wallet,WH3
+8ccc112f-d6bf-466b-ac93-7b9e4d5bcfd0,Fashion accessories,2019-01-08,8,Regular Air,3.8,Cash,WH3
+bce459da-ddc0-4a15-b5a6-16ef939681b9,Home and lifestyle,2019-03-11,7,Regular Air,2.5,Credit Card,WH2
+0628393a-67b0-408d-b77d-da1946bddbfb,Sports and travel,2019-03-16,5,ExpressAir,2.8,Cash,WH3
+2ecf909f-ecc5-4296-bef9-f635cb5c5484,Fashion accessories,2019-03-29,2,Regular Air,1.2,Cash,WH1
+0b2f2401-aa1e-48ef-8db9-9b94856daa36,Home and lifestyle,2019-02-19,6,ExpressAir,8.8,Cash,WH1
+1ce9c673-0e8f-4e9e-ae01-4639b6dc9757,Sports and travel,2019-02-03,9,Regular Air,3.0,Credit Card,WH1
+22806bc2-d342-44b1-afd3-6fa60dcb76e1,Food and beverages,2019-03-19,6,Regular Air,2.75,Cash,WH1
+999c9f68-d40f-4c0a-b445-aeca2aecb55c,Fashion accessories,2019-02-12,9,Regular Air,3.55,E-wallet,WH2
+8d9677d4-eaa8-45a1-ad72-2df46991220f,Health and beauty,2019-03-25,3,ExpressAir,5.0,Credit Card,WH1
+c4785288-41d0-4eda-b6b0-ef01a7c7ac41,Home and lifestyle,2019-02-19,8,Regular Air,0.55,E-wallet,WH1
+e1614571-ff7e-4da0-84b6-9220cf325092,Health and beauty,2019-02-07,3,ExpressAir,7.5,Cash,WH2
+e77e5696-a147-434e-86ce-350b593008a6,Health and beauty,2019-01-12,4,Special Air,5.92,E-wallet,WH3
+d1608c1e-23d2-4b6d-a5df-06b439174350,Sports and travel,2019-02-05,1,Regular Air,3.65,Cash,WH2
+e7524c7d-df6f-4444-b798-5950989a92cb,Health and beauty,2019-02-14,10,Regular Air,3.15,Credit Card,WH3
+4ef3f96e-3c84-4ffe-b494-2edcff55d7b4,Fashion accessories,2019-01-17,6,Regular Air,4.25,Cash,WH3
+5109a7d2-844c-4ef9-81c0-ba4a780544b0,Fashion accessories,2019-01-25,4,Special Air,4.64,Credit Card,WH2
+a6254290-e549-4a20-965f-afc510bc6d5f,Health and beauty,2019-03-13,9,ExpressAir,8.9,Credit Card,WH1
+7e096e82-b70a-4667-8054-32c6dc41a3aa,Home and lifestyle,2019-02-16,6,ExpressAir,4.0,Credit Card,WH3
+51e1961b-fe93-4219-a39d-a236d19e444f,Fashion accessories,2019-02-05,5,Special Air,3.68,Cash,WH2
+cb9b3b3d-ea7a-452b-8650-abd37ff75bfa,Sports and travel,2019-03-12,6,Special Air,6.8,Cash,WH1
+eeada4c7-4436-4121-8d3c-b9b5db839ce1,Health and beauty,2019-02-13,3,ExpressAir,2.2,Cash,WH1
+da4fb0d9-7416-478c-8b91-66fed51ef629,Sports and travel,2019-02-14,4,Special Air,6.0,Cash,WH3
+5bc01611-9e6d-4919-8c6f-df0671dcaaa1,Sports and travel,2019-01-26,6,ExpressAir,6.9,Credit Card,WH3
+e4af68a9-6d22-4daa-95b5-eb599ff2ee67,Sports and travel,2019-03-19,1,Regular Air,1.4,E-wallet,WH2
+3e86e3ab-97bc-40a7-962a-217d31c95bec,Health and beauty,2019-01-16,2,ExpressAir,2.6,E-wallet,WH3
+ee1ed33b-81e8-40a9-ae49-6d9ea24ac79c,Sports and travel,2019-03-05,4,Special Air,5.28,Cash,WH3
+9e4158c4-957a-4db8-9571-abf5a48d2106,Electronic accessories,2019-03-16,1,ExpressAir,8.0,E-wallet,WH1
+197880b5-2aff-4615-a058-5da1b07ce228,Fashion accessories,2019-03-13,8,Regular Air,3.85,Cash,WH3
+30ecc9df-37a3-49e8-80b8-e80ce7f649f1,Home and lifestyle,2019-03-20,6,ExpressAir,8.5,Cash,WH1
+e5d6e6e1-269a-4c48-9bfa-d8542b7a5cd8,Health and beauty,2019-01-20,4,ExpressAir,2.1,E-wallet,WH2
+6fe8df3a-0faa-4a05-bb9a-dc934dc2ee2c,Fashion accessories,2019-01-15,6,Regular Air,4.2,Credit Card,WH2
+3bf9a275-6f5d-4ffe-98a8-91695ed322a5,Health and beauty,2019-01-07,4,ExpressAir,8.1,Cash,WH2
+9b9888f7-8e9d-492b-a2b2-ba68a25ff2c1,Food and beverages,2019-02-13,9,Special Air,4.88,Cash,WH2
+e1b861e5-c9a1-4471-b254-6900de618180,Home and lifestyle,2019-02-22,6,Special Air,1.44,Credit Card,WH3
+e701b21d-efb3-4c8e-be4d-54ce439f44be,Home and lifestyle,2019-01-25,3,Regular Air,4.85,Cash,WH2
+d836ca22-c172-4ae7-89fc-d08ed7d4c3d1,Sports and travel,2019-01-05,7,ExpressAir,8.0,Cash,WH3
+fa5bf450-7c68-43c6-91c2-61da6797da28,Fashion accessories,2019-03-07,10,ExpressAir,9.2,Credit Card,WH1
+52a09aad-bea2-4463-900c-609e2fd81997,Fashion accessories,2019-03-10,6,Special Air,4.32,Credit Card,WH1
+29257013-ca72-4e58-b4b8-bba0c1375166,Electronic accessories,2019-03-08,4,Special Air,5.2,Cash,WH3
+bc05bbc9-e8f2-41d1-b2c5-6933d3e0e496,Fashion accessories,2019-01-06,3,ExpressAir,4.7,E-wallet,WH2
+158f7e49-aaa3-416b-a565-ca23caded1ac,Food and beverages,2019-03-21,6,Regular Air,2.95,Cash,WH1
+66c77ee0-573a-4a0c-bf9d-0913f543d271,Food and beverages,2019-02-28,7,ExpressAir,5.9,E-wallet,WH3
+b907bccc-c259-4d9b-8eed-d06703dd4335,Food and beverages,2019-02-05,3,Special Air,5.2,Credit Card,WH2
+7beb9af5-b22b-4a29-8a2c-485e1891f221,Electronic accessories,2019-01-28,3,ExpressAir,8.3,Cash,WH2
+262a625e-90cc-49a6-b8ab-dcfa9978efad,Home and lifestyle,2019-02-13,5,ExpressAir,9.0,E-wallet,WH1
+93671678-e537-41fc-9216-e6f2802a7d70,Electronic accessories,2019-03-19,6,Special Air,2.4,Credit Card,WH2
+c7e5a316-429b-4161-a8f9-0a64921ba7d0,Sports and travel,2019-01-27,2,ExpressAir,1.6,Cash,WH3
+a45a404b-d68d-4b52-9b2a-afc6998d393b,Sports and travel,2019-02-20,1,Regular Air,1.5,E-wallet,WH2
+c2b2260c-7f90-4b9f-94fc-30b6580994c4,Food and beverages,2019-01-23,5,Special Air,4.08,E-wallet,WH1
+1ebed7a1-a097-4b50-95a6-f137b4ca188c,Sports and travel,2019-01-01,5,ExpressAir,2.0,Credit Card,WH3
+fdbfee7e-0670-4b94-9084-61c416d00db1,Sports and travel,2019-01-18,3,ExpressAir,2.6,Credit Card,WH1
+cba4bf0a-ee51-473b-9786-ff79403f71b8,Electronic accessories,2019-03-30,9,Regular Air,4.85,Cash,WH2
+7c75e71e-4251-4ef5-bc4e-aac1993d2492,Sports and travel,2019-03-01,6,Special Air,4.72,Cash,WH3
+9360b2aa-4139-4f91-8b1f-98bbfc22a7fa,Sports and travel,2019-02-17,9,Regular Air,4.3,Credit Card,WH3
+294963c3-a835-4fa0-9656-b80d2ce85b98,Fashion accessories,2019-01-14,9,ExpressAir,1.1,Cash,WH2
+85ed3a56-7031-42e3-a950-448941dc29e1,Sports and travel,2019-01-03,5,Regular Air,1.25,E-wallet,WH2
+444d273a-3107-4b11-a266-db0b5dcd3e2d,Food and beverages,2019-01-24,6,Regular Air,4.55,Cash,WH3
+ff55a228-774f-43bd-8137-c63ec0000c81,Fashion accessories,2019-03-22,1,ExpressAir,2.9,Credit Card,WH2
+5f675263-c449-4d89-ad03-eb59e7e8d8df,Fashion accessories,2019-03-06,7,Special Air,4.56,Cash,WH3
+52c36b86-8b07-4e7f-bfec-970bad7071d3,Health and beauty,2019-02-01,8,ExpressAir,1.3,Cash,WH1
+020c930b-6a43-4d82-aa74-4fb7cce640d9,Home and lifestyle,2019-02-12,3,Regular Air,4.3,E-wallet,WH1
+9bc4e8bd-1f64-45f1-a1ea-44c01c39bea3,Sports and travel,2019-03-01,10,Regular Air,0.7,E-wallet,WH3
+10500dd2-a32e-4dea-a3af-f9f81377682d,Sports and travel,2019-01-04,7,Special Air,3.68,E-wallet,WH2
+cf98ea8e-8825-4c4c-b2a1-8991d56c0d24,Home and lifestyle,2019-03-16,7,Regular Air,3.65,E-wallet,WH2
+4f8a0e0a-21bd-4765-9605-1740a4d1dd02,Electronic accessories,2019-02-14,5,Special Air,6.16,Cash,WH1
+c4f725a3-6d74-4e9b-9b5b-bb11542b7e07,Fashion accessories,2019-02-06,6,Regular Air,2.3,Cash,WH3
+5245f957-6294-4c51-b747-fc80f139bef7,Electronic accessories,2019-03-24,8,Regular Air,3.4,Cash,WH3
+a4ebb9fd-edb0-4234-bba6-014dfb3ec7ff,Sports and travel,2019-02-18,2,Special Air,5.68,Credit Card,WH2
+89ea425e-9ecc-4e3d-ab28-ae5760cea91f,Home and lifestyle,2019-02-13,8,ExpressAir,2.9,E-wallet,WH2
+30261fa6-b339-48f8-ade9-dfbcca0c3574,Home and lifestyle,2019-01-18,9,Special Air,0.8,E-wallet,WH3
+2fe7ed66-6148-4ab5-8d91-b25501a29d0a,Health and beauty,2019-03-11,1,Regular Air,3.4,Credit Card,WH1
+7154f110-b271-4bed-9c8b-1e75234c3bc0,Fashion accessories,2019-01-23,9,Regular Air,2.8,Credit Card,WH3
+b65ae7e4-a48a-42b8-a751-8bde1b3f07cb,Electronic accessories,2019-02-19,10,Special Air,4.32,Credit Card,WH3
+630e560b-d90e-4c48-ac67-5c7ed0a97272,Health and beauty,2019-01-02,9,ExpressAir,9.4,E-wallet,WH2
+17a22415-26ba-4f8d-b31d-6c77dacdf813,Food and beverages,2019-01-05,9,ExpressAir,4.5,E-wallet,WH3
+3de19b1d-daf4-467b-81c3-6f9f85d02e82,Fashion accessories,2019-01-31,3,Regular Air,0.55,Cash,WH1
+0cf70de4-7b04-441b-b6e6-fd278f31e3d6,Health and beauty,2019-01-30,10,Special Air,3.92,Cash,WH2
+8241dd4f-318e-4b23-9f88-592557c23462,Home and lifestyle,2019-01-02,5,Special Air,1.36,Credit Card,WH1
+86453bca-91dd-4b5b-af0b-0aea3aa10653,Electronic accessories,2019-02-24,8,Regular Air,2.4,E-wallet,WH1
+0b7593f1-a1d5-42bc-875d-a9d92633dbec,Sports and travel,2019-03-14,3,ExpressAir,4.8,E-wallet,WH3
+225c621f-a3de-46e9-8dc9-d4c7cb787842,Food and beverages,2019-01-10,3,Regular Air,1.15,Credit Card,WH3
+0098a60f-492f-45ff-a2ac-b0f6e9a6f2b2,Food and beverages,2019-01-29,7,Special Air,2.32,Credit Card,WH1
+5ec8f7af-6572-4c00-9881-6fcaea02b8a9,Electronic accessories,2019-03-08,5,ExpressAir,5.6,E-wallet,WH1
+d8051bba-01fc-422b-a480-86ce57a92606,Sports and travel,2019-01-09,2,ExpressAir,5.1,Credit Card,WH3
+77d5b109-9a1f-47d9-b704-e06a68611a49,Health and beauty,2019-02-04,6,Special Air,7.76,E-wallet,WH3
+adfe59d5-ad8e-4b34-a958-3a0ed3a6cb54,Sports and travel,2019-03-04,2,ExpressAir,6.1,E-wallet,WH2
+97edba6d-cf96-487a-a606-4459121d5569,Food and beverages,2019-03-08,10,Special Air,7.84,Credit Card,WH1
+8301b733-927a-4ccd-ab18-241d5290d787,Health and beauty,2019-03-03,7,Regular Air,3.5,Credit Card,WH1
+c5acb6ef-b1ff-43c5-947f-4bca988f7612,Fashion accessories,2019-03-05,1,Regular Air,2.0,Credit Card,WH3
+79f96e73-5a0e-4ee9-b1c0-67d158acf47e,Health and beauty,2019-03-02,10,Special Air,3.2,E-wallet,WH1
+2aa26209-af0d-4474-8978-2256903ca78b,Home and lifestyle,2019-03-08,3,Special Air,4.08,Cash,WH3
+0aeae040-1ab3-4881-b3ee-e19733d43a13,Sports and travel,2019-01-07,4,Special Air,7.28,E-wallet,WH2
+8b9ad1ac-71cb-478f-ba51-4e3aecf607a3,Electronic accessories,2019-01-27,1,Regular Air,1.4,Credit Card,WH2
+48cc1f9b-00bf-4d66-9cef-f3979fd47b84,Food and beverages,2019-01-31,1,ExpressAir,6.7,Credit Card,WH2
+6327c6e5-9ab7-48fa-9afd-bdb4c1cbbe21,Sports and travel,2019-03-10,6,ExpressAir,3.2,Cash,WH2
+6726a8c5-f088-4294-ba9f-1738918ff346,Electronic accessories,2019-01-24,5,Special Air,2.48,E-wallet,WH1
+8d414753-c955-4f59-9a76-76a305688ff7,Home and lifestyle,2019-02-27,8,Regular Air,2.55,E-wallet,WH2
+eb999c3d-72c3-46c5-a152-33b422d35a8e,Electronic accessories,2019-01-31,10,ExpressAir,8.4,E-wallet,WH1
+d3805bb3-a54e-4d09-b5bf-947aba983f15,Fashion accessories,2019-02-03,8,Special Air,7.44,Credit Card,WH2
+b3e777c6-5d9d-44fb-bab3-9108006d5795,Sports and travel,2019-01-19,10,ExpressAir,3.9,Cash,WH1
+b1543a62-f777-4599-ba7d-6005ac7b1afa,Electronic accessories,2019-03-10,8,Regular Air,2.05,Credit Card,WH2
+ba9c1180-fd2a-41e4-9909-e885e5b28dc5,Health and beauty,2019-02-05,4,ExpressAir,6.0,E-wallet,WH1
+44c8dbd0-0463-47e8-b80e-a9db931199f4,Health and beauty,2019-03-01,2,ExpressAir,8.4,Credit Card,WH3
+18763604-445e-4b17-9135-cf45572fca23,Fashion accessories,2019-01-25,6,Special Air,5.6,E-wallet,WH2
+d071dca6-32b0-4330-918f-c87568357a63,Food and beverages,2019-02-21,3,Special Air,2.64,Cash,WH1
+25e77ec3-2e4c-4f5b-8727-b545270ca793,Health and beauty,2019-01-31,8,ExpressAir,4.2,Cash,WH1
+4abd47b9-7bb5-452d-be41-7023c6f357a9,Sports and travel,2019-03-17,7,ExpressAir,5.3,Cash,WH3
+34ff94e3-9faa-4eb7-b315-8155f5afe297,Health and beauty,2019-02-21,6,Special Air,4.88,Cash,WH1
+f0734d69-fba9-410a-81ab-4e0e1accbbd2,Electronic accessories,2019-01-18,3,ExpressAir,4.9,Cash,WH3
+626ede4b-17c6-41c2-89e3-2b758d571019,Health and beauty,2019-01-15,10,Regular Air,1.55,E-wallet,WH1
+e9a27275-9ad7-4230-8574-dab036549c5a,Fashion accessories,2019-01-15,9,Special Air,3.76,E-wallet,WH3
+eba17e69-1b75-4bf9-b176-909245ad55db,Electronic accessories,2019-03-24,10,ExpressAir,6.2,Credit Card,WH1
+d35f2c36-ab93-46c4-be05-7965e7bfb92a,Fashion accessories,2019-01-11,5,Special Air,4.72,E-wallet,WH3
+ffdd2c2b-9466-443f-b664-fe7c8695f04d,Electronic accessories,2019-02-11,8,Special Air,1.52,Cash,WH3
+cbbe0a97-1b8f-43b4-9ca3-6cff750bd293,Health and beauty,2019-03-04,6,Special Air,4.4,Credit Card,WH3
+af487108-8673-493b-9f73-f5964fa504e6,Health and beauty,2019-02-04,10,Regular Air,4.45,Credit Card,WH2
+81e5d54d-d4c5-4fde-a511-9056730c0247,Electronic accessories,2019-01-06,8,ExpressAir,6.0,Credit Card,WH2
+8ac5da90-4cb0-4d75-909b-a285d29ea0ab,Sports and travel,2019-03-15,10,Regular Air,2.0,E-wallet,WH3
+072bbfc1-6fe3-4356-a560-861bdc7938f1,Health and beauty,2019-01-11,1,Regular Air,2.75,E-wallet,WH3
+9be93498-8efd-492f-90f0-47b9e9cbd877,Food and beverages,2019-02-08,2,Regular Air,2.6,Cash,WH2
+6943b32f-15c9-4a3b-ab75-812508dd7eca,Fashion accessories,2019-02-17,10,Special Air,3.68,Cash,WH3
+d1fa4aed-d23f-4a0d-adf1-7db76c4cb275,Fashion accessories,2019-01-04,5,Regular Air,3.15,Cash,WH2
+acb6de92-d170-49b4-854f-37fe545ee0ba,Sports and travel,2019-02-23,6,ExpressAir,3.4,E-wallet,WH3
+a82411a4-e509-472e-9a2d-4b45b2c46d29,Food and beverages,2019-02-28,2,Regular Air,1.8,Credit Card,WH1
+3a4c2a87-ad51-40c1-9409-f2a65b0432ce,Health and beauty,2019-02-13,7,Special Air,5.04,Cash,WH3
+aefe9fe4-830f-4e13-a877-da324cf0d414,Health and beauty,2019-02-18,8,ExpressAir,3.4,E-wallet,WH2
+2b43a4b2-f400-44d2-b075-48a1642f9eb3,Home and lifestyle,2019-03-06,1,ExpressAir,7.2,E-wallet,WH3
+fbf582f3-01ee-47fb-bd69-24055f5fde81,Fashion accessories,2019-02-23,8,ExpressAir,5.7,Cash,WH3
+8f2fa5ba-1268-4160-a6a1-2f3f42b261cd,Fashion accessories,2019-03-11,5,Special Air,1.92,E-wallet,WH1
+86ace42f-aa0a-40fe-be7c-dfaf36c41985,Food and beverages,2019-01-18,5,ExpressAir,9.3,E-wallet,WH2
+a729a854-2dcc-4a50-986f-ed437011c079,Fashion accessories,2019-02-15,10,Regular Air,2.15,Credit Card,WH2
+69b6f13a-5343-485b-8375-9492becbf1b2,Sports and travel,2019-03-13,9,ExpressAir,9.1,Credit Card,WH1
+a529129d-07ce-4e0d-9495-c83bd7a7289b,Food and beverages,2019-03-16,2,Special Air,2.88,Credit Card,WH1
+4b21a5a2-5f82-4a8c-a9ed-56a78e4eb7fb,Home and lifestyle,2019-02-07,4,Regular Air,2.65,Cash,WH3
+661428c5-9a72-4b3b-aa63-5f4e7d8fa6d1,Health and beauty,2019-03-25,6,ExpressAir,5.7,Cash,WH2
+8477dccf-a8d6-4b4a-928a-ea7432e50d2e,Food and beverages,2019-03-22,2,Regular Air,0.95,Credit Card,WH2
+1cb5393a-ba2b-49ab-8fba-a7bb81b735e3,Sports and travel,2019-02-19,8,Regular Air,0.7,E-wallet,WH3
+927f063a-f504-492e-9719-ac310549ecab,Food and beverages,2019-03-03,2,Special Air,7.92,E-wallet,WH3
+4f01f3f9-e1e8-47be-b246-e26f6f5c2cbb,Food and beverages,2019-01-26,3,Regular Air,3.55,Credit Card,WH3
+2008eae4-3875-4bd2-b6bb-e47b0e116239,Home and lifestyle,2019-02-09,6,ExpressAir,8.6,Credit Card,WH2
+41d5d03d-3193-46e9-b1fb-2083502d0b3e,Sports and travel,2019-01-24,8,ExpressAir,3.6,E-wallet,WH3
+f88c71eb-7ed9-4c9f-8046-eec410102423,Sports and travel,2019-01-11,1,Regular Air,1.5,Cash,WH2
+d8e9a4ef-ba45-4e1b-a146-b28250c1143a,Fashion accessories,2019-02-02,6,ExpressAir,7.8,E-wallet,WH1
+3f71a674-d2dc-4974-993c-3ab246e7a06b,Fashion accessories,2019-02-25,5,Special Air,3.44,Cash,WH3
+8c3d1d41-3291-4a51-b22f-ac66cc0d761d,Sports and travel,2019-01-31,2,Special Air,4.32,E-wallet,WH3
+e096e1b3-c649-4715-81d5-8a284d0b8f72,Food and beverages,2019-02-18,5,Special Air,1.6,E-wallet,WH1
+cc7e551d-280d-4fbf-bf12-d4f80f9b260a,Health and beauty,2019-02-02,6,Special Air,6.32,E-wallet,WH3
+2e41bcb4-e450-4a48-9acc-739e75e3039f,Sports and travel,2019-03-01,2,Special Air,7.2,Credit Card,WH3
+03805acd-839e-4292-8b65-3fdba5bad7fb,Electronic accessories,2019-01-27,6,Special Air,2.32,E-wallet,WH1
+24fc1750-01cc-4bc6-93fc-08c62ed143de,Sports and travel,2019-02-16,4,ExpressAir,3.1,Credit Card,WH2
+203ec6ad-e87b-46d1-8d4d-ed67edaba8f8,Sports and travel,2019-01-07,8,Regular Air,4.2,Credit Card,WH2
+d6b783c0-baf5-4051-a0f9-6ebc46717996,Sports and travel,2019-03-01,5,Special Air,0.8,E-wallet,WH1
+9a42eb7c-d5f6-498f-81c4-010a5968cf9e,Sports and travel,2019-01-13,1,Special Air,6.08,Cash,WH1
+b0bc37d6-d0f1-4044-9afa-86cbcfd5a534,Sports and travel,2019-02-25,10,Special Air,4.88,E-wallet,WH1
+d88780fd-f41b-40f8-be09-661f57ec2d2e,Fashion accessories,2019-03-04,8,Regular Air,3.3,Credit Card,WH2
+4d9c5e63-b389-4942-b7b2-a904a7d3865c,Fashion accessories,2019-01-02,10,Regular Air,2.7,E-wallet,WH2
+c315068f-911b-463e-b5ec-c34c3f81d9d0,Health and beauty,2019-03-15,9,Regular Air,3.2,E-wallet,WH2
+644488db-80c1-40ff-9a33-2c73fc5d15ce,Electronic accessories,2019-03-22,2,Regular Air,1.55,Cash,WH2
+b3fb9627-60be-4750-b1d0-1e2a91fe48db,Sports and travel,2019-01-30,2,Regular Air,2.75,E-wallet,WH1
+5235a2da-e004-4675-827a-937d31282f97,Sports and travel,2019-02-17,3,Special Air,5.12,Cash,WH1
+0bd6d2a2-7586-4bd4-91d1-1740edb73898,Home and lifestyle,2019-03-28,5,Special Air,3.6,E-wallet,WH1
+e582bc70-f525-4517-8c70-7f5e3626c64a,Fashion accessories,2019-02-22,2,Special Air,6.48,Credit Card,WH2
+31c66c57-c2ff-4e34-8345-c4692c85dc4d,Health and beauty,2019-01-03,5,Special Air,4.24,Credit Card,WH3
+c1354b44-af08-4393-b608-a28678b801f9,Electronic accessories,2019-01-22,4,Special Air,4.48,E-wallet,WH1
+a8b33995-3188-43a6-86ac-a7b34c1cbdc3,Food and beverages,2019-01-10,1,ExpressAir,6.4,E-wallet,WH3
+59134127-2a22-4fb6-a5ad-6515d5ea3308,Fashion accessories,2019-03-23,3,Regular Air,4.35,E-wallet,WH2
+c2b69697-0043-455d-baac-46679b9ee265,Food and beverages,2019-02-10,5,Regular Air,0.65,Credit Card,WH2
+aba1ad92-8700-4b70-8714-204620a7dd98,Electronic accessories,2019-02-23,3,ExpressAir,3.8,Cash,WH1
+3c7bcced-107a-4d3c-9187-7180eb7b5930,Home and lifestyle,2019-03-10,7,Regular Air,4.3,Cash,WH1
+c182f8b1-a7d1-46c8-9a76-7bfbdb33a2ba,Sports and travel,2019-02-22,2,Regular Air,4.15,E-wallet,WH2
+b5a096e8-35fd-4a03-8659-7d1f7602bbd9,Electronic accessories,2019-01-28,7,Special Air,7.52,Cash,WH3
+cb7a9820-63b9-4817-846c-2670ec2d2941,Sports and travel,2019-02-04,1,ExpressAir,3.8,E-wallet,WH1
+de70cfc5-435c-4bc1-b20c-045480ba23cd,Electronic accessories,2019-03-21,10,ExpressAir,5.7,Credit Card,WH1
+24c9ad2a-06f9-4c0a-9444-36253cc876c0,Fashion accessories,2019-03-20,1,Special Air,6.64,E-wallet,WH2
+e64bb5be-f84d-4fc3-a1f1-48f241ccbab1,Fashion accessories,2019-01-08,10,ExpressAir,9.0,Credit Card,WH3
+89b8352b-a497-424a-b751-37e06ba40c00,Fashion accessories,2019-02-20,1,ExpressAir,1.0,Credit Card,WH2
+1aab4260-bd0b-4edf-a447-e29769382036,Food and beverages,2019-02-25,1,ExpressAir,3.7,E-wallet,WH3
+53f7d370-6013-4797-92e7-93bdf1e9310f,Fashion accessories,2019-02-21,10,Special Air,7.76,Cash,WH2
+2971dffc-ccad-40c1-a7e4-ddf39af66e71,Home and lifestyle,2019-01-28,10,Regular Air,1.4,E-wallet,WH3
+9d4da884-c196-48d2-81ae-db3b0b352333,Home and lifestyle,2019-02-18,7,Regular Air,1.6,Credit Card,WH1
+24d21b3c-d402-4d61-98e7-0af1a9d55000,Sports and travel,2019-03-08,4,ExpressAir,3.8,Credit Card,WH2
+daa55cd3-86c4-4cfb-9756-6fa0f2ab9c41,Sports and travel,2019-01-27,10,ExpressAir,1.3,E-wallet,WH3
+80e93810-40c1-4ec1-baf6-48d7a0c5370a,Home and lifestyle,2019-02-25,7,Special Air,3.68,Cash,WH2
+18aa2333-5428-4594-8a0a-a0cc26bbcf40,Fashion accessories,2019-01-24,3,Special Air,2.24,E-wallet,WH1
+f09a03bc-f7dc-4405-8e63-585c4701a5cb,Fashion accessories,2019-01-31,2,Regular Air,4.4,Credit Card,WH3
+e3ec1a4e-eb58-4d32-bd9b-4564498b4361,Electronic accessories,2019-02-22,10,Special Air,6.0,Credit Card,WH1
+611b3eed-f09f-4b3c-8e52-98e34ad407c5,Sports and travel,2019-02-27,4,Regular Air,4.4,Credit Card,WH3
+1f2c10fc-694c-424c-8136-f0809c22266c,Home and lifestyle,2019-03-24,2,ExpressAir,9.5,Cash,WH1
+8f9afcab-4b10-405f-94b5-60d684157ed8,Food and beverages,2019-01-30,7,Special Air,1.68,E-wallet,WH2
+61c30699-bc31-4d81-80b3-ce712f5b7aad,Health and beauty,2019-01-16,9,Special Air,3.44,Credit Card,WH3
+a9bf9b5e-d3ec-426c-aa15-4ebf231ed560,Health and beauty,2019-03-30,10,ExpressAir,8.2,Credit Card,WH1
+4c4337ee-dc0e-4b7b-a062-1f408f8bbf61,Food and beverages,2019-02-14,2,Special Air,3.68,E-wallet,WH3
+258de986-f0de-4462-a30f-ef8ea9899139,Home and lifestyle,2019-02-10,7,Special Air,0.96,Credit Card,WH1
+f54aaec0-6924-4408-a739-2f8ae68b2fdb,Electronic accessories,2019-03-28,7,Regular Air,1.2,Credit Card,WH2
+079a7516-7584-4275-a702-cab2524c382c,Food and beverages,2019-03-10,5,Regular Air,2.8,Cash,WH3
+ffb96a42-2b82-485a-a259-ed317aeaaf1b,Sports and travel,2019-03-04,5,Regular Air,1.0,Cash,WH1
+aa9edbe1-d13a-43ee-a5d4-2499e99f55a9,Home and lifestyle,2019-03-01,4,Regular Air,1.95,Cash,WH3
+f837300c-f286-4b6f-8d41-2af693356ef6,Electronic accessories,2019-02-04,3,Regular Air,3.5,Cash,WH1
+750d94a8-b6ed-4ca9-ab80-31fb9ef0780c,Fashion accessories,2019-01-10,7,Special Air,5.76,Credit Card,WH2
+4a51f0fe-89c3-4b32-b2b5-f2e479722a80,Fashion accessories,2019-03-06,6,ExpressAir,8.3,Credit Card,WH3
+ece33323-32b9-46b9-ba0b-b52658563f4a,Home and lifestyle,2019-01-31,8,Special Air,5.6,E-wallet,WH2
+52c43fb8-31b2-4004-9de5-70ddb27af727,Food and beverages,2019-02-17,10,ExpressAir,7.6,E-wallet,WH1
+3d213405-404b-42b7-b5c2-febd2eb3105f,Food and beverages,2019-01-22,5,Special Air,7.36,E-wallet,WH1
+52229d42-253f-4872-a65b-797e8205fa61,Electronic accessories,2019-01-18,3,Regular Air,1.45,E-wallet,WH3
+ce358bec-d826-45a3-92c7-c777114b66ff,Food and beverages,2019-03-16,1,Special Air,3.84,Cash,WH3
+a6414719-5318-4328-8aee-1c0a9e87782a,Sports and travel,2019-01-05,10,Regular Air,1.75,Cash,WH2
+96c2d994-8131-4596-9d18-441e8300b7b8,Health and beauty,2019-02-04,1,Special Air,7.84,Credit Card,WH3
+bca78614-5878-49fb-a240-4c45d302442b,Fashion accessories,2019-02-04,9,ExpressAir,8.6,E-wallet,WH2
+8bc9b4e2-7709-42de-b3ba-077a5d731b50,Fashion accessories,2019-03-25,7,ExpressAir,5.7,Cash,WH2
+23ea9c2d-992e-4d3a-b8e2-09d6a0d07fc4,Fashion accessories,2019-02-06,5,Special Air,7.2,Cash,WH3
+387a6099-93f5-43be-a0d7-5e35da9e4514,Home and lifestyle,2019-03-08,5,Regular Air,0.8,E-wallet,WH2
+7e3402f4-b1a2-4238-9496-472d1f4dae72,Food and beverages,2019-03-04,2,ExpressAir,2.3,Credit Card,WH3
+e7880ae9-57b0-4018-a94f-4e9c920cf004,Food and beverages,2019-03-20,10,ExpressAir,9.6,Credit Card,WH2
+513d546c-bb1b-4151-ae83-79e20b893118,Health and beauty,2019-03-24,5,Regular Air,2.65,Credit Card,WH1
+a6fb4b93-b14d-4491-a2da-941658afa144,Food and beverages,2019-01-16,10,Special Air,3.36,Credit Card,WH2
+a73f6ae5-5db4-4db7-8546-1d654b8f0e5c,Fashion accessories,2019-03-29,2,Special Air,6.56,Cash,WH3
+11ac9099-8f07-45b0-9a8b-cc4aa955f6f5,Health and beauty,2019-03-29,3,ExpressAir,8.8,Cash,WH3
+2dfb28a4-fa4e-4ba9-abad-cd2c94dc1075,Health and beauty,2019-03-23,4,Regular Air,4.9,E-wallet,WH1
+de320a89-56af-4470-80de-c0de81b68f40,Sports and travel,2019-02-03,9,Special Air,3.44,Cash,WH1
+1c827d22-1c4a-4aef-ba3b-34932e220dac,Fashion accessories,2019-01-21,6,ExpressAir,1.6,E-wallet,WH1
+ba72e5f2-4a3d-4ef9-aa4b-d63584ca2009,Home and lifestyle,2019-01-04,10,Special Air,2.72,Cash,WH2
+6020395b-3ae5-4bf0-bec2-d8bd75aae5fc,Home and lifestyle,2019-03-07,2,ExpressAir,3.9,Credit Card,WH1
+d0fe2551-6695-4375-a00a-70aaf7c433ef,Sports and travel,2019-02-04,10,Special Air,2.72,E-wallet,WH1
+75102091-5d5a-4c77-85b2-1bd28b8d546e,Food and beverages,2019-03-03,6,Special Air,1.12,E-wallet,WH1
+4c9f4429-1481-46c4-87ab-a753d332bace,Fashion accessories,2019-03-06,1,Regular Air,2.15,E-wallet,WH2
+98f0fd2c-323b-4799-a1ab-0aac2e153f72,Electronic accessories,2019-03-17,3,ExpressAir,6.2,E-wallet,WH3
+0233d344-17be-4cc4-8ae9-823e45c39c92,Sports and travel,2019-02-12,6,Special Air,1.36,Credit Card,WH2
+31fab8b1-9fa1-44af-8522-40fc303b2fa9,Home and lifestyle,2019-01-26,10,Special Air,7.92,Credit Card,WH2
+fb3b5d25-605d-472a-b611-ab57eff6f959,Food and beverages,2019-03-29,3,Regular Air,0.65,Credit Card,WH3
+d4cc30c3-9ebd-4e09-a3e3-ebd4b479773b,Health and beauty,2019-02-24,2,ExpressAir,2.9,Cash,WH1
+ff48cdb6-a082-477e-944e-15201fe38941,Home and lifestyle,2019-03-14,10,Special Air,1.2,Cash,WH1
+2c2d453a-c06d-4472-866b-9b189ee74842,Sports and travel,2019-03-24,5,ExpressAir,5.8,Cash,WH2
+8e486313-abd4-4510-8e4c-31ae986f1677,Electronic accessories,2019-02-03,3,ExpressAir,8.5,Cash,WH1
+955f9cab-3714-46ec-8be6-4bfc6ce244a8,Sports and travel,2019-01-27,7,Regular Air,4.65,Credit Card,WH3
+8431d5f5-a275-49e2-8575-279373211d45,Home and lifestyle,2019-03-21,4,Special Air,3.92,Credit Card,WH3
+a847f580-a9de-45ad-83be-c2d781c898f1,Health and beauty,2019-03-19,10,Regular Air,3.4,Cash,WH2
+7e8d0355-1731-49d9-af8f-f011e48e6485,Home and lifestyle,2019-01-29,5,Special Air,7.68,E-wallet,WH2
+46b73b29-bcec-400f-b747-8a7c137cbadf,Food and beverages,2019-02-24,6,ExpressAir,9.8,Credit Card,WH3
+4c9761a3-eb1a-4db8-b79d-e27578e56e24,Home and lifestyle,2019-03-01,2,Regular Air,3.15,Cash,WH2
+84037c50-1cc0-4c1e-b9ca-8bc36e457a83,Home and lifestyle,2019-02-14,7,Regular Air,0.65,Cash,WH1
+def9878b-6556-462b-ab3f-2d914da8b78f,Health and beauty,2019-03-30,9,Special Air,7.6,Cash,WH3
+68349716-a7ac-4973-8b5f-86631cce361b,Electronic accessories,2019-01-30,5,Special Air,7.44,Cash,WH3
+69885e03-9c28-4286-812c-620f0ee6af5f,Home and lifestyle,2019-03-13,9,Special Air,1.28,E-wallet,WH2
+dfcea7b4-ca43-43b0-b101-654ff6d21ce9,Food and beverages,2019-01-22,8,ExpressAir,8.9,Credit Card,WH3
+818d8a35-aad9-44c7-a326-192a44ec8466,Home and lifestyle,2019-03-15,10,Regular Air,2.2,E-wallet,WH1
+f3c86f7a-2be6-4ced-924e-c15a9b969e53,Sports and travel,2019-03-22,6,Special Air,2.96,Cash,WH3
+66052aa0-737a-4fca-a1c3-1cabdefffe54,Food and beverages,2019-03-01,9,Regular Air,2.9,Credit Card,WH2
+70f0478e-d982-4e74-878e-c7ca4a54d778,Food and beverages,2019-01-08,3,Regular Air,2.45,Credit Card,WH1
+2a05977a-3380-4383-affb-5162f894ea2b,Electronic accessories,2019-02-02,4,Special Air,1.44,Cash,WH3
+a372693e-ff3a-4c74-af6a-a164439487a4,Sports and travel,2019-03-11,7,ExpressAir,4.0,Cash,WH1
+14fb6797-2c70-4108-9c0f-4b99730e36c1,Sports and travel,2019-02-17,6,Regular Air,3.0,Credit Card,WH3
+92c0e5c5-cd7a-456f-b835-369f9e7b243a,Food and beverages,2019-01-31,7,ExpressAir,5.3,Cash,WH1
+44bf3af8-9b39-44cf-abdb-dd7f87dd4ce9,Health and beauty,2019-03-29,9,Regular Air,2.25,Cash,WH1
+a362a8a4-f010-4e2b-ade6-8f3db7b491cb,Food and beverages,2019-02-05,1,Regular Air,4.35,E-wallet,WH3
+ee7485df-f894-4532-88d2-fc7d61838714,Home and lifestyle,2019-03-22,2,Regular Air,0.75,Credit Card,WH3
+522b7242-3efa-408e-87e5-8dc9bf474a4e,Home and lifestyle,2019-03-10,2,Special Air,4.4,Credit Card,WH1
+80674e97-b944-4a68-a7ad-ce7e07f5fc5e,Food and beverages,2019-02-21,4,ExpressAir,7.0,E-wallet,WH1
+326740d4-6d52-4bf7-ac2c-ee64a00f7102,Food and beverages,2019-03-03,10,Special Air,1.04,Cash,WH2
+88f8907a-c26b-47df-811f-f92ff0d2335d,Health and beauty,2019-01-02,3,ExpressAir,5.3,Cash,WH2
+6f3a574f-b7c0-4b29-a504-e12a9f65d2d6,Home and lifestyle,2019-02-03,3,Special Air,4.08,Cash,WH3
+7cb7ebca-3e3d-4118-ba09-35dba3c67e16,Sports and travel,2019-01-20,9,Special Air,2.56,Cash,WH2
+49d7df00-5c36-4067-95c6-c33b58912efb,Health and beauty,2019-01-05,3,Regular Air,4.25,E-wallet,WH1
+02c36471-2d36-4963-ac62-7d188372a4a5,Electronic accessories,2019-01-23,6,ExpressAir,4.6,Credit Card,WH3
+59b77b69-c876-4bc3-83f7-82d714c13513,Electronic accessories,2019-02-15,5,Regular Air,2.55,Credit Card,WH1
+9687e5c3-1414-4b50-965f-84aba0bd4c75,Electronic accessories,2019-03-09,7,ExpressAir,1.9,Cash,WH2
+bbb5220c-ad9f-4c39-9744-048680131f26,Sports and travel,2019-03-15,7,Special Air,5.36,Cash,WH1
+72c0be21-160a-4355-a4bf-75cc639260ad,Fashion accessories,2019-01-28,2,Regular Air,2.5,Cash,WH3
+0e90efb8-5f77-4d6a-bf29-f3d02a6b03a1,Electronic accessories,2019-03-17,2,Special Air,6.8,Cash,WH3
+7b80ac86-6bef-4b6c-a6df-5bbd442a86f9,Electronic accessories,2019-01-18,7,Regular Air,1.4,Credit Card,WH2
+749511d1-3d46-492f-9b0d-c91554764cb0,Health and beauty,2019-03-18,2,Special Air,4.0,E-wallet,WH2
+b11ab56b-2660-451f-b9c9-d476b2557a3b,Fashion accessories,2019-01-03,9,Regular Air,2.25,E-wallet,WH3
+66694e23-37a3-4d16-8a7c-aeea85abe88a,Home and lifestyle,2019-01-18,8,ExpressAir,6.5,Cash,WH3
+eb0a3855-d4e8-4709-b3fa-5d48d1c3c3d5,Food and beverages,2019-02-14,10,Special Air,1.12,Credit Card,WH2
+ea90dfa4-dac3-4d87-8e92-f54b43de2837,Electronic accessories,2019-01-29,8,ExpressAir,4.8,Credit Card,WH3
+d0e7382a-44d0-4616-87b9-20d5ed736950,Home and lifestyle,2019-02-02,7,Special Air,4.0,Cash,WH2
+a867210e-24f3-480f-86de-8ac1ecedbf67,Fashion accessories,2019-03-01,6,ExpressAir,3.5,Credit Card,WH2
+eeebdc5e-2f81-4a6b-ad8f-c95faf2c473a,Fashion accessories,2019-03-29,5,ExpressAir,7.6,Credit Card,WH3
+9eec9be1-06fc-4dce-a838-25c572da8f4e,Food and beverages,2019-01-04,7,Special Air,7.6,E-wallet,WH2
+e880d2b0-778e-4d6f-baf5-708bd0bf3445,Home and lifestyle,2019-01-15,5,ExpressAir,6.2,Cash,WH1
+b452a544-ea42-49bd-9d3a-151450980315,Sports and travel,2019-03-13,7,Special Air,4.88,Credit Card,WH2
+6d2eefdc-b49b-4e1e-9e53-97dd5568de33,Sports and travel,2019-03-17,3,ExpressAir,5.1,Cash,WH3
+e94dbf8f-cadc-4a08-85c7-82fcc3bc3908,Fashion accessories,2019-02-10,6,Special Air,0.96,Credit Card,WH2
+aa8d32f8-3a69-4a0d-9954-ce82dfd72815,Fashion accessories,2019-01-15,1,Regular Air,3.4,E-wallet,WH1
+02cbf146-308f-45da-b5d6-4a2383d436fa,Home and lifestyle,2019-01-27,7,Special Air,3.68,E-wallet,WH1
+89d933ac-6f3a-498a-ba94-6095c7b7f908,Sports and travel,2019-03-15,7,Special Air,5.92,Credit Card,WH1
+6aaeaf8e-2365-4b34-9bf3-b1901f90309b,Fashion accessories,2019-01-19,7,Special Air,1.04,E-wallet,WH1
+246180d1-96f0-4027-a3e6-57daf02034c3,Food and beverages,2019-01-09,1,Special Air,3.44,Credit Card,WH3
+bdffc7f9-e42c-460d-a61d-f9ef5fe4518c,Home and lifestyle,2019-02-12,2,Regular Air,1.6,E-wallet,WH3
+1a7686a8-2cd5-4631-a1a8-3efcdd25ebec,Food and beverages,2019-03-15,8,Regular Air,1.1,Cash,WH3
+e86275ca-5a42-4eb1-8f0e-9b35cd98f630,Sports and travel,2019-02-11,6,Special Air,3.52,E-wallet,WH3
+3f9c3064-593d-4093-918a-8a34296419b7,Health and beauty,2019-02-13,2,Regular Air,2.85,Cash,WH3
+317a1e61-c63c-4fbd-bd7f-a0b93082a8cd,Health and beauty,2019-01-29,3,Regular Air,2.7,Credit Card,WH2
+dbbefcb6-d246-465b-a1ba-e10a05e2bf32,Food and beverages,2019-01-22,6,Regular Air,2.35,Credit Card,WH1
+79495dcc-7ab6-4b4e-a659-56287ff443b9,Fashion accessories,2019-02-25,4,ExpressAir,1.5,E-wallet,WH1
+30ec9efc-2c6d-4c25-a410-585efb1aed88,Food and beverages,2019-03-08,2,Regular Air,1.4,Credit Card,WH2
+128b892a-9ed2-405f-97ef-5bcae1c75cdd,Home and lifestyle,2019-03-09,7,Regular Air,4.75,Cash,WH1
+ce17c2ac-1367-4e6d-8ca4-f9d36776ce46,Health and beauty,2019-01-06,6,Regular Air,2.1,Credit Card,WH1
+5e618ad9-c61f-48d1-ac3c-64b4d95250a3,Sports and travel,2019-01-18,2,ExpressAir,8.2,Credit Card,WH3
+5cbd5cc6-2309-4c44-b298-521f4e79695d,Sports and travel,2019-03-12,1,ExpressAir,2.7,Credit Card,WH1
+6f6e2dd7-9442-4a9f-9965-6defccb2885e,Health and beauty,2019-03-04,8,ExpressAir,3.6,E-wallet,WH2
+8c0788e3-cb4a-4bde-9fb9-e904724358b8,Food and beverages,2019-01-01,2,ExpressAir,3.5,E-wallet,WH3
+2c842524-56f5-4923-ac45-c7f7d68ff997,Food and beverages,2019-03-26,7,Special Air,7.52,Cash,WH3
+f92a58e2-a656-4dc6-9874-e1eebd21b957,Electronic accessories,2019-02-26,1,Regular Air,3.1,Cash,WH2
+d36e4d83-33c6-4b86-9187-c646b433dfd6,Sports and travel,2019-02-18,3,Regular Air,4.85,Credit Card,WH3
+c60a9d8c-c742-49dc-b94b-c6dc49f10340,Health and beauty,2019-01-15,5,Special Air,5.12,Credit Card,WH2
+acfe08fb-3ed8-4d9c-8976-6a998d6abbdc,Electronic accessories,2019-02-13,9,ExpressAir,4.2,E-wallet,WH3
+5c26f5a0-360f-4b5e-95ec-95fe6d760222,Food and beverages,2019-01-20,4,Regular Air,3.9,E-wallet,WH2
+480e1fce-99ce-4e65-a6fa-641a06b1394b,Fashion accessories,2019-03-01,10,Special Air,4.32,E-wallet,WH3
+ae044fb5-492f-47cb-8ab1-dfe885fd7c97,Health and beauty,2019-01-04,3,Special Air,3.12,Credit Card,WH3
+f450ebaf-42fe-404f-89db-43088c77c853,Fashion accessories,2019-02-08,4,ExpressAir,6.3,E-wallet,WH1
+2c7f7373-0d20-41ff-a55b-dce079383d37,Health and beauty,2019-03-22,10,Special Air,4.24,E-wallet,WH1
+c44fd5a0-c9be-4788-bdbd-d14448d44bee,Fashion accessories,2019-02-06,6,Special Air,2.0,Credit Card,WH3
+6d362cf5-0e51-4d39-955c-9e89468cc865,Health and beauty,2019-03-05,7,ExpressAir,7.6,Credit Card,WH1
+49b60fc2-9b14-4167-a6cc-f7f55c9f1954,Home and lifestyle,2019-02-25,2,Regular Air,4.35,Credit Card,WH1
+ffa4ec3a-6497-4eca-bfd0-5024974e1cc4,Electronic accessories,2019-02-07,6,Regular Air,2.4,Cash,WH1
+163b10e9-00fe-4f90-bd1d-2618a365e862,Electronic accessories,2019-01-16,10,ExpressAir,5.5,E-wallet,WH2
+89b5c63c-7b57-44dc-a29a-62990266ee53,Food and beverages,2019-02-14,1,Regular Air,2.5,E-wallet,WH1
+e5358ef0-9112-4c79-9ea0-e6ba09a7ff6c,Home and lifestyle,2019-02-15,9,Regular Air,3.5,Cash,WH3
+b767cfc2-1247-4420-9eb4-70af177e005e,Food and beverages,2019-01-19,5,Regular Air,4.8,Credit Card,WH2
+de67cd4a-a536-4810-80e1-2cf4cd103a48,Electronic accessories,2019-01-14,7,ExpressAir,3.1,Credit Card,WH2
+d42dc6d9-f769-46e6-b4a2-4be97ce1d3e4,Electronic accessories,2019-03-30,3,Regular Air,1.05,Cash,WH3
+b3dcb54d-7b30-4133-b99c-53d48c2a9750,Sports and travel,2019-03-29,7,Special Air,2.64,Cash,WH2
+a3c698cf-8709-421e-a919-cc4069ae7b3d,Sports and travel,2019-03-12,10,ExpressAir,1.2,E-wallet,WH3
+0917dcc5-2cbe-41ce-affd-513923cc9ea0,Electronic accessories,2019-03-09,8,ExpressAir,3.7,Cash,WH3
+46083454-1b50-4fa9-b2b0-5485dec19c99,Electronic accessories,2019-01-18,3,Special Air,6.96,E-wallet,WH2
+6a20da80-5e42-4836-b58b-c70239c1f27e,Sports and travel,2019-01-05,3,Special Air,4.4,Cash,WH2
+4ee81c25-2d68-4a18-85a6-732b6d639ffb,Health and beauty,2019-03-05,9,Regular Air,0.85,E-wallet,WH3
+143e59df-a09b-4c2e-b7a9-9166a43f3fe9,Sports and travel,2019-01-21,1,ExpressAir,9.4,E-wallet,WH3
+49e05575-57be-4113-a977-24306fc42e57,Health and beauty,2019-01-16,5,ExpressAir,9.4,Cash,WH3
+6a2c317f-8c8c-4ea2-81fa-96a5586bfe6b,Food and beverages,2019-03-16,2,Special Air,7.12,E-wallet,WH1
+23768ea4-7cc2-459b-a97b-e51ea83574f8,Home and lifestyle,2019-03-12,1,Special Air,7.2,E-wallet,WH2
+5599bf89-accd-408c-b9e0-94d47dc65740,Home and lifestyle,2019-03-15,6,Regular Air,3.0,Credit Card,WH2
+85638d86-4f9a-4f3e-95ab-2219e09bf49b,Food and beverages,2019-02-11,8,Regular Air,3.05,Credit Card,WH2
+f9a295a6-4a5b-47a2-8118-05f1609a5dd6,Electronic accessories,2019-02-24,1,Special Air,4.88,E-wallet,WH3
+bccd7a6a-fc05-4170-9077-74be2ccec819,Home and lifestyle,2019-01-31,2,Special Air,4.8,Credit Card,WH3
+380dd185-97fe-4122-9435-f1f109ab3f71,Food and beverages,2019-03-20,7,Regular Air,4.75,Credit Card,WH2
+0ccbfe4f-f2c9-4816-8e72-8e94a881c549,Electronic accessories,2019-03-30,6,Regular Air,2.6,Credit Card,WH1
+63b71eb4-3b18-4ec4-8bcd-f2f3d56773ec,Food and beverages,2019-01-31,6,ExpressAir,8.8,Cash,WH3
+0cf8405d-7213-4add-832a-58f3e923f162,Food and beverages,2019-03-02,5,ExpressAir,1.4,Cash,WH2
+15bb3ced-5a6f-4155-ba2a-d1aa612ccf15,Home and lifestyle,2019-02-01,10,ExpressAir,4.7,E-wallet,WH3
+ad25fea4-0470-4ba5-8d98-7faf7bd35009,Health and beauty,2019-02-14,6,ExpressAir,9.3,Cash,WH1
+fb698a54-4995-4aec-b08f-7c9581141ebd,Home and lifestyle,2019-01-20,7,Special Air,4.72,Credit Card,WH1
+d4b86457-07cb-4f42-9371-3d357bb244b2,Electronic accessories,2019-01-12,8,Regular Air,2.3,E-wallet,WH1
+8e464a03-743d-47d4-8bbe-9bf203e42efc,Food and beverages,2019-01-21,5,Special Air,5.2,Cash,WH2
+ef442309-8699-47c6-96e8-af31cc332d59,Sports and travel,2019-03-05,5,ExpressAir,3.6,E-wallet,WH3
+005b371a-6635-4e8c-bddc-1a75b35ed82f,Fashion accessories,2019-02-11,8,Regular Air,2.6,E-wallet,WH1
+01f4085b-ef96-45a6-9056-fff6ac50357f,Food and beverages,2019-01-20,9,ExpressAir,4.6,Cash,WH1
+02300d0c-d848-466e-9c13-76adc6a83519,Sports and travel,2019-01-03,4,Regular Air,4.05,Cash,WH3
+41accc14-a6a5-42a4-8a43-908124ced17a,Home and lifestyle,2019-02-10,8,ExpressAir,1.4,E-wallet,WH1
+ddb570b6-43cf-47e3-bcd6-929fd22f57cd,Fashion accessories,2019-01-10,8,ExpressAir,5.6,E-wallet,WH3
+12781209-44b7-4182-88dc-c017c52c63cc,Electronic accessories,2019-03-27,3,Regular Air,2.05,Cash,WH2
+36e3af73-528e-40fb-82ff-0f157ffa30fe,Home and lifestyle,2019-03-23,8,Special Air,7.76,Credit Card,WH2
+ffa261ae-b235-4826-b860-e76ad0a9c0a4,Health and beauty,2019-01-27,10,Regular Air,2.05,Cash,WH3
+1f9bf780-b29e-4ace-a86a-c780fde0d598,Food and beverages,2019-01-05,1,Special Air,7.52,Credit Card,WH2
+f7756870-e732-4df1-88a2-a23e51a2329e,Fashion accessories,2019-02-07,4,Regular Air,2.05,Credit Card,WH3
+2dd10420-407a-470b-821a-602192e08d65,Fashion accessories,2019-01-03,9,Regular Air,4.7,Credit Card,WH1
+1fe8624e-355e-4edf-9259-b3d2fbfbe19a,Food and beverages,2019-02-26,2,Special Air,4.08,Credit Card,WH3
+00a7c86d-e6e0-42d7-b1b6-361cca6a36a2,Home and lifestyle,2019-03-15,6,Regular Air,1.65,E-wallet,WH3
+74295e65-d00f-46e0-92d6-4d70b3a20de1,Health and beauty,2019-03-04,9,Regular Air,4.3,Cash,WH2
+5fb8886b-ece1-49f5-bcdb-03f258f961b9,Fashion accessories,2019-02-09,6,Regular Air,3.7,E-wallet,WH2
+5bd73d85-7446-4039-99b2-8507c72d7b8f,Fashion accessories,2019-03-21,4,Special Air,7.76,Credit Card,WH3
+e3ceb7c9-cd10-484e-bd38-087cd69af630,Electronic accessories,2019-01-03,5,Regular Air,2.7,Cash,WH2
+010f3989-ea24-4e5f-bfab-fee4fae603d1,Electronic accessories,2019-03-23,4,Special Air,7.92,Credit Card,WH2
+f88b81c3-2fca-4085-b930-6e23a06e7afd,Sports and travel,2019-02-16,3,Regular Air,3.7,Cash,WH3
+2bb100fc-e159-4fda-acca-b4e32c902e4a,Food and beverages,2019-02-03,3,Special Air,5.92,Cash,WH2
+ccc4ad66-4fab-4d3c-b316-70bd13399bfd,Electronic accessories,2019-02-20,1,Special Air,1.04,Cash,WH3
+de9c884e-779e-4ddf-b67c-be0ec6b7069a,Health and beauty,2019-01-30,1,Special Air,7.6,Credit Card,WH1
+c0830278-3c73-458c-bed0-a362f380c852,Fashion accessories,2019-03-16,6,Special Air,6.08,Cash,WH3
+08a3ebda-a44c-41ac-ace4-f46d637ca81a,Food and beverages,2019-01-23,2,ExpressAir,6.2,Credit Card,WH3
+68a66364-ee7f-41bf-8ab4-534210c5364e,Sports and travel,2019-03-04,7,Special Air,4.16,E-wallet,WH1
+5df178bd-d742-4029-a747-ffdb28ac5f74,Fashion accessories,2019-02-12,6,Regular Air,2.4,E-wallet,WH3
+dd5ae4f4-9ce3-4dfe-812b-764841fc64b5,Food and beverages,2019-03-14,6,ExpressAir,5.4,Credit Card,WH2
+07d77057-3d2e-499c-bc56-ca8b7cdafb1d,Health and beauty,2019-02-14,2,ExpressAir,7.0,Credit Card,WH1
+a2cfeb60-7eb4-4e91-8223-d1d51415ed19,Fashion accessories,2019-03-17,8,Special Air,7.28,Credit Card,WH3
+46ee1e28-e5bf-4110-8281-bcb0d2c850dd,Electronic accessories,2019-03-17,5,Regular Air,4.95,Credit Card,WH2
+78a17b79-dc6b-4dc9-b6cd-76bc233eff83,Electronic accessories,2019-01-15,8,ExpressAir,9.2,Credit Card,WH3
+49f3876b-6dad-4d8f-bed8-8819641fda58,Food and beverages,2019-03-15,2,Special Air,5.28,Cash,WH1
+248fbff6-7cfe-4dcd-920b-ad5aea625e9f,Sports and travel,2019-01-28,6,ExpressAir,9.8,Cash,WH3
+e451e244-5ffd-4a3b-9a64-580e4d3b72a9,Sports and travel,2019-02-26,3,ExpressAir,2.7,Credit Card,WH1
+752019d3-12fe-4a62-beb1-24e91b3ff816,Sports and travel,2019-01-27,9,ExpressAir,3.6,Credit Card,WH3
+1ea62b3b-9b81-4267-a678-bec45da4aab3,Home and lifestyle,2019-03-14,7,ExpressAir,7.7,E-wallet,WH1
+8e6db4ad-6b46-468f-bba2-e7de6c0b0e81,Fashion accessories,2019-02-10,8,Regular Air,0.9,Cash,WH1
+4d9f4fd7-fa26-422c-a857-c9e6b6e6269b,Fashion accessories,2019-03-07,2,Special Air,4.24,E-wallet,WH1
+44454fa5-694b-4b23-a246-d4f9770dcf12,Fashion accessories,2019-01-24,9,Special Air,7.76,Credit Card,WH3
+086466a4-0c5b-46f3-810d-5bdc54e5461c,Home and lifestyle,2019-02-12,8,Special Air,3.28,Credit Card,WH3
+d71416a8-8cb2-4ad9-b4ab-d4856da048da,Fashion accessories,2019-02-05,10,ExpressAir,3.3,E-wallet,WH3
+52b8a166-ad26-45c6-9285-464634018702,Home and lifestyle,2019-02-01,5,ExpressAir,1.7,Credit Card,WH3
+d9ef2a35-e366-45f8-84cc-81ec3303f308,Sports and travel,2019-03-09,5,ExpressAir,4.1,Credit Card,WH3
+5dd34548-3a12-4122-8b34-77c04cdbb5c4,Home and lifestyle,2019-02-11,8,ExpressAir,8.2,E-wallet,WH1
+682b9e7c-10cc-4c5a-bf22-6ec4ca44a569,Home and lifestyle,2019-03-11,2,Regular Air,3.1,E-wallet,WH1
+256096f3-78ae-43d9-a714-c18ecbd3b5a4,Sports and travel,2019-02-28,4,Regular Air,4.95,Credit Card,WH3
+99075c09-d878-48cf-af9b-a3b38f140e7a,Health and beauty,2019-03-10,10,Regular Air,0.55,Credit Card,WH2
+b9159e2c-9f34-4bb0-9559-cac18d346ec8,Fashion accessories,2019-03-08,1,ExpressAir,3.7,E-wallet,WH3
+2118d3bd-b323-45f7-94b8-931067cfe324,Health and beauty,2019-03-23,10,Special Air,1.12,Cash,WH2
+cfc2d99a-b48a-46f1-a350-3ee91e457cd8,Home and lifestyle,2019-02-10,2,ExpressAir,7.7,E-wallet,WH3
+17f99992-8df0-4ffe-8c38-41400fd4b01d,Food and beverages,2019-01-22,4,Special Air,3.76,Credit Card,WH3
+75abd64a-62f2-4465-932b-e13bcb700bd3,Home and lifestyle,2019-03-12,2,Special Air,2.24,Cash,WH3
+7e2b9bc8-3a49-4932-ad1d-50fb07aa8279,Electronic accessories,2019-01-17,6,ExpressAir,9.5,Cash,WH1
+b3461361-a932-41fb-8407-0707050879d6,Home and lifestyle,2019-03-06,3,Regular Air,2.3,Cash,WH1
+1faf1600-26a6-4133-b8cd-655a73bac040,Home and lifestyle,2019-03-03,8,Regular Air,0.85,Credit Card,WH1
+1b2f6945-f078-406e-80f0-34d6efc5c2dd,Fashion accessories,2019-02-16,6,ExpressAir,3.7,E-wallet,WH1
+a1f360b1-6388-49fe-b078-313d7dc05a16,Home and lifestyle,2019-02-20,10,Special Air,6.56,Credit Card,WH2
+cdf4c3e9-20d6-4ba0-838a-ae20564e7b75,Food and beverages,2019-02-10,9,Special Air,1.6,Cash,WH1
+ac9b4412-f475-412b-bc67-bd1957a67817,Sports and travel,2019-01-01,1,Regular Air,4.55,E-wallet,WH1
+94ab13ca-92eb-4e4e-acfa-9c33afd6375b,Sports and travel,2019-02-05,4,Special Air,5.84,E-wallet,WH1
+5ff5b473-6afd-4eb1-8663-2a8103be3768,Fashion accessories,2019-03-15,3,Regular Air,1.2,Credit Card,WH2
+6ea0a1fd-f0ef-47bd-86d0-96ae773f12a8,Sports and travel,2019-02-21,3,ExpressAir,2.2,E-wallet,WH3
+954bf95d-373d-46a2-a8ae-c5dc8cb879c7,Sports and travel,2019-01-24,4,ExpressAir,7.1,Credit Card,WH2
+bd875935-9ac4-4118-a1b5-a03c98157762,Sports and travel,2019-01-26,6,Special Air,7.6,Credit Card,WH2
+d8199b15-c929-447b-b9d3-2f412ba56df0,Food and beverages,2019-03-28,7,Regular Air,4.85,Cash,WH3
+ce633728-7ec3-4077-ae83-25823a36613a,Health and beauty,2019-01-03,5,Special Air,3.76,Credit Card,WH1
+a948359e-e757-4a55-87e1-de5ddb7e6cd1,Electronic accessories,2019-01-07,9,ExpressAir,8.4,Cash,WH3
+5b7e057b-0e96-4f7f-8aec-23f270d9fa1b,Sports and travel,2019-02-26,6,ExpressAir,8.2,Credit Card,WH2
+7206b204-b5c7-4aea-bfa8-d1ba4eb14ad6,Electronic accessories,2019-02-27,5,Special Air,4.08,Credit Card,WH2
+1271bed2-2a65-4fb6-bb4c-df5e74144689,Food and beverages,2019-01-19,10,ExpressAir,9.2,Credit Card,WH3
+ae74bbe0-7a99-4e80-b05c-14919f3612fd,Health and beauty,2019-01-01,8,Regular Air,2.2,Credit Card,WH1
+819536c7-e43a-4538-8b17-1fca87c9c4da,Food and beverages,2019-01-19,5,Regular Air,4.95,E-wallet,WH1
+4e9fae4d-6d0c-4e80-a285-e6bc833e1d48,Health and beauty,2019-03-01,7,ExpressAir,7.9,E-wallet,WH2
+a8d6a78c-cc80-4b73-9942-35cd750edc38,Electronic accessories,2019-03-28,8,Special Air,3.52,Credit Card,WH1
+606cec50-6fd0-40f5-9177-fcadfc2fcad9,Sports and travel,2019-01-13,10,Special Air,4.0,Cash,WH1
+fbcc19c5-a830-4d5c-b5ef-1c66502524b1,Health and beauty,2019-02-27,8,Regular Air,4.0,Credit Card,WH1
+74728e4b-92d6-45dc-997b-9ffdb23dde35,Fashion accessories,2019-02-03,2,Special Air,6.48,Credit Card,WH3
+1fcb0dd1-c13f-4e59-924b-f4ef7b242949,Food and beverages,2019-01-04,1,ExpressAir,4.3,Cash,WH2
+a959c9dd-fd7c-46f1-86fa-211dc101ac15,Electronic accessories,2019-01-12,6,Regular Air,3.0,E-wallet,WH1
+38fcdb6c-fd22-4da3-8ac6-786335f0f566,Electronic accessories,2019-03-24,1,Regular Air,3.4,E-wallet,WH3
+dd8e87cb-6ede-493f-848d-d26a05254c76,Fashion accessories,2019-01-28,7,Special Air,1.92,Credit Card,WH3
+c7fbf851-1290-483f-b804-33a217638835,Food and beverages,2019-01-15,6,Regular Air,2.8,E-wallet,WH3
+6b1309d5-e566-444d-abf9-c7b10ed95b8f,Fashion accessories,2019-01-03,3,Regular Air,1.25,Credit Card,WH2
+e71024c6-7c32-4825-b0d3-1b2be43b0a57,Food and beverages,2019-02-21,2,ExpressAir,7.3,E-wallet,WH2
+dba2a3bb-4aa7-418b-871f-ba0254ceba1a,Electronic accessories,2019-02-28,9,ExpressAir,4.7,Credit Card,WH2
+020c668b-66fd-4dec-8c13-bc607e34efc4,Food and beverages,2019-02-20,1,ExpressAir,7.6,Cash,WH2
+88092a3f-da95-4c34-970a-11e41d099b69,Fashion accessories,2019-03-08,8,Special Air,6.48,Credit Card,WH3
+34eefb98-3f55-4076-aadb-e0609cb7983c,Home and lifestyle,2019-03-13,1,Special Air,1.44,Credit Card,WH2
+4efdef0d-51e3-4bc2-9062-65cda2310d4f,Food and beverages,2019-01-23,9,Special Air,5.6,Cash,WH3
+7fb4cc1a-5bc1-406d-a73f-ef326f2e2888,Sports and travel,2019-01-28,10,ExpressAir,4.6,Credit Card,WH1
+e33e0eab-65de-420f-8f7d-2ecd533d67f5,Sports and travel,2019-02-17,6,ExpressAir,6.1,E-wallet,WH3
+fe8e0a03-cc62-4808-b92f-e50a8428da2b,Food and beverages,2019-01-28,4,Special Air,5.84,Credit Card,WH1
+55cd2249-4215-4bf9-bfa0-4af0988ddcb6,Fashion accessories,2019-03-01,7,Regular Air,0.9,Cash,WH1
+255d28b2-507d-4bc4-8880-4cbc0b57a248,Health and beauty,2019-03-18,5,ExpressAir,9.6,E-wallet,WH3
+24d2f39e-bc7f-4655-b968-c70a05fe79ee,Health and beauty,2019-03-10,6,Special Air,1.2,E-wallet,WH2
+42e7f0aa-2fd5-492c-8c4f-8240338506d8,Electronic accessories,2019-01-14,5,ExpressAir,9.1,E-wallet,WH3
+b74dbf8d-ec1d-4921-8b57-82cf87ca3d92,Food and beverages,2019-01-10,8,Special Air,4.4,Cash,WH3
+d6f6a1c5-ed26-4c80-9a39-ac3f5d0d44f4,Electronic accessories,2019-01-09,9,Regular Air,1.9,Cash,WH3
+e31df554-a81b-4f44-9bdc-7b3257b3873f,Food and beverages,2019-03-19,7,Special Air,4.24,Cash,WH1
+566a8443-4161-414c-9137-9eee34fa5663,Food and beverages,2019-02-10,9,Special Air,4.96,E-wallet,WH1
+3287eb2e-ec93-4f38-ba3e-98309c6423ef,Home and lifestyle,2019-01-22,10,ExpressAir,1.0,Credit Card,WH2
+441bdd60-b118-4278-82c8-ebfc849fe7c9,Sports and travel,2019-01-07,3,Regular Air,2.0,Credit Card,WH3
+9b0744db-2808-4176-b371-9ffe6befa98a,Fashion accessories,2019-01-21,10,Regular Air,1.95,E-wallet,WH1
+38dd7c90-e976-4179-bb8b-a9d6b46a7db4,Health and beauty,2019-03-21,8,Regular Air,2.3,Cash,WH2
+e7bbfb1e-30dc-4811-9b87-38ad048dc9a2,Health and beauty,2019-02-06,5,Special Air,0.88,E-wallet,WH3
+f407dd1e-0ab0-44bd-a3e7-0290bbecf4e8,Fashion accessories,2019-03-25,1,Regular Air,0.65,E-wallet,WH1
+76245425-701d-40a9-bc8c-d28c16be7583,Sports and travel,2019-02-22,8,ExpressAir,2.8,E-wallet,WH2
+cdb3f191-f2cd-4542-ba6b-3f0be324037a,Electronic accessories,2019-01-05,6,Special Air,2.24,Cash,WH3
+b5e4034b-db36-4644-9d85-87dabadc5d12,Sports and travel,2019-01-01,10,Regular Air,2.25,Credit Card,WH1
+7e20b36c-87d8-4d49-9b1b-f7ecc6f88c57,Fashion accessories,2019-02-27,6,Special Air,4.4,E-wallet,WH2
+739cbf14-62ef-4844-81f0-35cc8e451885,Food and beverages,2019-01-29,2,ExpressAir,1.0,Cash,WH3
+6ca2dc57-ef76-4747-b3a0-09f49953aac8,Home and lifestyle,2019-02-28,1,Special Air,5.28,Credit Card,WH2
+d8ba48ce-0576-4891-b6f2-174a360613d1,Health and beauty,2019-02-05,9,ExpressAir,9.6,Credit Card,WH2
+730c6a81-6e59-4d46-ad7f-44aa1589ca31,Sports and travel,2019-03-29,8,Special Air,1.92,Cash,WH1
+3acc739a-c3d5-48cd-8ae0-675684379a55,Fashion accessories,2019-01-01,8,Regular Air,4.5,Credit Card,WH1
+122fa0af-7fea-4200-8d7f-d26fea9e9029,Home and lifestyle,2019-01-30,1,Special Air,6.72,Credit Card,WH2
+f04dafa2-e565-4f5b-b068-c2320e7564bb,Health and beauty,2019-03-06,5,ExpressAir,7.7,E-wallet,WH1
+df9b687b-ff7e-4545-b74f-37f33b0ba990,Food and beverages,2019-02-22,7,Regular Air,3.45,Credit Card,WH3
+8bfb7baa-0f93-4b5e-a0ef-52361a913b25,Home and lifestyle,2019-02-24,2,Special Air,6.16,Credit Card,WH1
+fbddcbb7-5b5c-45c2-8e9d-2f43605aad0a,Home and lifestyle,2019-01-26,6,Regular Air,2.35,Credit Card,WH1
+ceb2ec00-aa64-4e19-b207-af50b012bc23,Health and beauty,2019-02-15,9,Special Air,7.44,Credit Card,WH2
+63220f52-c9bd-4a4a-95dc-d7dd7dbb9100,Health and beauty,2019-01-26,5,ExpressAir,9.8,Credit Card,WH2
+907b6373-4907-4d21-a9fd-d68b8137d1ba,Health and beauty,2019-03-02,2,Special Air,2.4,Cash,WH2
+504049c4-1ff8-4aa7-b44c-b885588f34a0,Electronic accessories,2019-03-11,10,Regular Air,3.4,Credit Card,WH3
+4556e42d-74d1-4cce-86db-93743ff97814,Sports and travel,2019-03-01,3,Regular Air,2.45,E-wallet,WH3
+0f656181-e088-4b8e-a77d-cc73c9f17a8d,Sports and travel,2019-01-28,7,Special Air,6.88,E-wallet,WH2
+b5508ac8-c92a-4e3e-97c1-5ec8269d1145,Food and beverages,2019-02-27,4,Regular Air,4.3,Cash,WH3
+3db97584-831d-439b-b827-de22b7d63dac,Electronic accessories,2019-01-01,1,ExpressAir,4.0,Credit Card,WH2
+91be8e21-c90a-427e-ae2c-76e3503b1508,Health and beauty,2019-03-28,3,ExpressAir,6.4,Credit Card,WH2
+4d1242f0-1bc8-4ed5-9d1c-03d51e8f82bf,Electronic accessories,2019-01-27,6,Special Air,3.76,E-wallet,WH2
+66cfea46-d73b-41de-8231-087863967957,Fashion accessories,2019-02-08,2,Regular Air,0.75,Cash,WH2
+11d47a60-97a1-4983-ba7b-fd014f96d835,Electronic accessories,2019-02-04,7,ExpressAir,9.1,Cash,WH3
+b33fbb5e-fdeb-4d58-9170-b47a59c8a83f,Home and lifestyle,2019-02-16,5,Special Air,1.04,Credit Card,WH3
+71b65404-41e3-43f9-90d8-2cf8798e7d43,Home and lifestyle,2019-01-21,9,Special Air,5.2,Cash,WH1
+eac4ce79-59c2-4313-a16d-8e34ef418207,Sports and travel,2019-03-09,3,Special Air,6.88,E-wallet,WH3
+236b0f47-c0bf-4186-a64c-8c8a21a8049d,Electronic accessories,2019-03-06,9,Regular Air,2.25,Cash,WH3
+8fcb7115-d8d4-4362-8b47-9b203b2e5c60,Electronic accessories,2019-02-15,7,Special Air,5.28,E-wallet,WH3
+2012e253-1e95-4502-b29d-a3475986dc89,Electronic accessories,2019-02-10,2,Special Air,6.32,E-wallet,WH2
+d04a1f78-8742-4217-815d-dec8d1c3fe95,Fashion accessories,2019-01-07,9,ExpressAir,5.4,E-wallet,WH2
+b53f0327-2ee2-4a6f-bc8b-8001b046b261,Food and beverages,2019-02-02,3,ExpressAir,2.3,Credit Card,WH1
+f074f447-a031-4df4-a2f9-2c5e4d75bea6,Electronic accessories,2019-01-18,1,Special Air,7.2,Credit Card,WH1
+7ece32eb-52a5-4e86-a63c-47387c181363,Health and beauty,2019-02-07,4,Special Air,6.56,Cash,WH2
+1544a72d-021c-4f71-83e4-6cb50c6f1560,Electronic accessories,2019-03-15,6,Regular Air,1.1,E-wallet,WH2
+3cc93b92-b2f8-4225-bbfe-3e02c9941c73,Electronic accessories,2019-03-06,6,Regular Air,2.35,E-wallet,WH3
+aa39f311-78e4-4cfd-8a72-f7ec763aa043,Food and beverages,2019-03-22,9,Regular Air,0.7,Credit Card,WH3
+052dc845-fe97-4dfb-abff-4e3df73619c0,Health and beauty,2019-03-15,9,Special Air,1.12,Cash,WH1
+f157c09b-07f9-4c4a-a80c-06f9ddb7d3a7,Fashion accessories,2019-03-02,9,Special Air,5.6,Credit Card,WH1
+c1b1b01e-bf63-4f0b-86bb-798416e6062f,Sports and travel,2019-02-16,7,Regular Air,2.7,Credit Card,WH2
+a071aad5-bf5e-4852-8dbe-50fea966c451,Sports and travel,2019-03-26,2,Special Air,4.08,Cash,WH2
+41b48edf-3ff1-41b7-8617-e8dca2bb4dea,Sports and travel,2019-03-20,2,Regular Air,3.6,E-wallet,WH2
+24a0cb87-2cf5-4390-8183-a5dc54b8a96b,Electronic accessories,2019-03-25,9,Special Air,4.8,Credit Card,WH3
+a039014b-1a59-4f8a-ba41-aec6c109327f,Food and beverages,2019-01-01,9,Special Air,3.52,E-wallet,WH2
+dc53c692-b60a-4656-b69a-b6322b72eb1d,Electronic accessories,2019-03-12,5,Special Air,1.92,E-wallet,WH3
+7a73ae20-5a8a-4549-9ad9-ca8108c56e9f,Health and beauty,2019-02-01,5,ExpressAir,8.7,Cash,WH2
+bc3507b4-15ac-4413-bac1-f59df051af6b,Fashion accessories,2019-03-28,9,Regular Air,1.9,Cash,WH2
+bdd13255-e716-4973-bd6f-7929dae21ef8,Electronic accessories,2019-03-25,4,ExpressAir,8.1,E-wallet,WH2
+e889dc68-5159-4a40-affc-7462cc0e16e8,Electronic accessories,2019-03-11,10,Regular Air,1.05,Cash,WH1
+b5a7e51e-a43e-4313-9b82-e51d64cf92bd,Home and lifestyle,2019-03-09,4,ExpressAir,3.4,Credit Card,WH1
+0ab538f1-7431-47aa-ba86-a0e829712186,Electronic accessories,2019-01-15,8,Regular Air,4.9,Cash,WH1
+6aacaa26-a6b6-4848-8479-26ac84e47753,Electronic accessories,2019-03-28,6,Regular Air,0.65,Cash,WH1
